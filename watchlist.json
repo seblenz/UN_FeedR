@@ -1,0 +1,23 @@
+{
+  "_comment": [
+    "This file lists what UN_FeedR watches for. Real JSON has no comment syntax,",
+    "so this '_comment' field is just documentation -- the script ignores it.",
+    "",
+    "keywords: plain words or phrases. Matching is case-insensitive and whole-word,",
+    "so 'AI' won't accidentally match inside a word like 'faIled'.",
+    "",
+    "resolutions: UN resolution symbols, e.g. 'A/RES/79/325'. The script automatically",
+    "also matches common variants people actually use, like 'resolution 79/325' or",
+    "'79325 (2025)', without you needing to list every variant yourself.",
+    "",
+    "Add or remove entries whenever you like. Each entry gets its own RSS feed at",
+    "feeds/<slug-of-term>.xml, and everything also appears together in feeds/all.xml."
+  ],
+  "keywords": [
+    "artificial intelligence",
+    "artificial intelligence capacity building"
+  ],
+  "resolutions": [
+    "A/RES/79/325"
+  ]
+}

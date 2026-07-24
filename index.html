@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>UN_FeedR</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #ffffff;
+      --fg: #1a1a1a;
+      --muted: #666666;
+      --border: #dddddd;
+      --card-bg: #f7f7f7;
+      --badge-keyword: #1a5fb4;
+      --badge-resolution: #9a6b00;
+      --link: #1a5fb4;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #14171a;
+        --fg: #e8e8e8;
+        --muted: #9a9a9a;
+        --border: #333333;
+        --card-bg: #1e2226;
+        --badge-keyword: #6ea8fe;
+        --badge-resolution: #e0b34d;
+        --link: #6ea8fe;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 0 1rem 3rem;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.5;
+    }
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+    header {
+      max-width: 720px;
+      margin: 0 auto;
+      padding-top: 2rem;
+    }
+    h1 { margin-bottom: 0.25rem; }
+    .tagline { color: var(--muted); margin-top: 0; }
+    .muted { color: var(--muted); font-size: 0.9rem; }
+    h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.4rem; margin-top: 2.5rem; }
+    ul.feed-list { list-style: none; padding: 0; margin: 0; }
+    .feed-row {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.75rem 0;
+      border-bottom: 1px solid var(--border);
+      flex-wrap: wrap;
+    }
+    .feed-row .term-name { flex: 1 1 auto; font-weight: 600; min-width: 200px; }
+    .badge {
+      display: inline-block;
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+      padding: 0.1rem 0.5rem;
+      border-radius: 1rem;
+      color: #fff;
+      margin-left: 0.5rem;
+    }
+    .badge.keyword { background: var(--badge-keyword); }
+    .badge.resolution { background: var(--badge-resolution); }
+    .badge.combined { background: var(--muted); }
+    button.copy-btn {
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--card-bg);
+      color: var(--fg);
+      padding: 0.35rem 0.75rem;
+      border-radius: 0.4rem;
+      font-size: 0.85rem;
+    }
+    button.copy-btn:hover { opacity: 0.85; }
+    .match-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 0.5rem;
+      padding: 1rem;
+      margin-bottom: 0.9rem;
+    }
+    .match-card a.match-title {
+      font-weight: 600;
+      text-decoration: none;
+      color: var(--link);
+    }
+    .match-card a.match-title:hover { text-decoration: underline; }
+    .match-meta { color: var(--muted); font-size: 0.85rem; margin: 0.25rem 0 0.5rem; }
+    .match-snippet { margin: 0; font-style: italic; }
+    footer { max-width: 720px; margin: 3rem auto 0; }
+    a { color: var(--link); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>UN_FeedR</h1>
+    <p class="tagline">RSS alerts when your watchlist terms appear in new UN meeting transcripts.</p>
+    <p id="last-updated" class="muted">Loading…</p>
+  </header>
+
+  <main>
+    <section id="watchlist-section">
+      <h2>Feeds</h2>
+      <ul id="watchlist-list" class="feed-list"></ul>
+    </section>
+
+    <section id="matches-section">
+      <h2>Recent matches</h2>
+      <div id="matches-list"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p class="muted">
+      Source: <a href="https://transcripts.un.org/openapi" target="_blank" rel="noopener">UN Transcripts API</a>.
+      Transcripts are automatically generated and are not official UN records.
+    </p>
+  </footer>
+
+  <script>
+    function slugify(term) {
+      return term
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-+|-+$/g, "");
+    }
+
+    function feedUrl(slug) {
+      return new URL(`feeds/${slug}.xml`, document.baseURI).href;
+    }
+
+    function escapeHtml(str) {
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function copyToClipboard(text, button) {
+      const done = () => {
+        const original = button.textContent;
+        button.textContent = "Copied!";
+        setTimeout(() => { button.textContent = original; }, 1500);
+      };
+      if (navigator.clipboard && window.isSecureContext) {
+        navigator.clipboard.writeText(text).then(done).catch(() => fallbackCopy(text, done));
+      } else {
+        fallbackCopy(text, done);
+      }
+    }
+
+    function fallbackCopy(text, done) {
+      const textarea = document.createElement("textarea");
+      textarea.value = text;
+      textarea.style.position = "fixed";
+      textarea.style.opacity = "0";
+      document.body.appendChild(textarea);
+      textarea.select();
+      try { document.execCommand("copy"); done(); } catch (err) { /* ignore */ }
+      document.body.removeChild(textarea);
+    }
+
+    function renderWatchlist(watchlist) {
+      const list = document.getElementById("watchlist-list");
+      list.innerHTML = "";
+
+      const entries = [{ term: "All matches", type: "combined", slug: "all" }];
+      for (const term of watchlist.keywords || []) {
+        entries.push({ term, type: "keyword", slug: slugify(term) });
+      }
+      for (const term of watchlist.resolutions || []) {
+        entries.push({ term, type: "resolution", slug: slugify(term) });
+      }
+
+      for (const entry of entries) {
+        const url = feedUrl(entry.slug);
+        const li = document.createElement("li");
+        li.className = "feed-row";
+        li.innerHTML = `
+          <span class="term-name">${escapeHtml(entry.term)}<span class="badge ${entry.type}">${entry.type}</span></span>
+          <code>${escapeHtml(url)}</code>
+          <button class="copy-btn" type="button">Copy feed URL</button>
+        `;
+        li.querySelector("button").addEventListener("click", (e) => copyToClipboard(url, e.target));
+        list.appendChild(li);
+      }
+    }
+
+    function renderMatches(data) {
+      const container = document.getElementById("matches-list");
+      const lastUpdated = document.getElementById("last-updated");
+
+      if (!data || !Array.isArray(data.matches) || data.matches.length === 0) {
+        container.innerHTML = '<p class="muted">No matches yet. Check back after the next feed update.</p>';
+        return;
+      }
+
+      lastUpdated.textContent = "Last updated: " + new Date(data.generatedAt).toLocaleString();
+
+      container.innerHTML = "";
+      for (const match of data.matches) {
+        const card = document.createElement("div");
+        card.className = "match-card";
+        const dateStr = new Date(match.date).toLocaleDateString();
+        card.innerHTML = `
+          <a class="match-title" href="${escapeHtml(match.link)}" target="_blank" rel="noopener">${escapeHtml(match.title)}</a>
+          <span class="badge ${match.termType}">${escapeHtml(match.term)}</span>
+          <p class="match-meta">${escapeHtml(match.body || "UN Web TV")} · ${dateStr}</p>
+          <p class="match-snippet">${escapeHtml(match.snippet)}</p>
+        `;
+        container.appendChild(card);
+      }
+    }
+
+    async function init() {
+      try {
+        const watchlistRes = await fetch("watchlist.json");
+        renderWatchlist(await watchlistRes.json());
+      } catch (err) {
+        document.getElementById("watchlist-list").innerHTML =
+          '<li class="muted">Could not load watchlist.json.</li>';
+      }
+
+      const lastUpdated = document.getElementById("last-updated");
+      try {
+        const matchesRes = await fetch("data/matches.json");
+        if (!matchesRes.ok) throw new Error("not found");
+        renderMatches(await matchesRes.json());
+      } catch (err) {
+        lastUpdated.textContent = "No feed data yet — the first automated run hasn't completed.";
+        document.getElementById("matches-list").innerHTML =
+          '<p class="muted">No matches yet. Check back after the next feed update.</p>';
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>

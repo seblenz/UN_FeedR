@@ -3,7 +3,16 @@ name: Update Feeds
 on:
   schedule:
     - cron: "0 */6 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Backfill mode: write to Supabase only, don't touch feeds/state (1 = on)"
+        required: false
+        default: ""
+      lookback_days:
+        description: "Override LOOKBACK_DAYS for this run (blank = default of 14)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -28,6 +37,8 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          BACKFILL: ${{ github.event.inputs.backfill }}
+          LOOKBACK_DAYS: ${{ github.event.inputs.lookback_days }}
         run: node scripts/build-feeds.mjs
 
       - name: Commit and push if changed

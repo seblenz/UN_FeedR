@@ -8,6 +8,7 @@
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { upsertTranscript, upsertStatements } from "./supabase.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -18,6 +19,7 @@ const USER_AGENT =
   "UN_FeedR/1.0 (+https://github.com/seblenz/UN_FeedR; personal RSS watchlist bot)";
 
 const LOOKBACK_DAYS = Number(process.env.LOOKBACK_DAYS || 14);
+const BACKFILL = process.env.BACKFILL === "1";
 const REQUEST_DELAY_MS = 400;
 const MAX_RETRIES = 3;
 const FEED_ITEM_CAP = 100;
@@ -277,6 +279,26 @@ function searchTranscript(transcript, matchers) {
   return hits;
 }
 
+// ---------- database (additive; never blocks feed writing) ----------
+
+async function writeTranscriptToDb(meeting, transcript) {
+  const statements = transcript.data.map((statement, index) => ({
+    position: index,
+    speaker: statement.speaker?.name ?? null,
+    text: statementWords(statement).join(" "),
+    pageUrl: new URL(statement.pageUrl, API_BASE).toString(),
+  }));
+
+  await upsertTranscript({
+    id: meeting.slug,
+    title: meeting.title || "(untitled meeting)",
+    date: meeting.date,
+    body: meeting.body,
+    pageUrl: new URL(meeting.pageUrl, API_BASE).toString(),
+  });
+  await upsertStatements(meeting.slug, statements);
+}
+
 // ---------- RSS ----------
 
 function rfc822(dateIso) {
@@ -336,6 +358,30 @@ async function run() {
   const meetings = await fetchMeetings(fromStr, toStr);
   console.log(`Found ${meetings.length} meetings with transcripts in range.`);
 
+  if (BACKFILL) {
+    console.log(
+      "BACKFILL mode: writing every meeting in range to Supabase only. " +
+        "state.json, data/matches.json, and feeds/ will not be touched."
+    );
+    let dbCount = 0;
+    for (const meeting of meetings) {
+      let detail;
+      try {
+        detail = await fetchMeetingDetail(meeting);
+      } catch (err) {
+        throw new Error(`Failed to fetch transcript for ${meeting.slug}: ${err.message}`);
+      }
+      if (!detail.transcript || !Array.isArray(detail.transcript.data)) {
+        console.log(`Skipping ${meeting.slug}: transcript not yet complete.`);
+        continue;
+      }
+      await writeTranscriptToDb(meeting, detail.transcript);
+      dbCount += 1;
+    }
+    console.log(`Backfill complete. Wrote ${dbCount} transcript(s) to Supabase.`);
+    return;
+  }
+
   const newMeetings = meetings.filter((m) => !processedIds.has(m.slug));
   console.log(`${newMeetings.length} are new (not yet processed).`);
 
@@ -363,6 +409,8 @@ async function run() {
 
     processedIds.add(meeting.slug);
     processedCount += 1;
+
+    await writeTranscriptToDb(meeting, detail.transcript);
 
     const hits = searchTranscript(detail.transcript, matchers);
     for (const hit of hits) {

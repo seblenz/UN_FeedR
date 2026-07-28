@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-24T21:28:08.870Z",
+  "generatedAt": "2026-07-28T00:28:16.330Z",
   "matches": [
+    {
+      "meetingId": "asset/k11/k11s3fiw4e",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Twenty-eighth meeting of the Subsidiary Body on Scientific, Technical and Technological Advice (SBSTTA-28) - PM session",
+      "date": "2026-07-27T00:00:00.000Z",
+      "body": null,
+      "snippet": "… We support the new technical expert group and recommend expanding its scope to include digital innovation, Earth observation technologies, artificial intelligence, and practical implementation lessons from parties. On knowledge systems and the second review, Kenya strongly supports integrating traditional knowledge, …",
+      "link": "https://transcripts.un.org/en/asset/k11/k11s3fiw4e?t=2554"
+    },
     {
       "meetingId": "asset/k1w/k1wrfer9ia",
       "term": "artificial intelligence",

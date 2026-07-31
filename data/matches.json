@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-31T12:38:18.254Z",
+  "generatedAt": "2026-07-31T18:36:32.767Z",
   "matches": [
+    {
+      "meetingId": "asset/k10/k10njs7suo",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(3rd Meeting) 20th International Human Rights Summit",
+      "date": "2026-07-31T00:00:00.000Z",
+      "body": null,
+      "snippet": "… conflicts— we now have to add, in our times, we have to add climate change, we have to add artificial intelligence, and we have to add this I want to be careful in how I phrase this issue. We need …",
+      "link": "https://transcripts.un.org/en/asset/k10/k10njs7suo?t=4144"
+    },
     {
       "meetingId": "asset/k1s/k1s6qg72dk",
       "term": "artificial intelligence",

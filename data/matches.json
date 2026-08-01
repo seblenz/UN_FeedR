@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-31T18:36:32.767Z",
+  "generatedAt": "2026-08-01T00:29:07.176Z",
   "matches": [
+    {
+      "meetingId": "asset/k15/k15m6k7wsy",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(4th Meeting) 20th International Human Rights Summit",
+      "date": "2026-07-31T00:00:00.000Z",
+      "body": null,
+      "snippet": "… means of upholding human rights because people can only protect the rights they understand. Technology will continue to evolve. Artificial intelligence will become more powerful. The internet will become more connected. Yet none of these innovations on their own will …",
+      "link": "https://transcripts.un.org/en/asset/k15/k15m6k7wsy?t=3486"
+    },
     {
       "meetingId": "asset/k10/k10njs7suo",
       "term": "artificial intelligence",

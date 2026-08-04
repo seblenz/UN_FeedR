@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-01T00:29:07.176Z",
+  "generatedAt": "2026-08-04T06:52:07.507Z",
   "matches": [
+    {
+      "meetingId": "asset/k1d/k1daebmyos",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(2nd meeting) - Fifth Session of the Intergovernmental Negotiating Committee on the UN Framework Convention on International Tax Cooperation (INC Tax) - 3 to 13 August 2026",
+      "date": "2026-08-03T00:00:00.000Z",
+      "body": "Economic and Social Council",
+      "snippet": "… across multiple jurisdictions. We support flexible and resilient approaches capable of responding to digitalization, intangible assets, highly mobile capital, artificial intelligence, crypto assets, and evolving business models. Such flexibility should be accompanied by clear institutional mandates, transparent procedures, periodic technical …",
+      "link": "https://transcripts.un.org/en/asset/k1d/k1daebmyos?t=1638"
+    },
     {
       "meetingId": "asset/k15/k15m6k7wsy",
       "term": "artificial intelligence",

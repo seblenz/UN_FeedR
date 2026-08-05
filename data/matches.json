@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-04T06:52:07.507Z",
+  "generatedAt": "2026-08-05T19:21:10.013Z",
   "matches": [
+    {
+      "meetingId": "sc/10205",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Threats to international peace and security caused by terrorist acts - Security Council, 10205th meeting",
+      "date": "2026-08-05T00:00:00.000Z",
+      "body": "Security Council",
+      "snippet": "… justice cooperation, financial investigations, and coordinated responses. Second, the growing exploitation by Daesh and its affiliates of advances in artificial intelligence, encrypted communications, digital platforms, virtual assets, and unmanned aircraft systems underscores the need to strengthen governance, oversight, and international …",
+      "link": "https://transcripts.un.org/en/sc/10205?t=1019"
+    },
     {
       "meetingId": "asset/k1d/k1daebmyos",
       "term": "artificial intelligence",

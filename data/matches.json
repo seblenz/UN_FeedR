@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-05T19:21:10.013Z",
+  "generatedAt": "2026-08-06T01:59:51.258Z",
   "matches": [
+    {
+      "meetingId": "asset/k1r/k1r8ps6wx9",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(2nd meeting) Sixteenth session of the United Nations Committee of Experts on Global Geospatial Information Management (UN-GGIM)",
+      "date": "2026-08-05T00:00:00.000Z",
+      "body": "Economic and Social Council",
+      "snippet": "… group on the GeoAI for sustainable development between UN-GGIM Asia Pacific. These initiatives reflect the increasing importance of geospatial artificial intelligence as a tool for the innovation and evidence-based decision making. We encourage all regional committee and the United Nations …",
+      "link": "https://transcripts.un.org/en/asset/k1r/k1r8ps6wx9?t=1395"
+    },
     {
       "meetingId": "sc/10205",
       "term": "artificial intelligence",

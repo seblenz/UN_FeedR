@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-06T01:59:51.258Z",
+  "generatedAt": "2026-08-08T01:07:51.804Z",
   "matches": [
+    {
+      "meetingId": "asset/k1a/k1au2xjxkj",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(1st meeting) Sixteenth session of the United Nations Committee of Experts on Global Geospatial Information Management (UN-GGIM)",
+      "date": "2026-08-05T00:00:00.000Z",
+      "body": "Economic and Social Council",
+      "snippet": "… observations, is crucial to both of those. We also see how the pace of the digital transformation is accelerating. Artificial intelligence, advanced analytics and new information sources are shaping how we understand our world, how we design policies, how we …",
+      "link": "https://transcripts.un.org/en/asset/k1a/k1au2xjxkj?t=124"
+    },
     {
       "meetingId": "asset/k1r/k1r8ps6wx9",
       "term": "artificial intelligence",

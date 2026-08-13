@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-12T18:53:43.796Z",
+  "generatedAt": "2026-08-13T07:17:24.646Z",
   "matches": [
+    {
+      "meetingId": "asset/k1c/k1cpd2i1pj",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Youth and AI Summit, in commemoration of International Youth Day 2026",
+      "date": "2026-08-12T00:00:00.000Z",
+      "body": null,
+      "snippet": "… saying AI adoption. What does it mean in this case, right? AI adoption is the strategic process of integrating artificial intelligence tools into daily workflows, business operations, and decision making. And for the purposes of this presentation and the scenarios …",
+      "link": "https://transcripts.un.org/en/asset/k1c/k1cpd2i1pj?t=796"
+    },
     {
       "meetingId": "asset/k11/k11b7ha2d5",
       "term": "artificial intelligence",

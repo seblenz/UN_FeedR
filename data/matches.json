@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-13T07:17:24.646Z",
+  "generatedAt": "2026-08-13T12:56:04.255Z",
   "matches": [
+    {
+      "meetingId": "crpd/843",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "843rd Meeting, 35th Session, Committee on the Rights of Persons with Disabilities (CRPD)",
+      "date": "2026-08-12T00:00:00.000Z",
+      "body": null,
+      "snippet": "… and accountability mechanisms. Investing in accessibility and universal design, not only in physical infrastructure, but also in digital technologies, artificial intelligence, public services, transportation, education, healthcare and emergency preparedness. Third, further international cooperation and ensure that persons with disabilities are …",
+      "link": "https://transcripts.un.org/en/crpd/843?t=1675"
+    },
     {
       "meetingId": "asset/k1c/k1cpd2i1pj",
       "term": "artificial intelligence",

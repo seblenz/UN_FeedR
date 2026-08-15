@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-13T12:56:04.255Z",
+  "generatedAt": "2026-08-15T00:52:59.361Z",
   "matches": [
+    {
+      "meetingId": "briefing/geneva/2026-08-14",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "UN Geneva Press Briefing: WHO, UNFPA, WFP, UNHCR",
+      "date": "2026-08-14T00:00:00.000Z",
+      "body": null,
+      "snippet": "… old convention and enable it to better guard against the misuse of biology and the risk posed by the artificial intelligence. Ambassador Meyer is also available for interviews upon request. So we will share this with you and if you …",
+      "link": "https://transcripts.un.org/en/briefing/geneva/2026-08-14?t=3650"
+    },
     {
       "meetingId": "crpd/843",
       "term": "artificial intelligence",

@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-17T12:31:14.676Z",
+  "generatedAt": "2026-08-17T18:29:17.866Z",
   "matches": [
+    {
+      "meetingId": "asset/k16/k16wlrsabr",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(1st Meeting) Committee of the Whole - UNCCD COP17",
+      "date": "2026-08-17T00:00:00.000Z",
+      "body": null,
+      "snippet": "… meeting the financial constraints that are imposed. We point to the new needs identified at the digital transition and artificial intelligence. These could help to improve the efficiency of the Convention's functioning, but must be closely linked to the priorities …",
+      "link": "https://transcripts.un.org/en/asset/k16/k16wlrsabr?t=2968"
+    },
     {
       "meetingId": "asset/k18/k18ieuyvjq",
       "term": "artificial intelligence",

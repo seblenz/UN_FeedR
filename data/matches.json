@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-15T00:52:59.361Z",
+  "generatedAt": "2026-08-17T12:31:14.676Z",
   "matches": [
+    {
+      "meetingId": "asset/k18/k18ieuyvjq",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(1st Meeting) Committee for the Review of the Implementation of the Convention - UNCCD COP17",
+      "date": "2026-08-17T00:00:00.000Z",
+      "body": null,
+      "snippet": "… where we will need to use Earth observation, geospatial data. We aim at the secretariat to integrate heavily the artificial intelligence in our work because we need not only to be accurate, but we need to be quick because the …",
+      "link": "https://transcripts.un.org/en/asset/k18/k18ieuyvjq?t=2187"
+    },
     {
       "meetingId": "briefing/geneva/2026-08-14",
       "term": "artificial intelligence",

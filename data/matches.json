@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-17T18:29:17.866Z",
+  "generatedAt": "2026-08-18T12:32:47.273Z",
   "matches": [
+    {
+      "meetingId": "asset/k1v/k1vhysfpjs",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(2nd Meeting) Committee on Science and Technology - UNCCD COP17",
+      "date": "2026-08-18T00:00:00.000Z",
+      "body": null,
+      "snippet": "… transfer and welcomes the continued efforts being undertaken in this area. We recognize the significant potential of digitalization and artificial intelligence to facilitate knowledge sharing and technology transfer. thereby accelerating sustainable land management, preventing and reversing land and soil degradation, …",
+      "link": "https://transcripts.un.org/en/asset/k1v/k1vhysfpjs?t=2356"
+    },
+    {
+      "meetingId": "asset/k1i/k1ilcew6zd",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(1st Meeting) Committee on Science and Technology - UNCCD COP17",
+      "date": "2026-08-17T00:00:00.000Z",
+      "body": null,
+      "snippet": "… practical question. How do we ensure that knowledge reaches those who need it? Digital platforms, earth observation, modelling and artificial intelligence create significant possibilities. Yet technology alone does not close a knowledge gap. Tools must be transparent, accessible, appropriate to …",
+      "link": "https://transcripts.un.org/en/asset/k1i/k1ilcew6zd?t=2908"
+    },
     {
       "meetingId": "asset/k16/k16wlrsabr",
       "term": "artificial intelligence",

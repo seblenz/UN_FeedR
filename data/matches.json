@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-20T00:52:49.928Z",
+  "generatedAt": "2026-08-20T18:29:07.151Z",
   "matches": [
+    {
+      "meetingId": "asset/k16/k166orx01x",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Ivonne A-Baki - Interactive dialogue for the position of the next Secretary-General of the United Nations",
+      "date": "2026-08-20T00:00:00.000Z",
+      "body": null,
+      "snippet": "… And of nations large and small. Today, human dignity reaches into frontiers our founders could never have envisioned, including artificial intelligence. The rules governing AI are currently being written by a handful of private sector actors and powerful states without …",
+      "link": "https://transcripts.un.org/en/asset/k16/k166orx01x?t=1394"
+    },
     {
       "meetingId": "asset/k1x/k1xhcrrz5c",
       "term": "artificial intelligence",

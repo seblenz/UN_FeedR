@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-19T18:24:43.994Z",
+  "generatedAt": "2026-08-20T00:52:49.928Z",
   "matches": [
+    {
+      "meetingId": "asset/k1x/k1xhcrrz5c",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Artificial Intelligence and Environmental Sustainability: Addressing the Land Footprint of Al and Data - Action Dome, UNCCD COP17",
+      "date": "2026-08-19T00:00:00.000Z",
+      "body": null,
+      "snippet": "Good afternoon, esteemed panelists, colleagues, and dear participants. Welcome to this UNCCD COP17 side event, Artificial Intelligence and Environmental Sustainability, which addressing the land footprint of AI and data centers. So my name is Amrita Satishan. …",
+      "link": "https://transcripts.un.org/en/asset/k1x/k1xhcrrz5c?t=2"
+    },
+    {
+      "meetingId": "sc/10210/2",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Resumed) Working methods of the Security Council - Security Council, 10210th meeting",
+      "date": "2026-08-19T00:00:00.000Z",
+      "body": "Security Council",
+      "snippet": "… of civilians in armed conflicts, as well as food security, nuclear safety, cybersecurity, risks stemming from the development of artificial intelligence, WPS agenda, climate insecurity, and man-made disasters. All those issues should be part of Council's agenda. In conclusion, We …",
+      "link": "https://transcripts.un.org/en/sc/10210/2?t=9017"
+    },
+    {
+      "meetingId": "asset/k1i/k1itn8rk6t",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Olara Otunnu - Interactive dialogue for the position of the next Secretary-General of the United Nations",
+      "date": "2026-08-19T00:00:00.000Z",
+      "body": null,
+      "snippet": "… of human rights. Crucial issues linked to climate and environment are arising at a time when autonomous systems and artificial intelligence may evolve to dominate the human race. And yet with rapid advances in the field of AI together with …",
+      "link": "https://transcripts.un.org/en/asset/k1i/k1itn8rk6t?t=1432"
+    },
     {
       "meetingId": "briefing/sg/2026-08-19",
       "term": "artificial intelligence",

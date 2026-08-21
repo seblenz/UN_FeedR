@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-20T18:29:07.151Z",
+  "generatedAt": "2026-08-21T18:27:38.990Z",
   "matches": [
+    {
+      "meetingId": "briefing/sg/2026-08-21",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Daily Press Briefing by the Spokesperson of the Secretary-General",
+      "date": "2026-08-21T00:00:00.000Z",
+      "body": null,
+      "snippet": "… secretary general Amina Muhammad is in China and Xi'an today, where she participated in the third regional convening on artificial intelligence and human development, building on the previous regional gatherings in Cairo and Mexico City. Together with experts and thought …",
+      "link": "https://transcripts.un.org/en/briefing/sg/2026-08-21?t=1720"
+    },
     {
       "meetingId": "asset/k16/k166orx01x",
       "term": "artificial intelligence",
@@ -143,6 +154,17 @@
       "body": null,
       "snippet": "… where we will need to use Earth observation, geospatial data. We aim at the secretariat to integrate heavily the artificial intelligence in our work because we need not only to be accurate, but we need to be quick because the …",
       "link": "https://transcripts.un.org/en/asset/k18/k18ieuyvjq?t=2187"
+    },
+    {
+      "meetingId": "asset/k1x/k1x9agskkd",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Opening Ceremony) 17th session of the Conference of the Parties to the United Nations Convention to Combat Desertification - UNCCD COP17",
+      "date": "2026-08-16T00:00:00.000Z",
+      "body": null,
+      "snippet": "… local communities that restore ecosystems and support renewable energy benefit from the economic gains. We are also gradually introducing artificial intelligence, remote sensing, geographic information systems, and satellite technologies into land monitoring and natural resource management. Our goal is to …",
+      "link": "https://transcripts.un.org/en/asset/k1x/k1x9agskkd?t=1233"
     },
     {
       "meetingId": "briefing/geneva/2026-08-14",

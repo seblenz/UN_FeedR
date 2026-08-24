@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-23T12:26:25.709Z",
+  "generatedAt": "2026-08-24T06:43:08.708Z",
   "matches": [
+    {
+      "meetingId": "asset/k1r/k1rnmfktrp",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "High-level Opening Ceremony - UNCCD COP17",
+      "date": "2026-08-23T00:00:00.000Z",
+      "body": null,
+      "snippet": "… of the world and to help strengthen climate adaptation and resilience. The development of space technology, drones, remote sensing, artificial intelligence, big data and digital technologies is opening up vast opportunities to assess and prevent land degradation, desertification and drought …",
+      "link": "https://transcripts.un.org/en/asset/k1r/k1rnmfktrp?t=3205"
+    },
     {
       "meetingId": "briefing/sg/2026-08-21",
       "term": "artificial intelligence",

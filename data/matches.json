@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T06:43:08.708Z",
+  "generatedAt": "2026-08-24T12:36:35.461Z",
   "matches": [
     {
       "meetingId": "asset/k1r/k1rnmfktrp",
@@ -110,6 +110,17 @@
       "body": null,
       "snippet": "… transfer and welcomes the continued efforts being undertaken in this area. We recognize the significant potential of digitalization and artificial intelligence to facilitate knowledge sharing and technology transfer. thereby accelerating sustainable land management, preventing and reversing land and soil degradation, …",
       "link": "https://transcripts.un.org/en/asset/k1v/k1vhysfpjs?t=2356"
+    },
+    {
+      "meetingId": "asset/k1v/k1vqjp8rr0",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "1st Meeting, 9th Session of the Working Group on the Strengthening of the BWC",
+      "date": "2026-08-17T00:00:00.000Z",
+      "body": null,
+      "snippet": "… for a successful outcome in December. For example, you may have seen the recent reports on the use of artificial intelligence to design new viruses not previously seen in nature. This demonstrates that the convergence of AI and biology is …",
+      "link": "https://transcripts.un.org/en/asset/k1v/k1vqjp8rr0?t=3"
     },
     {
       "meetingId": "asset/k1q/k1qgtkeneb",

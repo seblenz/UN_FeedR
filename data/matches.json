@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-24T12:36:35.461Z",
+  "generatedAt": "2026-08-24T18:30:18.318Z",
   "matches": [
+    {
+      "meetingId": "asset/k1j/k1jozddqv1",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Organizational Meeting - 63rd Session of the Human Rights Council",
+      "date": "2026-08-24T00:00:00.000Z",
+      "body": null,
+      "snippet": "… during the 63rd session of the Human Rights Council a draft resolution under agenda item three entitled, Implications of Artificial Intelligence for the Promotion and Protection of Human Rights. Artificial intelligence is developing at an extraordinary pace and is increasingly …",
+      "link": "https://transcripts.un.org/en/asset/k1j/k1jozddqv1?t=5155"
+    },
+    {
+      "meetingId": "asset/k1v/k1vgdu08it",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(1st meeting) Executive Board of UNDP, UNFPA and UNOPS (Second regular session 2026)",
+      "date": "2026-08-24T00:00:00.000Z",
+      "body": "Economic and Social Council",
+      "snippet": "… Conflicts and humanitarian crises are putting millions at risk. Health systems are under strain. Climate change is reshaping communities. Artificial intelligence and other technologies are advancing faster than our ability to govern them. Inequality is deepening. Financing is contracting and …",
+      "link": "https://transcripts.un.org/en/asset/k1v/k1vgdu08it?t=2417"
+    },
     {
       "meetingId": "asset/k1r/k1rnmfktrp",
       "term": "artificial intelligence",

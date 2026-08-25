@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-24T18:30:18.318Z",
+  "generatedAt": "2026-08-25T00:54:53.535Z",
   "matches": [
+    {
+      "meetingId": "sc/10212",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Maintenance of peace and security of Ukraine - Security Council, 10212th meeting",
+      "date": "2026-08-24T00:00:00.000Z",
+      "body": "Security Council",
+      "snippet": "… creates costs that far outweigh the benefits across so many of the conflict zones that I've visited. And as artificial intelligence and autonomy enter the fray, the importance of preserving human judgment in military decision making is even more urgent. …",
+      "link": "https://transcripts.un.org/en/sc/10212?t=1821"
+    },
     {
       "meetingId": "asset/k1j/k1jozddqv1",
       "term": "artificial intelligence",

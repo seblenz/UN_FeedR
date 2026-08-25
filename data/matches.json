@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-25T00:54:53.535Z",
+  "generatedAt": "2026-08-25T12:35:33.557Z",
   "matches": [
+    {
+      "meetingId": "asset/k1i/k1ichfbq0l",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Special High-Level Event on Sand and Dust Storms (SDS) - Action Dome, UNCCD COP17",
+      "date": "2026-08-25T00:00:00.000Z",
+      "body": null,
+      "snippet": "… practices. That means stronger science, better data, early warning and advisory systems, and a greater use of innovation, including artificial intelligence and foresight. It also means connecting UN knowledge platforms so that countries can find and use the expertise that …",
+      "link": "https://transcripts.un.org/en/asset/k1i/k1ichfbq0l?t=2346"
+    },
     {
       "meetingId": "sc/10212",
       "term": "artificial intelligence",

@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-26T00:55:41.070Z",
+  "generatedAt": "2026-08-26T06:36:55.899Z",
   "matches": [
+    {
+      "meetingId": "asset/k1p/k1p3ono8x6",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Ministerial Dialogue on the Restoration of Rangelands and the Well-being of Pastoralist Communities - UNCCD COP17",
+      "date": "2026-08-25T00:00:00.000Z",
+      "body": null,
+      "snippet": "… 200 million hectares, and almost all of this is digitalized today. We're now going to move on to use artificial intelligence, satellite monitoring to analyze the quality of land and have early warning of any degradation. Up is with simple, …",
+      "link": "https://transcripts.un.org/en/asset/k1p/k1p3ono8x6?t=9074"
+    },
     {
       "meetingId": "asset/k18/k1865685jn",
       "term": "artificial intelligence",

@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-25T18:30:35.853Z",
+  "generatedAt": "2026-08-26T00:55:41.070Z",
   "matches": [
+    {
+      "meetingId": "asset/k18/k1865685jn",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(4th meeting) Executive Board of UNDP, UNFPA and UNOPS (Second regular session 2026)",
+      "date": "2026-08-25T00:00:00.000Z",
+      "body": "Economic and Social Council",
+      "snippet": "… since we last spoke. In the last few years, in parallel with the formidable transformations and breakthroughs on energy, artificial intelligence, medicine, and biology, we have also witnessed an unprecedented increase of temperature and climate impacts, an unprecedented loss of …",
+      "link": "https://transcripts.un.org/en/asset/k18/k1865685jn?t=1577"
+    },
     {
       "meetingId": "asset/k1q/k1qryndud0",
       "term": "artificial intelligence",

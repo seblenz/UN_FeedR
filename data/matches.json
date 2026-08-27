@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-26T19:42:09.789Z",
+  "generatedAt": "2026-08-27T06:40:56.894Z",
   "matches": [
+    {
+      "meetingId": "asset/k1e/k1evalbvmh",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Informal meeting of the plenary to hear a briefing by the Secretary-General on peace operations - General Assembly, 80th session",
+      "date": "2026-08-26T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… changing. We see the increasing military use of drones and the looming prospect of autonomous lethal weapons powered by artificial intelligence, the growing involvement of transnational criminal networks, a wider range of state and non state actors getting their hands …",
+      "link": "https://transcripts.un.org/en/asset/k1e/k1evalbvmh?t=319"
+    },
+    {
+      "meetingId": "sc/10213/3",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Resumed) Maintenance of international peace and security - Security Council, 10213th meeting",
+      "date": "2026-08-26T00:00:00.000Z",
+      "body": "Security Council",
+      "snippet": "… through the removal of administrative and bureaucratic impediments. Finally, President, we need to leverage digital technologies, including space technology, artificial intelligence, and predictive analytics. These tools can help us anticipate and mitigate the impact of extreme weather events that threaten …",
+      "link": "https://transcripts.un.org/en/sc/10213/3?t=4206"
+    },
+    {
+      "meetingId": "asset/k1w/k1w28a2m6k",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(6th meeting) Executive Board of UNDP, UNFPA and UNOPS (Second regular session 2026)",
+      "date": "2026-08-26T00:00:00.000Z",
+      "body": "Economic and Social Council",
+      "snippet": "… and circumstances of developing countries, including through productive capacities, technology transfer and capacity building. We welcome UNDP's emphasis on artificial intelligence and encourage cooperation that enables developing countries to ensure equitable access to its benefits, particularly in areas such as …",
+      "link": "https://transcripts.un.org/en/asset/k1w/k1w28a2m6k?t=2169"
+    },
     {
       "meetingId": "asset/k18/k18wfgb8jy",
       "term": "artificial intelligence",

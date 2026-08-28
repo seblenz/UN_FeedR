@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T21:35:12.163Z",
+  "generatedAt": "2026-08-28T08:31:00.036Z",
   "matches": [
     {
       "meetingId": "briefing/sg/2026-08-27",
@@ -176,6 +176,17 @@
       "body": null,
       "snippet": "… secretary general Amina Muhammad is in China and Xi'an today, where she participated in the third regional convening on artificial intelligence and human development, building on the previous regional gatherings in Cairo and Mexico City. Together with experts and thought …",
       "link": "https://transcripts.un.org/en/briefing/sg/2026-08-21?t=1720"
+    },
+    {
+      "meetingId": "asset/k1g/k1gelrpwa6",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "\"Individual, Local, National, Global: The Ripple Effects of Becoming a Young Negotiator\" - Press Conference, UNCCD COP17",
+      "date": "2026-08-20T00:00:00.000Z",
+      "body": null,
+      "snippet": "… one since YNA's existence. To give a little bit of context of Gainforest, we develop technology, we look into artificial intelligence to empower and drive value-driven designs and designs with communities around the world. We mostly act in rainforest around …",
+      "link": "https://transcripts.un.org/en/asset/k1g/k1gelrpwa6?t=726"
     },
     {
       "meetingId": "asset/k16/k166orx01x",

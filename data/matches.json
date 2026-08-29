@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T21:38:44.313Z",
+  "generatedAt": "2026-08-29T05:11:05.129Z",
   "matches": [
     {
       "meetingId": "asset/k17/k17kpqcmxg",
@@ -22,6 +22,17 @@
       "body": "General Assembly",
       "snippet": "… provision of support to intergovernmental processes. We know that the Secretariat is already working to improve the usage of artificial intelligence in its daily work. We heard that in some of your presentations. Could you perhaps share best practices being …",
       "link": "https://transcripts.un.org/en/asset/k14/k14hjli1me?t=4918"
+    },
+    {
+      "meetingId": "crpd/866",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "866th Meeting, 35th Session, Committee on the Rights of Persons with Disabilities (CRPD)",
+      "date": "2026-08-27T00:00:00.000Z",
+      "body": null,
+      "snippet": "… borders, especially for persons facing poverty, conflict, displacement and humanitarian emergencies. This commitment must also shape the future. As artificial intelligence and digital transformation reshape our societies, Persons with disabilities must participate fully and equally in shaping that future. Technology …",
+      "link": "https://transcripts.un.org/en/crpd/866?t=7347"
     },
     {
       "meetingId": "briefing/sg/2026-08-27",

@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-30T20:22:47.020Z",
+  "generatedAt": "2026-08-31T12:24:33.394Z",
   "matches": [
+    {
+      "meetingId": "asset/k17/k179utoxqf",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "1st Meeting - 2nd Session Group of Governmental Experts on Lethal Autonomous Weapons Systems 2026",
+      "date": "2026-08-31T00:00:00.000Z",
+      "body": null,
+      "snippet": "… final section presents the group with both an opportunity and responsibility. The rapid evolution and increasing military application of artificial intelligence make further delay increasingly difficult to justify. The international community must ensure that technological advancement does not outpace the …",
+      "link": "https://transcripts.un.org/en/asset/k17/k179utoxqf?t=6094"
+    },
     {
       "meetingId": "asset/k17/k17kpqcmxg",
       "term": "artificial intelligence",

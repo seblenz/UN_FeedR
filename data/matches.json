@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-31T12:24:33.394Z",
+  "generatedAt": "2026-08-31T22:16:37.600Z",
   "matches": [
+    {
+      "meetingId": "ga/80/108",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "General Assembly: 108th Plenary meeting, 80th session",
+      "date": "2026-08-31T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… escalation demand sustained attention. We also live in an era of rapid technological change, where the potential application of artificial intelligence to nuclear weapons systems raises serious questions about decision making, human control, and the risk of miscalculation. Of course, …",
+      "link": "https://transcripts.un.org/en/ga/80/108?t=2"
+    },
+    {
+      "meetingId": "briefing/sg/2026-08-31",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Kyrgyzstan, Libya, Nepal & other topics - Daily Press Briefing",
+      "date": "2026-08-31T00:00:00.000Z",
+      "body": null,
+      "snippet": "… will travel to Italy and then where she will be in Rome to convene the fourth gathering of the artificial intelligence and human development report, excuse me, artificial and human development, which as you already know, is a global series …",
+      "link": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=1883"
+    },
     {
       "meetingId": "asset/k17/k179utoxqf",
       "term": "artificial intelligence",

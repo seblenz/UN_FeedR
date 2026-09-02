@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-01T20:23:28.194Z",
+  "generatedAt": "2026-09-02T02:24:23.187Z",
   "matches": [
+    {
+      "meetingId": "asset/k10/k107lfx4ct",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "International Meeting on Victim Assistance and Environmental Remediation",
+      "date": "2026-09-01T00:00:00.000Z",
+      "body": null,
+      "snippet": "… that creates educational opportunities for children with disabilities and special educational needs. I'm also the founder of SpeakUp, an artificial intelligence project for children with speech disorders. We are developing technology to help understand so speech may not be recognized …",
+      "link": "https://transcripts.un.org/en/asset/k10/k107lfx4ct?t=8159"
+    },
     {
       "meetingId": "asset/k1g/k1gxe3o1r4",
       "term": "artificial intelligence",

@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-02T02:24:23.187Z",
+  "generatedAt": "2026-09-02T15:47:45.610Z",
   "matches": [
+    {
+      "meetingId": "asset/k12/k12hptpwu5",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "5th Meeting - 2nd Session Group of Governmental Experts on Lethal Autonomous Weapons Systems 2026",
+      "date": "2026-09-02T00:00:00.000Z",
+      "body": null,
+      "snippet": "… of state practice in this area. For paragraph 41, we recommend adding the phrase and other technological components after artificial intelligence models to help make this paragraph more flexible as the kinds of technology used will continue to change. To …",
+      "link": "https://transcripts.un.org/en/asset/k12/k12hptpwu5?t=3676"
+    },
     {
       "meetingId": "asset/k10/k107lfx4ct",
       "term": "artificial intelligence",

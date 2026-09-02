@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-02T15:47:45.610Z",
+  "generatedAt": "2026-09-02T20:23:28.998Z",
   "matches": [
+    {
+      "meetingId": "briefing/sg/2026-09-02",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Climate Report/Overshoot, Iran, Occupied Palestinian Territory & other topics - Daily Press Briefing",
+      "date": "2026-09-02T00:00:00.000Z",
+      "body": null,
+      "snippet": "Okay. question ahead of high-level week is the secretary-general planning any event focused on artificial intelligence and the guardrails he's been seeking?",
+      "link": "https://transcripts.un.org/en/briefing/sg/2026-09-02?t=3048"
+    },
     {
       "meetingId": "asset/k12/k12hptpwu5",
       "term": "artificial intelligence",

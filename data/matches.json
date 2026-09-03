@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-02T20:23:28.998Z",
+  "generatedAt": "2026-09-03T15:37:07.786Z",
   "matches": [
+    {
+      "meetingId": "asset/k12/k125qih235",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "6th Meeting - 2nd Session Group of Governmental Experts on Lethal Autonomous Weapons Systems 2026",
+      "date": "2026-09-02T00:00:00.000Z",
+      "body": null,
+      "snippet": "… in subparagraph alpha. We deem evaluations based on realistic simulations to be a pivotal element of review of all artificial intelligence capabilities, including laws. Here, we deem it necessary to reiterate that human judgment and control do not exist in …",
+      "link": "https://transcripts.un.org/en/asset/k12/k125qih235?t=424"
+    },
+    {
+      "meetingId": "asset/k1c/k1cipd1ncy",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(3rd meeting) UNICEF Executive Board, Second regular session 2026",
+      "date": "2026-09-02T00:00:00.000Z",
+      "body": "Economic and Social Council",
+      "snippet": "… addition to that, there are also some emerging opportunities that can accelerate the progress for children. Digital transformation, responsible artificial intelligence, digital public infrastructure, geospatial analysis, early warning systems, and frontier innovation are creating new ways to expand access to …",
+      "link": "https://transcripts.un.org/en/asset/k1c/k1cipd1ncy?t=9692"
+    },
     {
       "meetingId": "briefing/sg/2026-09-02",
       "term": "artificial intelligence",

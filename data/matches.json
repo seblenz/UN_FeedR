@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-03T15:37:07.786Z",
+  "generatedAt": "2026-09-03T20:23:00.841Z",
   "matches": [
+    {
+      "meetingId": "asset/k1d/k1d82u571c",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(4th meeting) UNICEF Executive Board, Second regular session 2026",
+      "date": "2026-09-03T00:00:00.000Z",
+      "body": "Economic and Social Council",
+      "snippet": "… because what happens to those kids, what happens to those communities, those societies? At the same time, we have artificial intelligence and other digital technologies developing at extraordinary speed. So obviously it creates real possibilities and we're looking carefully at …",
+      "link": "https://transcripts.un.org/en/asset/k1d/k1d82u571c?t=1478"
+    },
     {
       "meetingId": "asset/k12/k125qih235",
       "term": "artificial intelligence",

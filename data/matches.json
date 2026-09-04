@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-03T20:23:00.841Z",
+  "generatedAt": "2026-09-04T02:27:08.969Z",
   "matches": [
+    {
+      "meetingId": "asset/k1b/k1bnpvuaij",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(5th meeting) UNICEF Executive Board, Second regular session 2026",
+      "date": "2026-09-03T00:00:00.000Z",
+      "body": "Economic and Social Council",
+      "snippet": "… broad range of issues from programs and partnerships to oversight and financing to the opportunities and challenges presented by artificial intelligence and digital technology. Throughout the discussions, I have been very grateful to all of you for the strong spirit …",
+      "link": "https://transcripts.un.org/en/asset/k1b/k1bnpvuaij?t=9153"
+    },
+    {
+      "meetingId": "asset/k1q/k1qdc8zsa6",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Informal meeting of the plenary to hear a briefing on the UN80 Initiative - General Assembly, 80th session",
+      "date": "2026-09-03T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… on this work and help translate it into lasting improvements. Under the first workstream, we see particular scope for artificial intelligence to support the streamlining of administrative processes, improving data management, and help redirect resources towards operational priorities. We encourage …",
+      "link": "https://transcripts.un.org/en/asset/k1q/k1qdc8zsa6?t=5704"
+    },
     {
       "meetingId": "asset/k1d/k1d82u571c",
       "term": "artificial intelligence",

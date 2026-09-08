@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-09-08T15:49:28.124Z",
+  "generatedAt": "2026-09-08T20:34:28.945Z",
   "matches": [
+    {
+      "meetingId": "hrc/63/4",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "4th Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-08T00:00:00.000Z",
+      "body": null,
+      "snippet": "… The Kingdom will also continue to promote human rights in the face of emerging challenges connected to climate change, artificial intelligence and hate speech online. In terms of migration, the Kingdom will continue to support the efforts of the Office …",
+      "link": "https://transcripts.un.org/en/hrc/63/4?t=970"
+    },
+    {
+      "meetingId": "ga/80/116",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "General Assembly: 116th plenary meeting, 80th session",
+      "date": "2026-09-08T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… record-breaking heat as our climate shoots past the 1.5 degree limit, the possibilities and perils of world-changing technologies like artificial intelligence, and the wide financing gap that impedes progress on the Sustainable Development Goals. And the United Nations was created …",
+      "link": "https://transcripts.un.org/en/ga/80/116?t=1144"
+    },
+    {
+      "meetingId": "briefing/sg/2026-09-08",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Daily Press Briefing by the Spokesperson of the Secretary-General",
+      "date": "2026-09-08T00:00:00.000Z",
+      "body": null,
+      "snippet": "… a moment of profound challenge for humanity amid multiplying conflicts, inequalities and injustice, record-breaking heat and the challenge of artificial intelligence. and the financial gap. The United Nations, he said, was created precisely for moments like this. And by wielding …",
+      "link": "https://transcripts.un.org/en/briefing/sg/2026-09-08?t=2195"
+    },
+    {
+      "meetingId": "ga/81/1",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "General Assembly: 1st plenary meeting, 81st session",
+      "date": "2026-09-08T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… has helped bring emerging and contemporary challenges faced by the world community, from climate change to the governance of artificial intelligence, to the forefront of our deliberations. Every day, often far from the spotlight, The United Nations and its dedicated …",
+      "link": "https://transcripts.un.org/en/ga/81/1?t=1023"
+    },
     {
       "meetingId": "asset/k18/k1856vomjr",
       "term": "artificial intelligence",

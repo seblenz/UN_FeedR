@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-04T20:08:48.078Z",
+  "generatedAt": "2026-09-08T02:33:59.093Z",
   "matches": [
+    {
+      "meetingId": "asset/k1t/k1tjdugbhy",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "1st Meeting, Preparatory Committee of the 7th Review Conference CCW",
+      "date": "2026-09-07T00:00:00.000Z",
+      "body": null,
+      "snippet": "… 2026-31 period to monitor progress of the Convention and its Protocols and mechanisms to monitor emerging military applications of artificial intelligence. Mr. Chair, in conclusion, the Seventh Review Conference offers a crucial opportunity to reaffirm the human element in disarmament …",
+      "link": "https://transcripts.un.org/en/asset/k1t/k1tjdugbhy?t=2426"
+    },
     {
       "meetingId": "ga/80/114",
       "term": "artificial intelligence",

@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-09T15:45:12.982Z",
+  "generatedAt": "2026-09-09T20:16:59.012Z",
   "matches": [
+    {
+      "meetingId": "asset/k1h/k1ho7m57as",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(1st meeting) UN-Women Executive Board, Second Regular Session 2026",
+      "date": "2026-09-09T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… advance their rightful place in decision-making. This leadership must extend to the forces defining their future. And technology and artificial intelligence are defining frontier of gender equality where progress can be accelerated or inequalities entrenched. Women and girls must actively …",
+      "link": "https://transcripts.un.org/en/asset/k1h/k1ho7m57as?t=1583"
+    },
     {
       "meetingId": "hrc/63/5",
       "term": "artificial intelligence",

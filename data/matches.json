@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-08T20:34:28.945Z",
+  "generatedAt": "2026-09-09T15:45:12.982Z",
   "matches": [
+    {
+      "meetingId": "hrc/63/5",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "5th Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-09T00:00:00.000Z",
+      "body": null,
+      "snippet": "… prolonged measures, as questions of self-determination and not only of economics. Restrictions on access to advanced technologies, including semiconductors, artificial intelligence, and digital connectivity infrastructure, increasingly determine access to the tools of modern economic and social life, and their human …",
+      "link": "https://transcripts.un.org/en/hrc/63/5?t=5826"
+    },
     {
       "meetingId": "hrc/63/4",
       "term": "artificial intelligence",

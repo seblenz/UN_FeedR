@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-11T15:41:37.194Z",
+  "generatedAt": "2026-09-11T20:19:14.987Z",
   "matches": [
+    {
+      "meetingId": "asset/k1r/k1rva0mr2a",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "United Nations Day for South-South Cooperation 2026",
+      "date": "2026-09-11T00:00:00.000Z",
+      "body": null,
+      "snippet": "… co-creators of solutions. Particular attention must be given to closing technological and digital divides and ensuring that advances in artificial intelligence and other emerging technologies, advances on that, do not generate new forms of exclusion or dependency. South-South cooperation is …",
+      "link": "https://transcripts.un.org/en/asset/k1r/k1rva0mr2a?t=2853"
+    },
     {
       "meetingId": "hrc/63/7",
       "term": "artificial intelligence",

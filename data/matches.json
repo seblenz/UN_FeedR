@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-09T20:16:59.012Z",
+  "generatedAt": "2026-09-11T15:41:37.194Z",
   "matches": [
+    {
+      "meetingId": "hrc/63/7",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "7th Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-11T00:00:00.000Z",
+      "body": null,
+      "snippet": "… strengthen collective commitment and establish a framework for implementation, cooperation, and accountability. Mr. President, new and emerging technologies like artificial intelligence have the power to transform societies and economies and shape the landscape for the enjoyment of all human rights, …",
+      "link": "https://transcripts.un.org/en/hrc/63/7?t=4251"
+    },
     {
       "meetingId": "asset/k1h/k1ho7m57as",
       "term": "artificial intelligence",

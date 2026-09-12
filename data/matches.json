@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-11T20:19:14.987Z",
+  "generatedAt": "2026-09-12T02:39:01.848Z",
   "matches": [
+    {
+      "meetingId": "sc/10221",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Threats to international peace and security caused by terrorist acts - Security Council, 10221st meeting",
+      "date": "2026-09-11T00:00:00.000Z",
+      "body": "Security Council",
+      "snippet": "… media platforms, gaming environments, and other virtual spaces to identify vulnerabilities and recruit individuals, especially young people. Advances in artificial intelligence and automated content generation are further increasing the speed, scale and precision. A fourth observation concerns terrorist financing. Financing …",
+      "link": "https://transcripts.un.org/en/sc/10221?t=1502"
+    },
+    {
+      "meetingId": "asset/k1k/k1k88us7dg",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Jérôme Bonnafont (France/ SC President) & Jeff Bartos (United States) on threats to international peace and security caused by terrorist action - Security Council Media Stakeout",
+      "date": "2026-09-11T00:00:00.000Z",
+      "body": null,
+      "snippet": "… adapt its response and establish an effective system to counter terrorist use of new technologies, drone, satellites, social media, artificial intelligence. Demonstrating its unity 25 years after the attacks, the Council unanimously adopted the presidential statement that reaffirms its determination …",
+      "link": "https://transcripts.un.org/en/asset/k1k/k1k88us7dg?t=5"
+    },
     {
       "meetingId": "asset/k1r/k1rva0mr2a",
       "term": "artificial intelligence",

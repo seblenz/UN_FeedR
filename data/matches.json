@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-14T17:25:24.215Z",
+  "generatedAt": "2026-09-14T21:17:34.764Z",
   "matches": [
+    {
+      "meetingId": "asset/k1i/k1idf78jrd",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Part 1) Briefing for Delegates on the 81st General Assembly and Main Committees",
+      "date": "2026-09-14T00:00:00.000Z",
+      "body": null,
+      "snippet": "… to multilateral negotiations, and also upholding the values of the United Nations. So Before coming here, I went through artificial intelligence. And I wanted to unpack the two words, general assembly. What do we mean by general? What do we …",
+      "link": "https://transcripts.un.org/en/asset/k1i/k1idf78jrd?t=1213"
+    },
     {
       "meetingId": "hrc/63/9",
       "term": "artificial intelligence",

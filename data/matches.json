@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-15T10:50:35.743Z",
+  "generatedAt": "2026-09-15T16:02:31.019Z",
   "matches": [
+    {
+      "meetingId": "hrc/63/11",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "11th Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-15T00:00:00.000Z",
+      "body": null,
+      "snippet": "… by young people of these values, my country also emphasizes recent developments with human rights centers. National programs in artificial intelligence also seek to establish techniques that support human rights. the human rights culture starts with education. It is not …",
+      "link": "https://transcripts.un.org/en/hrc/63/11?t=4042"
+    },
     {
       "meetingId": "hrc/63/10",
       "term": "artificial intelligence",

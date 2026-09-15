@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-14T21:17:34.764Z",
+  "generatedAt": "2026-09-15T10:50:35.743Z",
   "matches": [
+    {
+      "meetingId": "hrc/63/10",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "10th Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-14T00:00:00.000Z",
+      "body": null,
+      "snippet": "… era of rapidly evolving and emerging technologies and pervasive digitalization, which has serious implications for human rights. Advances in artificial intelligence, machine learning, surveillance technologies, commercial satellite services, cloud infrastructure, autonomous platforms, predictive analytics, and digital financing are transforming the …",
+      "link": "https://transcripts.un.org/en/hrc/63/10?t=7855"
+    },
     {
       "meetingId": "asset/k1i/k1idf78jrd",
       "term": "artificial intelligence",
@@ -33,6 +44,17 @@
       "body": null,
       "snippet": "… a more representative multilateral system is essential to inclusive global growth. The Secretary-General also called for equitable access to artificial intelligence, accelerated climate action, and renewed respect for international law amid conflicts from Gaza and the wider Middle East to …",
       "link": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=1270"
+    },
+    {
+      "meetingId": "hrc/63/8",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "8th Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-11T00:00:00.000Z",
+      "body": null,
+      "snippet": "… given to technology transfer, capacity building, and equitable access to digital opportunities. China has actively promoted international cooperation on artificial intelligence and digital capacity building, helping developing countries strengthen their ability to participate in and benefit from digital transformation. At …",
+      "link": "https://transcripts.un.org/en/hrc/63/8?t=10700"
     },
     {
       "meetingId": "sc/10221",

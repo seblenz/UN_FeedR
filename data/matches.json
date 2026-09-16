@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-16T15:55:39.087Z",
+  "generatedAt": "2026-09-16T20:45:08.898Z",
   "matches": [
+    {
+      "meetingId": "hrc/63/13",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "13th Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-16T00:00:00.000Z",
+      "body": null,
+      "snippet": "… denialism is amplified by recent technological, cultural, social, and political developments, including the rise of social media, digital technologies, artificial intelligence systems, and the promotion and monetization of conspiracy theories. Fourth, state responses to denialism, particularly through the adoption of …",
+      "link": "https://transcripts.un.org/en/hrc/63/13?t=54"
+    },
+    {
+      "meetingId": "asset/k1j/k1jcdjp82o",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "António Guterres (UN Secretary-General) ahead of the 81st session of the UN General Assembly - Press Conference",
+      "date": "2026-09-16T00:00:00.000Z",
+      "body": null,
+      "snippet": "… look to threats around the world, let me say a final word about rising concerns regarding the advance of artificial intelligence. AI has enormous potential to accelerate sustainable development, enhance learning, strengthen health systems, boost climate resilience, and so much …",
+      "link": "https://transcripts.un.org/en/asset/k1j/k1jcdjp82o?t=967"
+    },
     {
       "meetingId": "crc/2957",
       "term": "artificial intelligence",

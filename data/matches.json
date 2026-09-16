@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-15T20:45:00.284Z",
+  "generatedAt": "2026-09-16T15:55:39.087Z",
   "matches": [
+    {
+      "meetingId": "crc/2957",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "2957th Meeting, 101st Session, Committee on the Rights of the Child (CRC)",
+      "date": "2026-09-16T00:00:00.000Z",
+      "body": null,
+      "snippet": "Thank you. If I may, I'd like to begin with artificial intelligence. Yes, James Gladze asked a question. As you know, Kazakhstan is an absolute leader regarding digitalization, not just at …",
+      "link": "https://transcripts.un.org/en/crc/2957?t=4489"
+    },
     {
       "meetingId": "hrc/63/12",
       "term": "artificial intelligence",

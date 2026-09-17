@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-17T02:55:21.543Z",
+  "generatedAt": "2026-09-17T16:02:21.592Z",
   "matches": [
+    {
+      "meetingId": "hrc/63/15",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "15th Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-17T00:00:00.000Z",
+      "body": null,
+      "snippet": "… restrictions in the global workplace, changing labor markets, demographic aging, supply chains, heightened control of technology, and critical minerals. Artificial intelligence and digital platforms are reshaping work, social protection and access to services. The same technologies are driving an unprecedented …",
+      "link": "https://transcripts.un.org/en/hrc/63/15?t=2356"
+    },
+    {
+      "meetingId": "asset/k10/k10sc0dncc",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Day 2 - Social justice coalition forum: Second panel and closing",
+      "date": "2026-09-17T00:00:00.000Z",
+      "body": null,
+      "snippet": "… Program 2025 to 2028. Ladies and gentlemen, our world at the moment is seeing very rapid development, technological progress, artificial intelligence, climate and demographic changes, which also go hand in hand with profound changes in the labor market and production …",
+      "link": "https://transcripts.un.org/en/asset/k10/k10sc0dncc?t=1625"
+    },
     {
       "meetingId": "asset/k15/k158a5gg9l",
       "term": "artificial intelligence",

@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-16T20:45:08.898Z",
+  "generatedAt": "2026-09-17T02:55:21.543Z",
   "matches": [
+    {
+      "meetingId": "asset/k15/k158a5gg9l",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Upholding International Law in Situations of Armed Conflict - Arria-Formula Meeting of the Security Council",
+      "date": "2026-09-16T00:00:00.000Z",
+      "body": "Security Council",
+      "snippet": "… of violence, exposing civilians to harm far beyond the traditional front lines and leaving them with no safe refuge. Artificial intelligence and other digital technologies are also increasing the speed, scale, and reach of military operations, while also increasing risk …",
+      "link": "https://transcripts.un.org/en/asset/k15/k158a5gg9l?t=1057"
+    },
     {
       "meetingId": "hrc/63/13",
       "term": "artificial intelligence",

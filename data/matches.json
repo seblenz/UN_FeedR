@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-18T10:23:47.429Z",
+  "generatedAt": "2026-09-18T20:16:09.403Z",
   "matches": [
+    {
+      "meetingId": "crc/2961",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "2961st Meeting, 101st Session, Committee on the Rights of the Child (CRC)",
+      "date": "2026-09-18T00:00:00.000Z",
+      "body": null,
+      "snippet": "… not heard much about the protecting children in digital environment, in general digital environment, but also specifically as well, artificial intelligence. As we all see, the artificial intelligence is developing so rapidly in a scale, in a pace that is …",
+      "link": "https://transcripts.un.org/en/crc/2961?t=2:39:57"
+    },
+    {
+      "meetingId": "asset/k15/k15lo600j3",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "2026 SDG Moment - Together, We Can Do It",
+      "date": "2026-09-18T00:00:00.000Z",
+      "body": null,
+      "snippet": "… we face. Action on debt and reform of international financial architecture. We need to close the digital divide before artificial intelligence deepens it. We need to place women and girls at the center of investment and decision-making. We also need …",
+      "link": "https://transcripts.un.org/en/asset/k15/k15lo600j3?t=27:28"
+    },
+    {
+      "meetingId": "asset/k1d/k1d1efd120",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "OHCHR - Press conference: A Global Briefing on Transitional Justice Around the World",
+      "date": "2026-09-17T00:00:00.000Z",
+      "body": null,
+      "snippet": "… should invest in inclusive, evidence-based, education, critical thinking, digital literacy, and robust memorialization processes. Digital technologies, social media, and artificial intelligence systems have also amplified the scope, reach, and monetization of denialist content. So I call on technology companies to …",
+      "link": "https://transcripts.un.org/en/asset/k1d/k1d1efd120?t=0:42"
+    },
     {
       "meetingId": "hrc/63/16",
       "term": "artificial intelligence",

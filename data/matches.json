@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-17T20:50:43.547Z",
+  "generatedAt": "2026-09-18T02:41:52.809Z",
   "matches": [
+    {
+      "meetingId": "asset/k1j/k1jf21nj6g",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Part 2) Global Conference on Promoting Interreligious and Intercultural Dialogue and Tolerance in Countering Hate Speech",
+      "date": "2026-09-17T00:00:00.000Z",
+      "body": null,
+      "snippet": "… supporters, and rationalize acts of violence. The accelerated flow of information, increased global connectivity facilitated by digital platforms and artificial intelligence enable them to do so with unprecedented speed, scale, and reach. Not all manifestations of hate speech are linked …",
+      "link": "https://transcripts.un.org/en/asset/k1j/k1jf21nj6g?t=2283"
+    },
+    {
+      "meetingId": "asset/k1r/k1r6s6jmtc",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Arria Formula Meeting on Safe Seas, Shared Security: Protecting Freedom of Navigation in an Evolving Security Environment",
+      "date": "2026-09-17T00:00:00.000Z",
+      "body": "Security Council",
+      "snippet": "… necessary knowledge and technology to fight against new threats emanating, for example, from the growing rise and development of artificial intelligence. We must also increase our ability to counter all illegal activities that can endanger the human rights of seafarers. …",
+      "link": "https://transcripts.un.org/en/asset/k1r/k1r6s6jmtc?t=7305"
+    },
+    {
+      "meetingId": "asset/k1d/k1dzd1svin",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Briefing on the United Nations System Data Commons",
+      "date": "2026-09-17T00:00:00.000Z",
+      "body": null,
+      "snippet": "… to share information. In response, we must start by making much better use of the evidence we already have. Artificial intelligence makes that task more urgent and more possible. Increasingly, people looking for information are not searching individual agency websites …",
+      "link": "https://transcripts.un.org/en/asset/k1d/k1dzd1svin?t=1673"
+    },
     {
       "meetingId": "asset/k1a/k1avx161nq",
       "term": "artificial intelligence",

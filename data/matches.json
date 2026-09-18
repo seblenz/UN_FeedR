@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-18T02:41:52.809Z",
+  "generatedAt": "2026-09-18T10:23:47.429Z",
   "matches": [
+    {
+      "meetingId": "hrc/63/16",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "16th Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-17T00:00:00.000Z",
+      "body": null,
+      "snippet": "… At the same time, states increasingly rely on data-driven and technologically enabled counterterrorism measures, such as fingerprinting, facial recognition, artificial intelligence, and machine learning systems. While these tools can strengthen security responses, the report finds that accountability frameworks and oversight …",
+      "link": "https://transcripts.un.org/en/hrc/63/16?t=2690"
+    },
     {
       "meetingId": "asset/k1j/k1jf21nj6g",
       "term": "artificial intelligence",

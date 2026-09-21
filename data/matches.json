@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-21T17:39:56.434Z",
+  "generatedAt": "2026-09-21T21:33:42.640Z",
   "matches": [
+    {
+      "meetingId": "asset/k1d/k1dfyb4yca",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Tackling Organized Fraud: A Way Forward from the Global Fraud Summit",
+      "date": "2026-09-21T00:00:00.000Z",
+      "body": null,
+      "snippet": "… to scale up their operations, automate deception, target millions of people, move money quickly, and conceal their activities. As artificial intelligence and other technologies become more refined, criminal networks will only find new and more innovative ways to conduct fraud. …",
+      "link": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=16:55"
+    },
     {
       "meetingId": "asset/k18/k18iyx0b03",
       "term": "artificial intelligence",

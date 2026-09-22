@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-22T02:50:55.027Z",
+  "generatedAt": "2026-09-22T10:46:06.400Z",
   "matches": [
+    {
+      "meetingId": "asset/k1w/k1wfkua8jy",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "87 Million Lives: Delivering on the Promise",
+      "date": "2026-09-21T00:00:00.000Z",
+      "body": null,
+      "snippet": "… in modern warfare. And that would be my last point. Because conflicts are evolving, we are seeing autonomous systems, artificial intelligence, cyber capabilities, armed drones. But the principles need to be the same. Technology changed the nature of warfare, but …",
+      "link": "https://transcripts.un.org/en/asset/k1w/k1wfkua8jy?t=29:22"
+    },
     {
       "meetingId": "asset/k1m/k1mmbf1u54",
       "term": "artificial intelligence",

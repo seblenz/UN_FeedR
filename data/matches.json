@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-21T21:33:42.640Z",
+  "generatedAt": "2026-09-22T02:50:55.027Z",
   "matches": [
+    {
+      "meetingId": "asset/k1m/k1mmbf1u54",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Day 1) SDG Media Zone – 81st Session of the UN General Assembly",
+      "date": "2026-09-21T00:00:00.000Z",
+      "body": null,
+      "snippet": "… with this recent disruption that we've had technologically around generative AI and large language models, this new breed of artificial intelligence, what it does is it's not anymore about the APIs, it's how do we use our natural language to …",
+      "link": "https://transcripts.un.org/en/asset/k1m/k1mmbf1u54?t=2:24:10"
+    },
+    {
+      "meetingId": "asset/k1o/k1o2gyovml",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Launch of COP31 Action Agenda From Ambition to Implementation: Introducing the COP31 Action Agenda",
+      "date": "2026-09-21T00:00:00.000Z",
+      "body": null,
+      "snippet": "… circularity knowledge sharing network will support the scaling up of good practices And also we will have 2026 Antalya Artificial Intelligence Pledge and we will promote the responsible use of artificial intelligence for clean technologies. This is again very important. …",
+      "link": "https://transcripts.un.org/en/asset/k1o/k1o2gyovml?t=48:44"
+    },
+    {
+      "meetingId": "asset/k1b/k1bn52wnc0",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Opening remarks only) Partnership for Multilateralism Summit",
+      "date": "2026-09-21T00:00:00.000Z",
+      "body": null,
+      "snippet": "… the United Nations Security Council, and the multilateral system is under stress. At the same time, climate change, pandemics, artificial intelligence, and economic insecurity are challenges confronting the world to an extent that no country, neither big or small, can …",
+      "link": "https://transcripts.un.org/en/asset/k1b/k1bn52wnc0?t=19:49"
+    },
     {
       "meetingId": "asset/k1d/k1dfyb4yca",
       "term": "artificial intelligence",

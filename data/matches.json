@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-22T10:46:06.400Z",
+  "generatedAt": "2026-09-22T16:05:44.841Z",
   "matches": [
+    {
+      "meetingId": "briefing/geneva/2026-09-22",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "UN Geneva Press Briefing: UNHCR, ITU, WMO, WHO",
+      "date": "2026-09-22T00:00:00.000Z",
+      "body": null,
+      "snippet": "… we expect him to focus on the question of powers and on peace and security, inequality, climate crisis, and artificial intelligence. So you will have the possibility to follow his address on UN Web TV. And so let's now come …",
+      "link": "https://transcripts.un.org/en/briefing/geneva/2026-09-22?t=0:02"
+    },
+    {
+      "meetingId": "asset/k11/k11qndetc3",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Unlocking Climate Innovation: From Global Commitments to Local Green Technology Deployment",
+      "date": "2026-09-21T00:00:00.000Z",
+      "body": null,
+      "snippet": "… partially support developing countries in mobilizing resource of implementing effective response to the multifaceted challenges they face. As expected, artificial intelligence was also a major topic in Berlin. Several initiatives were launched in this context, including the AI Climate Institute …",
+      "link": "https://transcripts.un.org/en/asset/k11/k11qndetc3?t=10:59"
+    },
+    {
+      "meetingId": "asset/k1h/k1hm5pyz6v",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Least Developed Countries Green Industrialization Facilitation (LDC-GIF) Mechanism",
+      "date": "2026-09-21T00:00:00.000Z",
+      "body": null,
+      "snippet": "… a shared pipeline of LDC green industrialization priorities, and partnerships must also help LDCs navigate rapidly evolving technologies, including artificial intelligence. And finally, results. Success must ultimately be measured in projects prepared, technologies deployed, investment mobilized, and decent jobs created …",
+      "link": "https://transcripts.un.org/en/asset/k1h/k1hm5pyz6v?t=7:56"
+    },
     {
       "meetingId": "asset/k1w/k1wfkua8jy",
       "term": "artificial intelligence",

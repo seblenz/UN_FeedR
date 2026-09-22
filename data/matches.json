@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-09-22T16:05:44.841Z",
+  "generatedAt": "2026-09-22T20:45:13.450Z",
   "matches": [
+    {
+      "meetingId": "hrc/63/22",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "22nd Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-22T00:00:00.000Z",
+      "body": null,
+      "snippet": "Thank you, Mr. President. We appreciate the expert mechanism for its study on artificial intelligence, cultural rights, and the right to development. We share the study's central insight Existing international human rights law already …",
+      "link": "https://transcripts.un.org/en/hrc/63/22?t=1:41:11"
+    },
+    {
+      "meetingId": "asset/k1b/k1bxrlhwuq",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Oceans - Solutions Dialogues, Climate Summit 2026",
+      "date": "2026-09-22T00:00:00.000Z",
+      "body": null,
+      "snippet": "… year I hear a lot more hope. And the reason for that is that last year everything was about artificial intelligence. And it was really about how people are cost saving, how people are creating the next big model. This …",
+      "link": "https://transcripts.un.org/en/asset/k1b/k1bxrlhwuq?t=1:58:04"
+    },
+    {
+      "meetingId": "asset/k1a/k1apgve0p0",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Two Years After the Pact for the Future: Progress on Implementation, Challenges and Opportunities for Africa",
+      "date": "2026-09-22T00:00:00.000Z",
+      "body": null,
+      "snippet": "… Pact is also at an early stage, moving from adoption into implementation. The first steps are now visible. on artificial intelligence, the General Assembly established a global dialogue on AI governance and an independent international scientific panel on AI. Every …",
+      "link": "https://transcripts.un.org/en/asset/k1a/k1apgve0p0?t=7:19"
+    },
+    {
+      "meetingId": "asset/k1d/k1d4yh9uje",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "From Knowledge to Prevention: The UN Action Approach to Addressing Conflict-Related Sexual Violence",
+      "date": "2026-09-22T00:00:00.000Z",
+      "body": null,
+      "snippet": "… online activities may expose them to further harm if not adequately protected. Technologies such as satellite data, geospatial solutions, Artificial intelligence and predictive analytics can help identify emerging risks of conflict-related sexual violence earlier and enable preventive action before violence …",
+      "link": "https://transcripts.un.org/en/asset/k1d/k1d4yh9uje?t=58:19"
+    },
     {
       "meetingId": "briefing/geneva/2026-09-22",
       "term": "artificial intelligence",

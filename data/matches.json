@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-23T02:51:11.093Z",
+  "generatedAt": "2026-09-23T10:36:26.104Z",
   "matches": [
+    {
+      "meetingId": "asset/k17/k17s3dutob",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Day 1) General Debate - General Assembly: Plenary meeting, 81st session",
+      "date": "2026-09-22T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… and inequalities have intensified. Trust has frayed. And the climate crisis went from distant warning to daily reality, and artificial intelligence moved at a speed that has blindsided even those who created it. These are not separate crises. They are …",
+      "link": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=23:33"
+    },
     {
       "meetingId": "asset/k1s/k1sq2h7e7z",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "Economic and Social Council",
       "snippet": "… concerns placed on the center interconnected with the connected challenges like climate change, inequality, resource insecurity, and digital transformation. Artificial intelligence, AI, offers much of various opportunities, including for smart water management, cleaner energy, sustainable food solutions and resilient cities. …",
       "link": "https://transcripts.un.org/en/asset/k1y/k1ylt8atwr?t=52"
-    },
-    {
-      "meetingId": "asset/k1m/k1mnyoobfk",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Accelerating Energy System Innovation and Transition for Equity and Resilience to Advance Global Sustainable Development (HLPF 2026 Side Event)",
-      "date": "2026-07-10T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… Unlocking Africa's renewable potential will require major investment in generation, transmission infrastructure, and regional power interconnections. Manufactured products. Additionally, artificial intelligence, cloud computing, and digital services are driving unprecedented global demand for data centers, facilities that require vast amounts of …",
-      "link": "https://transcripts.un.org/en/asset/k1m/k1mnyoobfk?t=4240"
     }
   ]
 }

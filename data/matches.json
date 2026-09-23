@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-22T20:45:13.450Z",
+  "generatedAt": "2026-09-23T02:51:11.093Z",
   "matches": [
+    {
+      "meetingId": "asset/k1s/k1sq2h7e7z",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Beyond 2030: Renewing the Global Commitment to End Poverty in All its Dimensions",
+      "date": "2026-09-22T00:00:00.000Z",
+      "body": null,
+      "snippet": "… Electricity was barely in the capital. One PhD, Timor is with a PhD. No connectivity, telephone, let alone digitalization, artificial intelligence that was unknown then. 25 years we will celebrate next year. And what is the data? We have 1,400 …",
+      "link": "https://transcripts.un.org/en/asset/k1s/k1sq2h7e7z?t=41:38"
+    },
+    {
+      "meetingId": "asset/k1q/k1qnphvn15",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "From Promise to Progress: The Next Breakthroughs for a Changing World | Goals Lounge",
+      "date": "2026-09-22T00:00:00.000Z",
+      "body": null,
+      "snippet": "… point. The Secretary General has said there are three existential threats facing the world today. It's inequality, climate and artificial intelligence. Do you agree with him or is that hyperbolic?",
+      "link": "https://transcripts.un.org/en/asset/k1q/k1qnphvn15?t=5:36"
+    },
     {
       "meetingId": "hrc/63/22",
       "term": "artificial intelligence",
@@ -2178,17 +2200,6 @@
       "body": "Economic and Social Council",
       "snippet": "… Unlocking Africa's renewable potential will require major investment in generation, transmission infrastructure, and regional power interconnections. Manufactured products. Additionally, artificial intelligence, cloud computing, and digital services are driving unprecedented global demand for data centers, facilities that require vast amounts of …",
       "link": "https://transcripts.un.org/en/asset/k1m/k1mnyoobfk?t=4240"
-    },
-    {
-      "meetingId": "asset/k1z/k1zoh6zxef",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(8th meeting) High-Level Political Forum 2026",
-      "date": "2026-07-10T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… public services. And nearly 92% of residents consider Estonia's cybersecurity trustworthy. Estonia continues to advance its digital society through artificial intelligence. With AI Leap program, we are bringing AI into education. Furthermore, we are promoting economy-wide application of AI to …",
-      "link": "https://transcripts.un.org/en/asset/k1z/k1zoh6zxef?t=165"
     }
   ]
 }

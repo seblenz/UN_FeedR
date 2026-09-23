@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-23T10:36:26.104Z",
+  "generatedAt": "2026-09-23T15:55:48.200Z",
   "matches": [
+    {
+      "meetingId": "asset/k19/k19e6nk1j9",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Day 2) SDG Media Zone – 81st Session of the UN General Assembly",
+      "date": "2026-09-22T00:00:00.000Z",
+      "body": null,
+      "snippet": "… if you look at the events this year, what's surged in the past couple of weeks, this threat of artificial intelligence possibly wiping out humanity, some have said. And so we see that the Security Council has put a high …",
+      "link": "https://transcripts.un.org/en/asset/k19/k19e6nk1j9?t=4:51:35"
+    },
+    {
+      "meetingId": "asset/k18/k18tj8of1s",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Protecting Children's Rights facing artificial intelligence: the Coalition for children's rights and protection in the age of Artificial intelligence as an Operational Tool",
+      "date": "2026-09-22T00:00:00.000Z",
+      "body": null,
+      "snippet": "… humor and I don't think that should be replaced by any non-living thing. Mein has taught me to use artificial intelligence. I try to use it, I try to understand what it is, and then slowly, by using it more …",
+      "link": "https://transcripts.un.org/en/asset/k18/k18tj8of1s?t=0:23"
+    },
     {
       "meetingId": "asset/k17/k17s3dutob",
       "term": "artificial intelligence",
@@ -231,6 +253,17 @@
       "body": null,
       "snippet": "… we face. Action on debt and reform of international financial architecture. We need to close the digital divide before artificial intelligence deepens it. We need to place women and girls at the center of investment and decision-making. We also need …",
       "link": "https://transcripts.un.org/en/asset/k15/k15lo600j3?t=27:28"
+    },
+    {
+      "meetingId": "asset/k1e/k1epu598tn",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Sarah Hendricks (UN-Women) & Shantanu Mukherjee (UNDESA) on the launch of the Gender Snapshot Report 2026",
+      "date": "2026-09-17T00:00:00.000Z",
+      "body": null,
+      "snippet": "… the world and the evidence that's in this report is rampant in the context of digital technology and particularly artificial intelligence. Our current evidence shows that AI mirrors the gender biases and the very inequalities that are manifested the world …",
+      "link": "https://transcripts.un.org/en/asset/k1e/k1epu598tn?t=26:28"
     },
     {
       "meetingId": "asset/k1d/k1d1efd120",
@@ -2167,39 +2200,6 @@
       "body": "Economic and Social Council",
       "snippet": "… digital literacy and skills, promote trusted digital ecosystems, and foster the responsible development and governance of emerging technologies, including artificial intelligence. ASEAN reaffirms the importance of revitalization of global partnership by strengthening cooperation among governments, regional and international organizations, international …",
       "link": "https://transcripts.un.org/en/ecosoc/2026/34?t=910"
-    },
-    {
-      "meetingId": "briefing/geneva/2026-07-10",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "UN Geneva Press Briefing: UN Women, WHO, WMO",
-      "date": "2026-07-10T00:00:00.000Z",
-      "body": null,
-      "snippet": "… WHO air quality guidelines. It's not all bad news. The Bulletin also showcases important scientific advances, for instance, in artificial intelligence and machine learning for dust forecasting. This has the potential to provide faster and increasingly accurate forecasts. These findings …",
-      "link": "https://transcripts.un.org/en/briefing/geneva/2026-07-10?t=1760"
-    },
-    {
-      "meetingId": "asset/k10/k105e6ngbs",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Act, Allocate, Accelerate: Advancing Coordinated SDG Delivery Through Eye Health (HLPF 2026 Side Event)",
-      "date": "2026-07-10T00:00:00.000Z",
-      "body": null,
-      "snippet": "… of conditions like glaucoma by supporting specialized centers of excellence and improving patient education. Clinics and hospitals are adopting artificial intelligence software to swiftly screen and detect conditions like diabetic retinopathy and age-related macular degeneration. Another campaign, Don't Lose Your …",
-      "link": "https://transcripts.un.org/en/asset/k10/k105e6ngbs?t=2876"
-    },
-    {
-      "meetingId": "asset/k1y/k1ylt8atwr",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Humanity at the Center: Global Citizenship, Ethical AI, and the Water–Energy–Food Nexus for Transformative SDG Action (HLPF 2026 Side Event)",
-      "date": "2026-07-10T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… concerns placed on the center interconnected with the connected challenges like climate change, inequality, resource insecurity, and digital transformation. Artificial intelligence, AI, offers much of various opportunities, including for smart water management, cleaner energy, sustainable food solutions and resilient cities. …",
-      "link": "https://transcripts.un.org/en/asset/k1y/k1ylt8atwr?t=52"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-24T02:41:12.885Z",
+  "generatedAt": "2026-09-24T10:55:47.082Z",
   "matches": [
+    {
+      "meetingId": "asset/k1b/k1b5jwwa58",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Day 2) General Debate - General Assembly: Plenary meeting, 81st session",
+      "date": "2026-09-23T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… does not stay there. The same is true of other global threats. Technology has made distance matter even less. Artificial intelligence offers enormous opportunities. But in the wrong hands, it can also become a powerful tool for deception, disruption, and …",
+      "link": "https://transcripts.un.org/en/asset/k1b/k1b5jwwa58?t=26:35"
+    },
+    {
+      "meetingId": "asset/k17/k17o0oduzv",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "The Fight Against Hunger and Poverty as a Foundation for Human Dignity and Sustainable Development",
+      "date": "2026-09-23T00:00:00.000Z",
+      "body": null,
+      "snippet": "… it's about these points that we have to talk about and technological advances and here the special care for artificial intelligence that can be used for the good but also for the evil, and so we have to have a …",
+      "link": "https://transcripts.un.org/en/asset/k17/k17o0oduzv?t=25:43"
+    },
     {
       "meetingId": "asset/k19/k19kj3guhx",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… manufacturing, health, and defense. Global demand for these minerals is expected to more than double by 2040, and with artificial intelligence and data centers expansion growing at breakneck speed, this real demand is expected to be so much higher. For …",
       "link": "https://transcripts.un.org/en/asset/k1d/k1dz6fpspm?t=2904"
-    },
-    {
-      "meetingId": "asset/k1h/k1hvetgodz",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(10th meeting) High-Level Political Forum 2026",
-      "date": "2026-07-14T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… by gaps in infrastructure development, limited access to finance, and insufficient institutional capacities. Sustainable industry and digital innovations, including artificial intelligence, offer powerful tools to increase societal resilience and address the crises of climate change, biodiversity loss, and pollution. However, …",
-      "link": "https://transcripts.un.org/en/asset/k1h/k1hvetgodz?t=1174"
-    },
-    {
-      "meetingId": "asset/k1i/k1isyvlsjj",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Taking Stock of the Pact for the Future - Informal meeting of the General Assembly, 80th session",
-      "date": "2026-07-14T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… interests of new and future generations. On digital transformation, the UN just concluded its very first Global Dialogue on Artificial Intelligence. Meanwhile, the Global Digital Compact is guiding national efforts to expand digital public infrastructure, close those digital divides, and …",
-      "link": "https://transcripts.un.org/en/asset/k1i/k1isyvlsjj?t=639"
     }
   ]
 }

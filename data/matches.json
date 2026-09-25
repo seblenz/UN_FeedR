@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-24T21:01:35.710Z",
+  "generatedAt": "2026-09-25T02:58:02.968Z",
   "matches": [
+    {
+      "meetingId": "asset/k1c/k1c75tln0n",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Abdulla Balalaa (United Arab Emirates) on the 2026 UN Water Conference - Press Conference",
+      "date": "2026-09-24T00:00:00.000Z",
+      "body": null,
+      "snippet": "… UNFPA, UNOPS, and also our involvement in the Princeton group. Throughout these days, we focused on the use of artificial intelligence because we want to balance the economic growth and technological needs of our economies, but in the same time, …",
+      "link": "https://transcripts.un.org/en/asset/k1c/k1c75tln0n?t=56:45"
+    },
     {
       "meetingId": "asset/k1a/k1a7o2u5ue",
       "term": "artificial intelligence",
@@ -66,6 +77,17 @@
       "body": null,
       "snippet": "… the evidence behind this is so very crucial. If there's one thing we can all agree on, it's this. Artificial intelligence is advancing at extraordinary speed and the potential is profound. We see that in our societies, we can see …",
       "link": "https://transcripts.un.org/en/asset/k19/k19zq4nhef?t=55:25"
+    },
+    {
+      "meetingId": "asset/k17/k17hr84p6i",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Day 3) SDG Media Zone – 81st Session of the UN General Assembly",
+      "date": "2026-09-23T00:00:00.000Z",
+      "body": null,
+      "snippet": "… an extraordinary period of technological advancement We have more data, more computing power, more earth observation capabilities, and more artificial intelligence than any point in human history. And yet, many of the countries that could benefit most from these capabilities …",
+      "link": "https://transcripts.un.org/en/asset/k17/k17hr84p6i?t=2:09"
     },
     {
       "meetingId": "asset/k1u/k1uxc370ty",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… rights in the context of climate action, biodiversity conservation, sustainability development, and emerging issues such as digital transformation and artificial intelligence. The protection of Indigenous knowledge systems will remain central to this work. The Forum will also continue supporting implementation …",
       "link": "https://transcripts.un.org/en/asset/k1w/k1w00nwapb?t=862"
-    },
-    {
-      "meetingId": "ecosoc/2026/36",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Ministerial Segment of the High-Level Political Forum 2026 | High-Level Segment of the Economic and Social Council, 36th plenary meeting",
-      "date": "2026-07-15T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… more systematic integration of culture into development strategies, including voluntary national reviews. At the same time, digital technologies and artificial intelligence are transforming how culture is created, shared, and preserved, offering new opportunities but also raising important challenges related to …",
-      "link": "https://transcripts.un.org/en/ecosoc/2026/36?t=318"
-    },
-    {
-      "meetingId": "asset/k1v/k1vtzoo5ol",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(12th meeting) High-Level Political Forum 2026",
-      "date": "2026-07-15T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… for financial technology, which has now expanded its mandate to ICT and modern sciences. And it looks at cybersecurity, artificial intelligence, emerging technologies, modern sciences, and it's It promotes women's digital skills, their availability of professional certificates, their entrepreneurship, and …",
-      "link": "https://transcripts.un.org/en/asset/k1v/k1vtzoo5ol?t=7628"
     }
   ]
 }

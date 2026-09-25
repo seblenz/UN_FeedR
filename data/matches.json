@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-25T02:58:02.968Z",
+  "generatedAt": "2026-09-25T10:57:05.425Z",
   "matches": [
+    {
+      "meetingId": "asset/k18/k18iyhzwip",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Day 3) General Debate - General Assembly: Plenary meeting, 81st session",
+      "date": "2026-09-24T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… for shared prosperity. Harnessing emerging technologies for national development is a key priority for our industrialization agenda. Zimbabwe's National Artificial Intelligence Strategy 2026-2030 promotes human-centered, ethical, and responsible innovation. Artificial intelligence must narrow development gaps, while its military use, including …",
+      "link": "https://transcripts.un.org/en/asset/k18/k18iyhzwip?t=16:49"
+    },
     {
       "meetingId": "asset/k1c/k1c75tln0n",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… and must help us to guide our newest innovations. The expert mechanism has produced farsighted and useful work on artificial intelligence and digital systems. Data is a cultural, strategic, and economic resource that can be misused to fuel discrimination and …",
       "link": "https://transcripts.un.org/en/asset/k17/k17vq7vav0?t=46"
-    },
-    {
-      "meetingId": "asset/k1w/k1w00nwapb",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "6th Meeting, 19th Session Expert Mechanism on the Rights of Indigenous Peoples (EMRIP)",
-      "date": "2026-07-15T00:00:00.000Z",
-      "body": null,
-      "snippet": "… rights in the context of climate action, biodiversity conservation, sustainability development, and emerging issues such as digital transformation and artificial intelligence. The protection of Indigenous knowledge systems will remain central to this work. The Forum will also continue supporting implementation …",
-      "link": "https://transcripts.un.org/en/asset/k1w/k1w00nwapb?t=862"
     }
   ]
 }

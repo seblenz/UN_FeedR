@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-26T03:01:15.445Z",
+  "generatedAt": "2026-09-26T10:38:20.468Z",
   "matches": [
+    {
+      "meetingId": "asset/k1u/k1ukg04uyo",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Day 4) General Debate - General Assembly: Plenary meeting, 81st session",
+      "date": "2026-09-25T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… built around respect national interest, and mutual contribution. And the same principle must guide the technological transformation before us. Artificial intelligence offers significant opportunities. For small states, AI can close distance. It can help overcome scale. And it can put …",
+      "link": "https://transcripts.un.org/en/asset/k1u/k1ukg04uyo?t=42:50"
+    },
     {
       "meetingId": "asset/k13/k13wyul0eu",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… are some options to look into, such as thematic reviews, simplified submissions, predictable reporting schedule, and harnessing ICT, including artificial intelligence, to facilitate treaty body work. These are only some of the many possible approaches. Whatever monitoring arrangement would be …",
       "link": "https://transcripts.un.org/en/asset/k14/k14oru4mls?t=33"
-    },
-    {
-      "meetingId": "asset/k16/k16v6hh2wl",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "7th Meeting, 19th Session Expert Mechanism on the Rights of Indigenous Peoples (EMRIP)",
-      "date": "2026-07-16T00:00:00.000Z",
-      "body": null,
-      "snippet": "… other stakeholders in the lead-up to the Decade's Midterm Review in 2027. As we look ahead, emerging technologies, including artificial intelligence, regions present new opportunities to support language learning, documentation, interpretation, and revitalization. At the same time, such developments must …",
-      "link": "https://transcripts.un.org/en/asset/k16/k16v6hh2wl?t=7303"
     }
   ]
 }

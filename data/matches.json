@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-26T10:38:20.468Z",
+  "generatedAt": "2026-09-26T15:32:26.691Z",
   "matches": [
+    {
+      "meetingId": "asset/k1y/k1y2ya60oa",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Shaping the future of work: Decent work in the platform economy",
+      "date": "2026-09-25T00:00:00.000Z",
+      "body": null,
+      "snippet": "… the platform economy, the discussion is really about a much broader transition and transformation in the world of work. Artificial intelligence, digitalization, and other emerging technologies are rapidly changing how work is created, how work is organized, but also how …",
+      "link": "https://transcripts.un.org/en/asset/k1y/k1y2ya60oa?t=0:01"
+    },
     {
       "meetingId": "asset/k1u/k1ukg04uyo",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "General Assembly",
       "snippet": "… the U-City and Smart City policies to the recent K-AI City initiatives, Korea has continuously integrated digital technologies and artificial intelligence into its urban policies. Today, Korea is expanding its national digital twin framework to support decision-making in areas such …",
       "link": "https://transcripts.un.org/en/asset/k1s/k1schv9kos?t=9367"
-    },
-    {
-      "meetingId": "asset/k14/k14oru4mls",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "6th Meeting, 1st session of the Intergovernmental Working Group on Older Persons (IGWG)",
-      "date": "2026-07-16T00:00:00.000Z",
-      "body": null,
-      "snippet": "… are some options to look into, such as thematic reviews, simplified submissions, predictable reporting schedule, and harnessing ICT, including artificial intelligence, to facilitate treaty body work. These are only some of the many possible approaches. Whatever monitoring arrangement would be …",
-      "link": "https://transcripts.un.org/en/asset/k14/k14oru4mls?t=33"
     }
   ]
 }

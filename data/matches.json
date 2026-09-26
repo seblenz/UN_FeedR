@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-26T15:32:26.691Z",
+  "generatedAt": "2026-09-26T20:31:09.315Z",
   "matches": [
+    {
+      "meetingId": "asset/k1a/k1a1w8lw8t",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Day 5) SDG Media Zone – 81st Session of the UN General Assembly",
+      "date": "2026-09-25T00:00:00.000Z",
+      "body": null,
+      "snippet": "So we don't have a lot of time. Left, but when we talk about technological changes and of course, artificial intelligence, I want to go to Zenaida of How does the human intelligence and from your perspective where you're at, …",
+      "link": "https://transcripts.un.org/en/asset/k1a/k1a1w8lw8t?t=3:49:46"
+    },
+    {
+      "meetingId": "hrc/63/28",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "28th Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-25T00:00:00.000Z",
+      "body": null,
+      "snippet": "… 2016 cycle, the rollout of technologies without human rights impact assessments, and the absence of a data governance and artificial intelligence framework. We urge Member States to incorporate these issues in the follow-up of Paraguay's UPR, and we urge Paraguay …",
+      "link": "https://transcripts.un.org/en/hrc/63/28?t=36:53"
+    },
     {
       "meetingId": "asset/k1y/k1y2ya60oa",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… much for your kind invitation and your warm hospitality in the wonderful city of Shanghai. Excellencies, ladies and gentlemen, artificial intelligence can be humanity's greatest opportunity in the 21st century. It could also become one of its greatest risks. As …",
       "link": "https://transcripts.un.org/en/asset/k17/k17zcp9du9?t=3"
-    },
-    {
-      "meetingId": "briefing/sg/2026-07-17",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Secretary-General/China, Deputy Secretary-General, Pakistan & other topics - Daily Press Briefing",
-      "date": "2026-07-17T00:00:00.000Z",
-      "body": null,
-      "snippet": "… Let's get started. Happy Friday, everyone. This morning in Shanghai, the Secretary-General addressed the opening ceremony of the World Artificial Intelligence Conference. He said that artificial intelligence can be humanity's greatest opportunity in the 21st century, and it could also …",
-      "link": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=3"
-    },
-    {
-      "meetingId": "asset/k1s/k1schv9kos",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Midterm Review of the New Urban Agenda (NUA) - Multi-stakeholder Panel 3 and Panel 4 and Closing Segment, General Assembly, 80th session",
-      "date": "2026-07-17T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… the U-City and Smart City policies to the recent K-AI City initiatives, Korea has continuously integrated digital technologies and artificial intelligence into its urban policies. Today, Korea is expanding its national digital twin framework to support decision-making in areas such …",
-      "link": "https://transcripts.un.org/en/asset/k1s/k1schv9kos?t=9367"
     }
   ]
 }

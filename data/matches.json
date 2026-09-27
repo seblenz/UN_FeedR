@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-26T20:31:09.315Z",
+  "generatedAt": "2026-09-27T03:06:33.419Z",
   "matches": [
+    {
+      "meetingId": "asset/k1x/k1xqwpgerg",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "15th UN Crime Congress: Plenary meeting 1 – 26 September 2026",
+      "date": "2026-09-26T00:00:00.000Z",
+      "body": null,
+      "snippet": "… humanity. Distinguished guests, this session takes place at a critical moment as the world undergoes unprecedented and rapid transformations Artificial intelligence, related technologies, and multi-agent intelligence systems are now capable of performing highly sophisticated and complex tasks, bringing profound changes …",
+      "link": "https://transcripts.un.org/en/asset/k1x/k1xqwpgerg?t=1:34:11"
+    },
+    {
+      "meetingId": "asset/k16/k16g777u83",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Day 5) General Debate - General Assembly: Plenary meeting, 81st session",
+      "date": "2026-09-26T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… post-2030 global development agenda. Facing a new scientific and technological revolution and industrial transformation, especially the dynamic development of artificial intelligence, we should take a people-centered approach and develop AI for the positive and for good. narrow the digital divide, …",
+      "link": "https://transcripts.un.org/en/asset/k16/k16g777u83?t=20:41"
+    },
+    {
+      "meetingId": "asset/k16/k16g777u83",
+      "term": "artificial intelligence capacity building",
+      "termSlug": "artificial-intelligence-capacity-building",
+      "termType": "keyword",
+      "title": "(Day 5) General Debate - General Assembly: Plenary meeting, 81st session",
+      "date": "2026-09-26T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… to ensure their responsible use. The Kingdom has taken a leading role in establishing the International Network of Artificial Intelligence Capacity Building Centres, one of the recommendations emanating from the Pact for the Future. The Kingdom also hosts the International …",
+      "link": "https://transcripts.un.org/en/asset/k16/k16g777u83?t=3:40:31"
+    },
     {
       "meetingId": "asset/k1a/k1a1w8lw8t",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": null,
       "snippet": "… the discussion, I will first give the floor to Mrs. Clara Schappaz, Ambassador of France for Digital Affairs and Artificial Intelligence, for some introductory remarks. Ambassador, the floor is yours.",
       "link": "https://transcripts.un.org/en/asset/k1j/k1j541a30u?t=1"
-    },
-    {
-      "meetingId": "ga/80/104",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "General Assembly: 104th Plenary meeting, 80th session",
-      "date": "2026-07-20T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… order to take care also of the injured, as well as education and awareness raising and adopting technology and artificial intelligence, as well as the efforts to enhance road safety that are based primarily on protecting the most vulnerable groups. …",
-      "link": "https://transcripts.un.org/en/ga/80/104?t=3677"
-    },
-    {
-      "meetingId": "asset/k1z/k1zfmtahic",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(2nd meeting) Plenary Session, Global Mechanism on ICTs in the Context of International Security (20-24 July)",
-      "date": "2026-07-20T00:00:00.000Z",
-      "body": null,
-      "snippet": "… must continue our efforts to keep pace with the technological advancements we are witnessing. And this, of course, includes artificial intelligence. Yet the rhythm of diplomacy cannot always match the speed of technological progress, but this should not prevent us …",
-      "link": "https://transcripts.un.org/en/asset/k1z/k1zfmtahic?t=3140"
-    },
-    {
-      "meetingId": "asset/k17/k17zcp9du9",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "António Guterres (UN Secretary-General) remarks on Artificial Intelligence with Chinese President Xi Jinping in Shanghai",
-      "date": "2026-07-17T00:00:00.000Z",
-      "body": null,
-      "snippet": "… much for your kind invitation and your warm hospitality in the wonderful city of Shanghai. Excellencies, ladies and gentlemen, artificial intelligence can be humanity's greatest opportunity in the 21st century. It could also become one of its greatest risks. As …",
-      "link": "https://transcripts.un.org/en/asset/k17/k17zcp9du9?t=3"
     }
   ]
 }

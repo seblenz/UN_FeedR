@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T03:06:33.419Z",
+  "generatedAt": "2026-09-27T16:12:29.315Z",
   "matches": [
     {
       "meetingId": "asset/k1x/k1xqwpgerg",
@@ -165,6 +165,17 @@
       "body": null,
       "snippet": "… because it is World Tourism Day so go see something Sunday World Tourism Day which this year focuses on artificial intelligence and algorithms deciding where you go on a holiday I've used it. In his message, the Secretary-General says AI …",
       "link": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=27:20"
+    },
+    {
+      "meetingId": "asset/k1z/k1zojmdqzt",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Day 4) SDG Media Zone – 81st Session of the UN General Assembly",
+      "date": "2026-09-24T00:00:00.000Z",
+      "body": null,
+      "snippet": "Well, first of all, for us, um, AI, artificial intelligence is an incredible accelerator of development and, and, um, the capacity to upscale. to bring solutions at places where …",
+      "link": "https://transcripts.un.org/en/asset/k1z/k1zojmdqzt?t=3:53:59"
     },
     {
       "meetingId": "asset/k18/k18iyhzwip",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… evolving ICT threat landscape, including pressing challenges related to critical infrastructure, and the impact of emerging technologies such as artificial intelligence. Considering implementation and potential further development of a normative framework for responsible state behavior in the use of ICTs. …",
       "link": "https://transcripts.un.org/en/asset/k1v/k1vii7dp3i?t=144"
-    },
-    {
-      "meetingId": "asset/k1j/k1j541a30u",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Navigating the Challenges of AI in Cyberspace",
-      "date": "2026-07-20T00:00:00.000Z",
-      "body": null,
-      "snippet": "… the discussion, I will first give the floor to Mrs. Clara Schappaz, Ambassador of France for Digital Affairs and Artificial Intelligence, for some introductory remarks. Ambassador, the floor is yours.",
-      "link": "https://transcripts.un.org/en/asset/k1j/k1j541a30u?t=1"
     }
   ]
 }

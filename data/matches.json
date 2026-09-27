@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T16:12:29.315Z",
+  "generatedAt": "2026-09-27T20:42:01.063Z",
   "matches": [
     {
       "meetingId": "asset/k1x/k1xqwpgerg",
@@ -165,6 +165,17 @@
       "body": null,
       "snippet": "… because it is World Tourism Day so go see something Sunday World Tourism Day which this year focuses on artificial intelligence and algorithms deciding where you go on a holiday I've used it. In his message, the Secretary-General says AI …",
       "link": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=27:20"
+    },
+    {
+      "meetingId": "asset/k1w/k1w7h3a8d8",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Building an Inclusive AI Future – 81st Session of the UN General Assembly",
+      "date": "2026-09-24T00:00:00.000Z",
+      "body": null,
+      "snippet": "Well, first of all, for us, AI, artificial intelligence is an incredible accelerator of development and the capacity to upscale. to bring solutions at places where we couldn't …",
+      "link": "https://transcripts.un.org/en/asset/k1w/k1w7h3a8d8?t=1:45"
     },
     {
       "meetingId": "asset/k1z/k1zojmdqzt",
@@ -2189,17 +2200,6 @@
       "body": "Economic and Social Council",
       "snippet": "… towards a future-oriented public administration: 1, anticipatory governance; 2, evidence-informed administration; 3, agile and adaptive administration. We also examined artificial intelligence as both a transformative opportunity and a profound governance challenge. Its use should expand public value and administrative capability …",
       "link": "https://transcripts.un.org/en/ecosoc/2026/40?t=188"
-    },
-    {
-      "meetingId": "asset/k1v/k1vii7dp3i",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(1st meeting) Plenary Session, Global Mechanism on ICTs in the Context of International Security (20-24 July)",
-      "date": "2026-07-20T00:00:00.000Z",
-      "body": null,
-      "snippet": "… evolving ICT threat landscape, including pressing challenges related to critical infrastructure, and the impact of emerging technologies such as artificial intelligence. Considering implementation and potential further development of a normative framework for responsible state behavior in the use of ICTs. …",
-      "link": "https://transcripts.un.org/en/asset/k1v/k1vii7dp3i?t=144"
     }
   ]
 }

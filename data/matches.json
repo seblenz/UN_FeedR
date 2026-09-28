@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-09-28T12:38:15.270Z",
+  "generatedAt": "2026-09-28T22:51:12.371Z",
   "matches": [
+    {
+      "meetingId": "asset/k18/k18entkygn",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "15th UN Crime Congress: Committee II, Workshop 2 – 28 September 2026",
+      "date": "2026-09-28T00:00:00.000Z",
+      "body": null,
+      "snippet": "… so I will describe it as a direction and not a result. Under PGO 2.0, our program to integrate artificial intelligence into our prosecution work, the direction of travel is from a door to the citizen must walk to, towards …",
+      "link": "https://transcripts.un.org/en/asset/k18/k18entkygn?t=38:44"
+    },
+    {
+      "meetingId": "asset/k1h/k1hmrzapby",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "15th UN Crime Congress: HLS thematic meeting 11 – 28 September 2026",
+      "date": "2026-09-28T00:00:00.000Z",
+      "body": null,
+      "snippet": "… ministerial portfolios and has also contributed to international discussions on emerging technologies, including through the World Economic Forum's Global Artificial Intelligence Council. Please, Minister, you have the floor.",
+      "link": "https://transcripts.un.org/en/asset/k1h/k1hmrzapby?t=31:30"
+    },
+    {
+      "meetingId": "asset/k11/k1158uzgo1",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "15th UN Crime Congress: Plenary meeting 7 – 28 September 2026",
+      "date": "2026-09-28T00:00:00.000Z",
+      "body": null,
+      "snippet": "… Vietnam has undertaken a decisive transition from conventional prevention methodologies to a scientific approach based on big data and artificial intelligence. The predictive crime analytic system had enabled law enforcement agency to identify emerging risks at an early stage, optimize …",
+      "link": "https://transcripts.un.org/en/asset/k11/k1158uzgo1?t=1:07:21"
+    },
+    {
+      "meetingId": "asset/k1k/k1kfcwu5kc",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Day 6) General Debate - General Assembly: Plenary meeting, 81st session",
+      "date": "2026-09-28T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… initiatives, water management, conflict prevention, and resilience building. Mr. President, the world is experiencing extraordinary technological advances, including generative artificial intelligence. It is something that comes up in debate after debate. AI offers enormous opportunities, and we acknowledge that, but …",
+      "link": "https://transcripts.un.org/en/asset/k1k/k1kfcwu5kc?t=16:28"
+    },
+    {
+      "meetingId": "asset/k17/k17kzvb8g4",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Part 1) High-level Meeting to Commemorate the 25th Anniversary of the Adoption of the Durban Declaration and Programme of Action - General Assembly, 81st session",
+      "date": "2026-09-28T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… in supposedly neutral procedures, reproduced through biased data sets and amplified by digital platforms that reward outrage and division. Artificial intelligence can expand opportunity, but poorly and unguarded systems can reproduce structural inequalities and spread lies and hatred at unprecedented …",
+      "link": "https://transcripts.un.org/en/asset/k17/k17kzvb8g4?t=16:26"
+    },
+    {
+      "meetingId": "briefing/sg/2026-09-28",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Secretary-General/Durban Declaration, Ethiopia, Sudan & other topics - Daily Press Briefing",
+      "date": "2026-09-28T00:00:00.000Z",
+      "body": null,
+      "snippet": "… to strengthen anti-discrimination laws, business to create workplaces where everyone can contribute, and technology companies to address bias in artificial intelligence. He also called for concrete measures to deliver reparatory justice and urged everyone to stand against injustice and build …",
+      "link": "https://transcripts.un.org/en/briefing/sg/2026-09-28?t=29:22"
+    },
+    {
+      "meetingId": "asset/k16/k166cn2v34",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Part 2) High-level Meeting to Commemorate the 25th Anniversary of the Adoption of the Durban Declaration and Programme of Action - General Assembly, 81st session",
+      "date": "2026-09-28T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… also belongs not just to America, but to all of us. Because we are living in a time where artificial intelligence is turning the digital divide into an even deeper abyss. And from this darkness, I see another kind of …",
+      "link": "https://transcripts.un.org/en/asset/k16/k166cn2v34?t=21:12"
+    },
     {
       "meetingId": "asset/k1s/k1s7q9ccj8",
       "term": "artificial intelligence",
@@ -11,6 +88,28 @@
       "body": null,
       "snippet": "… time when the world is advancing toward digitalization at an unprecedented pace. In an era of rapid technological change, artificial intelligence has emerged as an innovative tool that can significantly enhance crime prevention strategies, provided that its use remains responsible, …",
       "link": "https://transcripts.un.org/en/asset/k1s/k1s7q9ccj8?t=1:02:23"
+    },
+    {
+      "meetingId": "asset/k1d/k1dtifwe0i",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "15th UN Crime Congress: HLS thematic meeting 6 – 27 September 2026",
+      "date": "2026-09-27T00:00:00.000Z",
+      "body": null,
+      "snippet": "… of accelerating justice in the digital age, because fraud shows us very clearly how technology is changing organized crime. Artificial intelligence and other digital tools allow criminal networks to operate at a scale and speed and a reach we have …",
+      "link": "https://transcripts.un.org/en/asset/k1d/k1dtifwe0i?t=18:16"
+    },
+    {
+      "meetingId": "asset/k18/k18vwkjytp",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "15th UN Crime Congress: HLS thematic meeting 8 – 27 September 2026",
+      "date": "2026-09-27T00:00:00.000Z",
+      "body": null,
+      "snippet": "… of technology entails serious risks, including those related to the unfettered use of surveillance technologies and the risk that artificial intelligence compromises the integrity of information systems and public trust in government institutions. The Secretary General's Global Digital Compact sets …",
+      "link": "https://transcripts.un.org/en/asset/k18/k18vwkjytp?t=43:10"
     },
     {
       "meetingId": "asset/k1e/k1epjgtvdi",
@@ -2101,105 +2200,6 @@
       "body": null,
       "snippet": "… through a full textual analysis of the, of the national reports, which we have done with the assistance of artificial intelligence. And the detailed prompts and methodologies of that are in that, in that Information Document 9. But the, the, …",
       "link": "https://transcripts.un.org/en/asset/k1k/k1kwjem2r6?t=1384"
-    },
-    {
-      "meetingId": "asset/k11/k116oaj5v6",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Workshop on the outcomes of the work of the Ad Hoc Technical Expert Group on Synthetic Biology",
-      "date": "2026-07-25T00:00:00.000Z",
-      "body": null,
-      "snippet": "… through the submissions, there appeared to be increased developments, or perhaps increased interest in a few key areas, including artificial intelligence, applications being proposed for conservation uses, applications for bioremediation and waste reduction, applications for bioproduction, fermentation, and industrial uses, …",
-      "link": "https://transcripts.un.org/en/asset/k11/k116oaj5v6?t=997"
-    },
-    {
-      "meetingId": "asset/k1l/k1lz9x9t8y",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Workshop on the recently completed IPBES assessment on business and biodiversity",
-      "date": "2026-07-25T00:00:00.000Z",
-      "body": null,
-      "snippet": "… that assessment remains science-based, proportionate, and responsive to the rapid pace of technological development, particularly in areas such as artificial intelligence and computational biology. And the second part is that the report identifies 5 priorities under areas for further considerations. …",
-      "link": "https://transcripts.un.org/en/asset/k1l/k1lz9x9t8y?t=682"
-    },
-    {
-      "meetingId": "asset/k1w/k1wrfer9ia",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Accelerating the Global Energy Transition: Advancing Renewables and Mobilizing Investment - Informal Interactive Dialogue, General Assembly, 80th session",
-      "date": "2026-07-24T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… only route to electrification, the revolutionary shift that will define whether the century's growth is powered sustainably and equitably. artificial intelligence. They are not future demand drivers. They are now, and they are growing fast. The future economy will be …",
-      "link": "https://transcripts.un.org/en/asset/k1w/k1wrfer9ia?t=1413"
-    },
-    {
-      "meetingId": "asset/k1x/k1xirukyx2",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(9th meeting) Plenary Session, Global Mechanism on ICTs in the Context of International Security (20-24 July)",
-      "date": "2026-07-24T00:00:00.000Z",
-      "body": null,
-      "snippet": "… industrialization of cybercrime, which not only maps the criminal ecosystem but also proposes a framework for collective action. On artificial intelligence, together with Unicry, Interpol has developed practical guidance for the responsible use of AI in law enforcement, including a …",
-      "link": "https://transcripts.un.org/en/asset/k1x/k1xirukyx2?t=3319"
-    },
-    {
-      "meetingId": "briefing/sg/2026-07-24",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Seafarers, West Bank & other topics - Daily Press Briefing",
-      "date": "2026-07-24T00:00:00.000Z",
-      "body": null,
-      "snippet": "… our Deputy Secretary-General, Amina Mohammed, arrived in Mexico City yesterday evening. She's participating there in the 2nd convening on artificial intelligence and human development, which brings together leaders from the region to assess how one of humanity's most transformative technologies …",
-      "link": "https://transcripts.un.org/en/briefing/sg/2026-07-24?t=1859"
-    },
-    {
-      "meetingId": "ecosoc/2026/1",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Economic and Social Council: 1st plenary meeting, 2027 Session",
-      "date": "2026-07-23T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… Sevilla Commitment. Advancing collective environmental protection and promoting digital transformation in these areas of rapid, very rapid advances in artificial intelligence. It is equally critical to work in synergy to strengthen the role of ECOSOC in multilateral cooperation and to …",
-      "link": "https://transcripts.un.org/en/ecosoc/2026/1?t=2888"
-    },
-    {
-      "meetingId": "asset/k1p/k1p4kpj3mz",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(8th meeting) Plenary Session, Global Mechanism on ICTs in the Context of International Security (20-24 July)",
-      "date": "2026-07-23T00:00:00.000Z",
-      "body": null,
-      "snippet": "… Building was in the direct direction. We should preserve these achievements and build upon them as new technologies, including artificial intelligence and quantum computing, continue to reshape the cyber landscape. Madam Chair, many developing countries, the challenge is no longer …",
-      "link": "https://transcripts.un.org/en/asset/k1p/k1p4kpj3mz?t=1386"
-    },
-    {
-      "meetingId": "asset/k1h/k1hkyf9mo0",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "UN Town Hall: The Next Secretary-General",
-      "date": "2026-07-23T00:00:00.000Z",
-      "body": null,
-      "snippet": "… Middle East, to address widening economic gaps for developing nations, to reckon with the blistering and disruptive advance of artificial intelligence, and to navigate the intensifying and divisive competition for global influence amongst the world's major powers.",
-      "link": "https://transcripts.un.org/en/asset/k1h/k1hkyf9mo0?t=152"
-    },
-    {
-      "meetingId": "asset/k1s/k1sa86m4dn",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Natural resources governance: the foundation of peace, security and prosperity - Security Council, Open Debate",
-      "date": "2026-07-22T00:00:00.000Z",
-      "body": "Security Council",
-      "snippet": "… and technological innovation. Today, the strategic importance of natural resources is increasing as the world transitions towards clean energy, artificial intelligence, advanced manufacturing, and digital technologies. Competition— rather, the scramble for natural and critical minerals is consequently becoming a defining …",
-      "link": "https://transcripts.un.org/en/asset/k1s/k1sa86m4dn?t=4129"
     }
   ]
 }

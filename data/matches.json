@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-29T17:42:28.033Z",
+  "generatedAt": "2026-09-29T21:45:17.087Z",
   "matches": [
+    {
+      "meetingId": "briefing/pga/2026-09-29",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "General Assembly's High-Level Week & other topics - PGA Spokesperson Briefing",
+      "date": "2026-09-29T00:00:00.000Z",
+      "body": null,
+      "snippet": "… minor strides, but not nearly fast enough. Also, according to our preliminary numbers, more than 60% of speakers mentioned artificial intelligence in their speeches. Almost three quarters of speakers mentioned climate in some capacity. As you know, five mandated high-level …",
+      "link": "https://transcripts.un.org/en/briefing/pga/2026-09-29?t=0:05"
+    },
+    {
+      "meetingId": "asset/k1e/k1e0kjhzk5",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Part 2) High-level Plenary Meeting to Commemorate and Promote the International Day for the Total Elimination of Nuclear Weapons - General Assembly, 81st session",
+      "date": "2026-09-29T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… continue to exist, we have a responsibility to reduce the risks associated with their existence. The rapid development of artificial intelligence and its growing incorporation into military systems raises new challenges. This is why Panama considers it fundamental that the …",
+      "link": "https://transcripts.un.org/en/asset/k1e/k1e0kjhzk5?t=1:47:19"
+    },
     {
       "meetingId": "asset/k18/k18hbe7ctm",
       "term": "artificial intelligence",
@@ -495,6 +517,17 @@
       "body": null,
       "snippet": "… the evidence behind this is so very crucial. If there's one thing we can all agree on, it's this. Artificial intelligence is advancing at extraordinary speed and the potential is profound. We see that in our societies, we can see …",
       "link": "https://transcripts.un.org/en/asset/k19/k19zq4nhef?t=55:25"
+    },
+    {
+      "meetingId": "asset/k1p/k1pibtqnvp",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "The Kind of Leader the World Needs Now – 81st Session of the UN General Assembly",
+      "date": "2026-09-23T00:00:00.000Z",
+      "body": null,
+      "snippet": "… General can do, but not least also about putting this type of empathy, solidarity, ethics, when we speak about artificial intelligence or climate on the others.",
+      "link": "https://transcripts.un.org/en/asset/k1p/k1pibtqnvp?t=35:03"
     },
     {
       "meetingId": "asset/k17/k17hr84p6i",
@@ -2167,39 +2200,6 @@
       "body": "Security Council",
       "snippet": "… justice cooperation, financial investigations, and coordinated responses. Second, the growing exploitation by Daesh and its affiliates of advances in artificial intelligence, encrypted communications, digital platforms, virtual assets, and unmanned aircraft systems underscores the need to strengthen governance, oversight, and international …",
       "link": "https://transcripts.un.org/en/sc/10205?t=1019"
-    },
-    {
-      "meetingId": "asset/k1d/k1daebmyos",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(2nd meeting) - Fifth Session of the Intergovernmental Negotiating Committee on the UN Framework Convention on International Tax Cooperation (INC Tax) - 3 to 13 August 2026",
-      "date": "2026-08-03T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… across multiple jurisdictions. We support flexible and resilient approaches capable of responding to digitalization, intangible assets, highly mobile capital, artificial intelligence, crypto assets, and evolving business models. Such flexibility should be accompanied by clear institutional mandates, transparent procedures, periodic technical …",
-      "link": "https://transcripts.un.org/en/asset/k1d/k1daebmyos?t=1638"
-    },
-    {
-      "meetingId": "asset/k15/k15m6k7wsy",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(4th Meeting) 20th International Human Rights Summit",
-      "date": "2026-07-31T00:00:00.000Z",
-      "body": null,
-      "snippet": "… means of upholding human rights because people can only protect the rights they understand. Technology will continue to evolve. Artificial intelligence will become more powerful. The internet will become more connected. Yet none of these innovations on their own will …",
-      "link": "https://transcripts.un.org/en/asset/k15/k15m6k7wsy?t=3486"
-    },
-    {
-      "meetingId": "asset/k10/k10njs7suo",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(3rd Meeting) 20th International Human Rights Summit",
-      "date": "2026-07-31T00:00:00.000Z",
-      "body": null,
-      "snippet": "… conflicts— we now have to add, in our times, we have to add climate change, we have to add artificial intelligence, and we have to add this I want to be careful in how I phrase this issue. We need …",
-      "link": "https://transcripts.un.org/en/asset/k10/k10njs7suo?t=4144"
     }
   ]
 }

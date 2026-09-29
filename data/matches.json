@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-28T22:51:12.371Z",
+  "generatedAt": "2026-09-29T11:57:11.824Z",
   "matches": [
+    {
+      "meetingId": "asset/k10/k10wp53vha",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "15th UN Crime Congress: Plenary meeting 8 – 29 September 2026",
+      "date": "2026-09-29T00:00:00.000Z",
+      "body": null,
+      "snippet": "… financial flows, and evidence cross border. While legal authority remains national, Conflict, distraction and misinformation pressure institutions. Technology, including artificial intelligence, may improve accessibility, case management and the evidence and the analysis of evidence. It may also reproduce discrimination, expense …",
+      "link": "https://transcripts.un.org/en/asset/k10/k10wp53vha?t=34:49"
+    },
+    {
+      "meetingId": "hrc/63/31",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "31st Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-29T00:00:00.000Z",
+      "body": null,
+      "snippet": "… equally strengthen the role of independent national human rights mechanisms, as they also play a critical role. Fourth, assess artificial intelligence and algorithmic systems for bias and discrimination and discriminatory outcomes. We are pleased to see that in the recently …",
+      "link": "https://transcripts.un.org/en/hrc/63/31?t=27:50"
+    },
     {
       "meetingId": "asset/k18/k18entkygn",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": "General Assembly",
       "snippet": "… social inclusion. Fourth, investment in innovation and data and digital transformation by working on urban data systems and using artificial intelligence and emerging technologies and geospatial systems in urban design and planning, which improves the efficiency for resource management and …",
       "link": "https://transcripts.un.org/en/ga/80/103/2?t=8283"
-    },
-    {
-      "meetingId": "asset/k11/k11s3fiw4e",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Twenty-eighth meeting of the Subsidiary Body on Scientific, Technical and Technological Advice (SBSTTA-28) - PM session",
-      "date": "2026-07-27T00:00:00.000Z",
-      "body": null,
-      "snippet": "… We support the new technical expert group and recommend expanding its scope to include digital innovation, Earth observation technologies, artificial intelligence, and practical implementation lessons from parties. On knowledge systems and the second review, Kenya strongly supports integrating traditional knowledge, …",
-      "link": "https://transcripts.un.org/en/asset/k11/k11s3fiw4e?t=2554"
-    },
-    {
-      "meetingId": "asset/k1k/k1kwjem2r6",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Workshop on the global report on collective progress in the implementation of the Kunming-Montreal Global Biodiversity Framework",
-      "date": "2026-07-25T00:00:00.000Z",
-      "body": null,
-      "snippet": "… through a full textual analysis of the, of the national reports, which we have done with the assistance of artificial intelligence. And the detailed prompts and methodologies of that are in that, in that Information Document 9. But the, the, …",
-      "link": "https://transcripts.un.org/en/asset/k1k/k1kwjem2r6?t=1384"
     }
   ]
 }

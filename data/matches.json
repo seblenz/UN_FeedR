@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-30T11:45:17.172Z",
+  "generatedAt": "2026-09-30T17:25:40.720Z",
   "matches": [
+    {
+      "meetingId": "asset/k14/k14cybrhnf",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "15th UN Crime Congress: Plenary meeting 11 – 30 September 2026",
+      "date": "2026-09-30T00:00:00.000Z",
+      "body": null,
+      "snippet": "… information communication technologies. Member States are encouraged to consult relevant Council of Europe instruments, including the Framework Convention on Artificial Intelligence, Human Rights, Democracy and the Rule of Law, and to consider signature and ratification as appropriate. Member States are …",
+      "link": "https://transcripts.un.org/en/asset/k14/k14cybrhnf?t=44:16"
+    },
     {
       "meetingId": "asset/k1b/k1bkve9id3",
       "term": "artificial intelligence",
@@ -539,6 +550,17 @@
       "body": null,
       "snippet": "… the evidence behind this is so very crucial. If there's one thing we can all agree on, it's this. Artificial intelligence is advancing at extraordinary speed and the potential is profound. We see that in our societies, we can see …",
       "link": "https://transcripts.un.org/en/asset/k19/k19zq4nhef?t=55:25"
+    },
+    {
+      "meetingId": "asset/k1o/k1oe85ln8d",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Cultural Heritage at Stake: Addressing Looting, Illicit Trafficking and Restitution through International Law, Operational Cooperation and Cultural Diplomacy",
+      "date": "2026-09-23T00:00:00.000Z",
+      "body": null,
+      "snippet": "… and other international organizations. and it centrally requires us to harness new technologies, interoperable databases, digital monitoring tools, and artificial intelligence, responsibly and effectively in support of human expertise and institutional accountability. Greece has consistently placed the fight against illicit …",
+      "link": "https://transcripts.un.org/en/asset/k1o/k1oe85ln8d?t=10:14"
     },
     {
       "meetingId": "asset/k1p/k1pibtqnvp",
@@ -2178,28 +2200,6 @@
       "body": "Economic and Social Council",
       "snippet": "… aim to help strengthen the collective understanding of the opportunities and challenges presented by a rapid technological innovations, including artificial intelligence, digital twins, cloud native architecture, automation, integrated data ecosystems, and emerging infrastructure. Importantly, this work is not about predicting …",
       "link": "https://transcripts.un.org/en/asset/k1u/k1urzl1va2?t=1690"
-    },
-    {
-      "meetingId": "asset/k1p/k1pd2bbewl",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(4th meeting) Sixteenth session of the United Nations Committee of Experts on Global Geospatial Information Management (UN-GGIM)",
-      "date": "2026-08-06T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… experience, discussing emerging trends and promoting collaborations. The Congress program is organized in into thematic tracks covering governance, interoperability, artificial intelligence and innovation, people centered outcome, partnership and investment and regional, regional and specialized domain. Through regular virtual meeting, the …",
-      "link": "https://transcripts.un.org/en/asset/k1p/k1pd2bbewl?t=75"
-    },
-    {
-      "meetingId": "asset/k1a/k1au2xjxkj",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(1st meeting) Sixteenth session of the United Nations Committee of Experts on Global Geospatial Information Management (UN-GGIM)",
-      "date": "2026-08-05T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… observations, is crucial to both of those. We also see how the pace of the digital transformation is accelerating. Artificial intelligence, advanced analytics and new information sources are shaping how we understand our world, how we design policies, how we …",
-      "link": "https://transcripts.un.org/en/asset/k1a/k1au2xjxkj?t=124"
     }
   ]
 }

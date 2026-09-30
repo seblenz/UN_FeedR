@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-29T21:45:17.087Z",
+  "generatedAt": "2026-09-30T11:45:17.172Z",
   "matches": [
+    {
+      "meetingId": "asset/k1b/k1bkve9id3",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "15th UN Crime Congress: Committee II, Workshop 4 – 30 September 2026",
+      "date": "2026-09-30T00:00:00.000Z",
+      "body": null,
+      "snippet": "… signed by 70 countries worldwide, but also cybercrime, the so-called Budapest Convention, protection of personal data, bioethics, and now artificial intelligence. On this Council of Europe Framework Convention, Artificial Intelligence, Human Rights, Democracy and Rule of Law, is the first …",
+      "link": "https://transcripts.un.org/en/asset/k1b/k1bkve9id3?t=29:36"
+    },
+    {
+      "meetingId": "hrc/63/33",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "33rd Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-09-30T00:00:00.000Z",
+      "body": null,
+      "snippet": "… to justice and civic participation, alongside investments in education, healthcare, social protection and other essential infrastructure. Emerging challenges, including artificial intelligence, the widening digital divide, climate change, and mounting economic pressures threaten to deepen existing inequalities, particularly in developing countries. …",
+      "link": "https://transcripts.un.org/en/hrc/63/33?t=46:01"
+    },
     {
       "meetingId": "briefing/pga/2026-09-29",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": "Economic and Social Council",
       "snippet": "… observations, is crucial to both of those. We also see how the pace of the digital transformation is accelerating. Artificial intelligence, advanced analytics and new information sources are shaping how we understand our world, how we design policies, how we …",
       "link": "https://transcripts.un.org/en/asset/k1a/k1au2xjxkj?t=124"
-    },
-    {
-      "meetingId": "asset/k1r/k1r8ps6wx9",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(2nd meeting) Sixteenth session of the United Nations Committee of Experts on Global Geospatial Information Management (UN-GGIM)",
-      "date": "2026-08-05T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… group on the GeoAI for sustainable development between UN-GGIM Asia Pacific. These initiatives reflect the increasing importance of geospatial artificial intelligence as a tool for the innovation and evidence-based decision making. We encourage all regional committee and the United Nations …",
-      "link": "https://transcripts.un.org/en/asset/k1r/k1r8ps6wx9?t=1395"
-    },
-    {
-      "meetingId": "sc/10205",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Threats to international peace and security caused by terrorist acts - Security Council, 10205th meeting",
-      "date": "2026-08-05T00:00:00.000Z",
-      "body": "Security Council",
-      "snippet": "… justice cooperation, financial investigations, and coordinated responses. Second, the growing exploitation by Daesh and its affiliates of advances in artificial intelligence, encrypted communications, digital platforms, virtual assets, and unmanned aircraft systems underscores the need to strengthen governance, oversight, and international …",
-      "link": "https://transcripts.un.org/en/sc/10205?t=1019"
     }
   ]
 }

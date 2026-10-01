@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-10-01T12:14:15.071Z",
+  "generatedAt": "2026-10-01T22:13:39.537Z",
   "matches": [
+    {
+      "meetingId": "hrc/63/35",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "35th Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-10-01T00:00:00.000Z",
+      "body": null,
+      "snippet": "… and dignity of everyone. Albania is concerned with the forms of discrimination that are seen in the digital domain. Artificial intelligence tools may amplify prejudices and facilitate the spread of racist and xenophobic content. Their development and their use should …",
+      "link": "https://transcripts.un.org/en/hrc/63/35?t=0:36"
+    },
+    {
+      "meetingId": "asset/k1f/k1f7a63wn4",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "15th UN Crime Congress: Plenary meeting 13 – 1 October 2026",
+      "date": "2026-10-01T00:00:00.000Z",
+      "body": null,
+      "snippet": "… decision making on criminal justice outcomes could threaten the integrity of criminal justice process. It was also underscored that artificial intelligence was reshaping both the commission of crime and the means of preventing and investigating it. Therefore, capacity building for …",
+      "link": "https://transcripts.un.org/en/asset/k1f/k1f7a63wn4?t=8:47"
+    },
+    {
+      "meetingId": "ga/c3/81/1",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 1st plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-01T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… must be upheld without discrimination, regardless of a child's background or circumstances. Children's lives are becoming increasingly connected to artificial intelligence and digital technologies. Digital tools can create valuable opportunities for learning, communication, and access to essential services, but they …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/1?t=1:13:46"
+    },
+    {
+      "meetingId": "briefing/sg/2026-10-01",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "FlyDubai, Ethiopia & other topics - Daily Press Briefing",
+      "date": "2026-10-01T00:00:00.000Z",
+      "body": null,
+      "snippet": "Look, we use the words that we use. When it comes to artificial intelligence, I think if you go back and look what the Secretary-General said, I think it's pretty easy to conclude …",
+      "link": "https://transcripts.un.org/en/briefing/sg/2026-10-01?t=17:42"
+    },
     {
       "meetingId": "hrc/63/34",
       "term": "artificial intelligence",
@@ -2156,50 +2200,6 @@
       "body": "General Assembly",
       "snippet": "… and Nigeria. And we'd also like to support the comments made by ATAF just now. On the inclusion of artificial intelligence in the scope of Article 6, we are in favor of including this as long as the definition proposed …",
       "link": "https://transcripts.un.org/en/asset/k1b/k1b98a9ma4?t=6209"
-    },
-    {
-      "meetingId": "asset/k1r/k1r87o3gvq",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Seventh meeting of the Subsidiary Body on Implementation (SBI-7) - AM session",
-      "date": "2026-08-11T00:00:00.000Z",
-      "body": null,
-      "snippet": "Thank you, Chair. On paragraph 9, we would like to keep the explicit reference to new technologies, also including artificial intelligence, so it would read, the use of artificial intelligence and relevant new technologies. And paragraph C would like to …",
-      "link": "https://transcripts.un.org/en/asset/k1r/k1r87o3gvq?t=3549"
-    },
-    {
-      "meetingId": "asset/k1h/k1h6fefyhw",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(11th meeting) - Fifth Session of the Intergovernmental Negotiating Committee on the UN Framework Convention on International Tax Cooperation (INC Tax) - 3 to 13 August 2026",
-      "date": "2026-08-10T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… to have the feedback of the machine and decide how to approach it. Definitely those concerns will increase with artificial intelligence and more developments that we will face in the near future. What I want to address here is that …",
-      "link": "https://transcripts.un.org/en/asset/k1h/k1h6fefyhw?t=9304"
-    },
-    {
-      "meetingId": "asset/k13/k13ss1do53",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(5th meeting) Sixteenth session of the United Nations Committee of Experts on Global Geospatial Information Management (UN-GGIM)",
-      "date": "2026-08-07T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… the side event on August 3rd. These initiatives highlight the growing importance and impact of emerging technologies such as artificial intelligence, and the working group will continue to identify the key policy and legal considerations, challenges, and opportunities associated with …",
-      "link": "https://transcripts.un.org/en/asset/k13/k13ss1do53?t=6303"
-    },
-    {
-      "meetingId": "asset/k1w/k1w8vwdady",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(6th meeting) Sixteenth session of the United Nations Committee of Experts on Global Geospatial Information Management (UN-GGIM)",
-      "date": "2026-08-07T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… Experts' geographical and linguistic divisions. The Committee also encouraged active participation in the Group's work concerning the use of artificial intelligence, in the context of geographical name standardization and management so countries can enhance their efforts on AI readiness. And …",
-      "link": "https://transcripts.un.org/en/asset/k1w/k1w8vwdady?t=775"
     }
   ]
 }

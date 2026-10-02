@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-01T22:13:39.537Z",
+  "generatedAt": "2026-10-02T03:35:49.755Z",
   "matches": [
+    {
+      "meetingId": "ga/c3/81/2",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 2nd plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-01T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… transformation, and growing pressure on the international system. Conflicts are multiplying, humanitarian needs are rising, while new technologies including artificial intelligence, are transforming our societies at unprecedented speed. In this rapidly evolving information environment, disinformation is no longer an abstract …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/2?t=24:27"
+    },
     {
       "meetingId": "hrc/63/35",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… enhance because we would not like to do micromanagement of the secretariat. Then also in the second line after artificial intelligence and we would like to propose to add other relevant new technologies and after technologies there should be a …",
       "link": "https://transcripts.un.org/en/asset/k14/k14m0t6wzh?t=5393"
-    },
-    {
-      "meetingId": "asset/k1b/k1b98a9ma4",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(14th meeting) - Fifth Session of the Intergovernmental Negotiating Committee on the UN Framework Convention on International Tax Cooperation (INC Tax) - 3 to 13 August 2026",
-      "date": "2026-08-11T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… and Nigeria. And we'd also like to support the comments made by ATAF just now. On the inclusion of artificial intelligence in the scope of Article 6, we are in favor of including this as long as the definition proposed …",
-      "link": "https://transcripts.un.org/en/asset/k1b/k1b98a9ma4?t=6209"
     }
   ]
 }

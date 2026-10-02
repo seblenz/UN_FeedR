@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-02T03:35:49.755Z",
+  "generatedAt": "2026-10-02T21:42:03.626Z",
   "matches": [
+    {
+      "meetingId": "ga/c3/81/3",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 3rd plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-02T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… security and youth, peace, and security agendas. Third, protecting the rights and well-being of children requires our continued attention. Artificial intelligence, social media, and digital platforms offer enormous opportunities, but also expose children to new forms of exploitation, violence, and …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/3?t=56:37"
+    },
+    {
+      "meetingId": "ga/c4/81/2",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Fourth Committee, 2nd plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-02T00:00:00.000Z",
+      "body": "Fourth Committee",
+      "snippet": "… be compromised. Third, we must manage transformation responsibly and do it together. New technologies are reshaping information and communication. Artificial intelligence can expand access, advance multilingualism, and extend the reach of event communications. It can also accelerate misinformation and disinformation, …",
+      "link": "https://transcripts.un.org/en/ga/c4/81/2?t=20:43"
+    },
     {
       "meetingId": "ga/c3/81/2",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… saying AI adoption. What does it mean in this case, right? AI adoption is the strategic process of integrating artificial intelligence tools into daily workflows, business operations, and decision making. And for the purposes of this presentation and the scenarios …",
       "link": "https://transcripts.un.org/en/asset/k1c/k1cpd2i1pj?t=796"
-    },
-    {
-      "meetingId": "asset/k11/k11b7ha2d5",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Youth and AI Summit, in commemoration of International Youth Day 2026",
-      "date": "2026-08-12T00:00:00.000Z",
-      "body": null,
-      "snippet": "… brings together young people, policymakers, experts, and leaders to discuss one of the most transformative technologies of our time, artificial intelligence. Throughout this summit, We will have the opportunity to hear from high level political figures and leading voices on …",
-      "link": "https://transcripts.un.org/en/asset/k11/k11b7ha2d5?t=2076"
-    },
-    {
-      "meetingId": "asset/k14/k14m0t6wzh",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Seventh meeting of the Subsidiary Body on Implementation (SBI-7) - AM Session",
-      "date": "2026-08-12T00:00:00.000Z",
-      "body": null,
-      "snippet": "… enhance because we would not like to do micromanagement of the secretariat. Then also in the second line after artificial intelligence and we would like to propose to add other relevant new technologies and after technologies there should be a …",
-      "link": "https://transcripts.un.org/en/asset/k14/k14m0t6wzh?t=5393"
     }
   ]
 }

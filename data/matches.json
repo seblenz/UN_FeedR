@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-02T21:42:03.626Z",
+  "generatedAt": "2026-10-03T03:20:04.193Z",
   "matches": [
+    {
+      "meetingId": "asset/k13/k13o9p4a21",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Part 1) Future of Money, Governance & the Law Summit",
+      "date": "2026-10-02T00:00:00.000Z",
+      "body": null,
+      "snippet": "… affected region. To address this, at the UN Pension Fund, we engineer an identity solution combining blockchain, biometrics, and artificial intelligence. Biometric facial recognition verify the identity solution in real time. pairing liveness detection with privacy-preserving edge processing. Artificial intelligence …",
+      "link": "https://transcripts.un.org/en/asset/k13/k13o9p4a21?t=0:04"
+    },
+    {
+      "meetingId": "ga/c3/81/4",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 4th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-02T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… to this chair. The technical revolution is hitting us like a thunderstorm. The UN Secretary General has said runaway artificial intelligence represents one of three existential threats to humanity, alongside the climate crisis and increasing inequality. International law and human …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/4?t=15:18"
+    },
     {
       "meetingId": "ga/c3/81/3",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… old convention and enable it to better guard against the misuse of biology and the risk posed by the artificial intelligence. Ambassador Meyer is also available for interviews upon request. So we will share this with you and if you …",
       "link": "https://transcripts.un.org/en/briefing/geneva/2026-08-14?t=3650"
-    },
-    {
-      "meetingId": "crpd/843",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "843rd Meeting, 35th Session, Committee on the Rights of Persons with Disabilities (CRPD)",
-      "date": "2026-08-12T00:00:00.000Z",
-      "body": null,
-      "snippet": "… and accountability mechanisms. Investing in accessibility and universal design, not only in physical infrastructure, but also in digital technologies, artificial intelligence, public services, transportation, education, healthcare and emergency preparedness. Third, further international cooperation and ensure that persons with disabilities are …",
-      "link": "https://transcripts.un.org/en/crpd/843?t=1675"
-    },
-    {
-      "meetingId": "asset/k1c/k1cpd2i1pj",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Youth and AI Summit, in commemoration of International Youth Day 2026",
-      "date": "2026-08-12T00:00:00.000Z",
-      "body": null,
-      "snippet": "… saying AI adoption. What does it mean in this case, right? AI adoption is the strategic process of integrating artificial intelligence tools into daily workflows, business operations, and decision making. And for the purposes of this presentation and the scenarios …",
-      "link": "https://transcripts.un.org/en/asset/k1c/k1cpd2i1pj?t=796"
     }
   ]
 }

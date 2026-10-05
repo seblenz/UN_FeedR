@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-04T03:47:52.741Z",
+  "generatedAt": "2026-10-05T13:18:42.906Z",
   "matches": [
+    {
+      "meetingId": "hrc/63/39",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "39th Meeting - 63rd Session of Human Rights Council",
+      "date": "2026-10-05T00:00:00.000Z",
+      "body": null,
+      "snippet": "… and the duty of international cooperation in addressing shared global challenges. At the same time, rapidly evolving technologies, including artificial intelligence, present both opportunities and challenges. Technical assistance and capacity building can help strengthen national capacities to harness these developments …",
+      "link": "https://transcripts.un.org/en/hrc/63/39?t=35:41"
+    },
     {
       "meetingId": "asset/k13/k13o9p4a21",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… where we will need to use Earth observation, geospatial data. We aim at the secretariat to integrate heavily the artificial intelligence in our work because we need not only to be accurate, but we need to be quick because the …",
       "link": "https://transcripts.un.org/en/asset/k18/k18ieuyvjq?t=2187"
-    },
-    {
-      "meetingId": "asset/k1x/k1x9agskkd",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(Opening Ceremony) 17th session of the Conference of the Parties to the United Nations Convention to Combat Desertification - UNCCD COP17",
-      "date": "2026-08-16T00:00:00.000Z",
-      "body": null,
-      "snippet": "… local communities that restore ecosystems and support renewable energy benefit from the economic gains. We are also gradually introducing artificial intelligence, remote sensing, geographic information systems, and satellite technologies into land monitoring and natural resource management. Our goal is to …",
-      "link": "https://transcripts.un.org/en/asset/k1x/k1x9agskkd?t=1233"
     }
   ]
 }

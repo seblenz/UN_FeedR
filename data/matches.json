@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-06T22:08:58.950Z",
+  "generatedAt": "2026-10-07T03:46:43.200Z",
   "matches": [
+    {
+      "meetingId": "ga/c2/81/5",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Second Committee, 5th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-06T00:00:00.000Z",
+      "body": "Second Committee",
+      "snippet": "… local communities benefit throughout the year while avoiding excessive seasonal pressures. We will also follow closely the discussions on artificial intelligence and its contribution to sustainable development. We are of the view that technological progress must remain human-centered, inclusive, and …",
+      "link": "https://transcripts.un.org/en/ga/c2/81/5?t=14:44"
+    },
+    {
+      "meetingId": "ga/c3/81/8/3",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 8th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-06T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… continue to face serious challenges from armed conflicts, poverty, climate change, displacement, and widening inequalities. Rapid digital transformation and artificial intelligence bring unprecedented opportunities, but also expose children to new risks of violence, exploitation, abuse, and trust to privacy. Vietnam …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/8/3?t=2:02:17"
+    },
+    {
+      "meetingId": "ga/c6/81/4/2",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Sixth Committee, 4th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-06T00:00:00.000Z",
+      "body": "Sixth Committee",
+      "snippet": "… that the ninth review would have been more responsive to today's challenges, had it included a clearer language regarding artificial intelligence and other emerging technologies, including the potential for their misuse for terrorist purposes, explicit recognition of Islamophobia and other …",
+      "link": "https://transcripts.un.org/en/ga/c6/81/4/2?t=19:41"
+    },
     {
       "meetingId": "cedaw/3010",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": null,
       "snippet": "Thank you. I want to start by just sharing a statistic. $2 trillion have gone into investing into artificial intelligence. We also have about $2 trillion that's gone into climate finance. Not bad. If you do a double click …",
       "link": "https://transcripts.un.org/en/asset/k15/k15aldogf9?t=2078"
-    },
-    {
-      "meetingId": "asset/k1r/k1rnmfktrp",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "High-level Opening Ceremony - UNCCD COP17",
-      "date": "2026-08-23T00:00:00.000Z",
-      "body": null,
-      "snippet": "… of the world and to help strengthen climate adaptation and resilience. The development of space technology, drones, remote sensing, artificial intelligence, big data and digital technologies is opening up vast opportunities to assess and prevent land degradation, desertification and drought …",
-      "link": "https://transcripts.un.org/en/asset/k1r/k1rnmfktrp?t=3205"
-    },
-    {
-      "meetingId": "briefing/sg/2026-08-21",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Daily Press Briefing by the Spokesperson of the Secretary-General",
-      "date": "2026-08-21T00:00:00.000Z",
-      "body": null,
-      "snippet": "… secretary general Amina Muhammad is in China and Xi'an today, where she participated in the third regional convening on artificial intelligence and human development, building on the previous regional gatherings in Cairo and Mexico City. Together with experts and thought …",
-      "link": "https://transcripts.un.org/en/briefing/sg/2026-08-21?t=1720"
-    },
-    {
-      "meetingId": "asset/k1g/k1gelrpwa6",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "\"Individual, Local, National, Global: The Ripple Effects of Becoming a Young Negotiator\" - Press Conference, UNCCD COP17",
-      "date": "2026-08-20T00:00:00.000Z",
-      "body": null,
-      "snippet": "… one since YNA's existence. To give a little bit of context of Gainforest, we develop technology, we look into artificial intelligence to empower and drive value-driven designs and designs with communities around the world. We mostly act in rainforest around …",
-      "link": "https://transcripts.un.org/en/asset/k1g/k1gelrpwa6?t=726"
     }
   ]
 }

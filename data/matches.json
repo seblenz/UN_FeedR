@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-07T22:31:48.452Z",
+  "generatedAt": "2026-10-08T04:00:28.033Z",
   "matches": [
+    {
+      "meetingId": "ga/c3/81/10",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 10th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-07T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… the adoption of the Doha Declaration on Strengthening International Cooperation and Technical Assistance and Seizing the Opportunities Provided by Artificial Intelligence in Preventing and Combating Corruption. In conclusion, we will continue to combat drug trafficking, prevent corruption. I thank you, …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/10?t=40:17"
+    },
+    {
+      "meetingId": "ga/c6/81/6",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Sixth Committee, 6th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-07T00:00:00.000Z",
+      "body": "Sixth Committee",
+      "snippet": "… should strengthen global governance in emerging areas such as cyberspace, outer space, the deep sea, the polar regions, and artificial intelligence, with a view to preventing them from becoming yet another source for rivalry, but rather promote cooperation in these …",
+      "link": "https://transcripts.un.org/en/ga/c6/81/6?t=49:09"
+    },
     {
       "meetingId": "hrc/63/43",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": "Economic and Social Council",
       "snippet": "… element is about technology. In my introduction, I talked about the impact that technology has today. We know that artificial intelligence is changing economies. It is changing competitiveness. We need to make sure that technology and artificial intelligence is not …",
       "link": "https://transcripts.un.org/en/asset/k18/k18wfgb8jy?t=1813"
-    },
-    {
-      "meetingId": "asset/k1p/k1p3ono8x6",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Ministerial Dialogue on the Restoration of Rangelands and the Well-being of Pastoralist Communities - UNCCD COP17",
-      "date": "2026-08-25T00:00:00.000Z",
-      "body": null,
-      "snippet": "… 200 million hectares, and almost all of this is digitalized today. We're now going to move on to use artificial intelligence, satellite monitoring to analyze the quality of land and have early warning of any degradation. Up is with simple, …",
-      "link": "https://transcripts.un.org/en/asset/k1p/k1p3ono8x6?t=9074"
-    },
-    {
-      "meetingId": "asset/k18/k1865685jn",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(4th meeting) Executive Board of UNDP, UNFPA and UNOPS (Second regular session 2026)",
-      "date": "2026-08-25T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… since we last spoke. In the last few years, in parallel with the formidable transformations and breakthroughs on energy, artificial intelligence, medicine, and biology, we have also witnessed an unprecedented increase of temperature and climate impacts, an unprecedented loss of …",
-      "link": "https://transcripts.un.org/en/asset/k18/k1865685jn?t=1577"
     }
   ]
 }

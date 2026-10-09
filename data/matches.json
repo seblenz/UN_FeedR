@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-08T22:44:38.465Z",
+  "generatedAt": "2026-10-09T04:05:32.412Z",
   "matches": [
+    {
+      "meetingId": "ga/c3/81/12",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 12th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-08T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… time, we warn that the digital era raises new challenges. There is a real risk that digital platforms and artificial intelligence could propagate disinformation, xenophobia and hate speech. This requires urgent international safeguards against algorithmic biases. In the same spirit …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/12?t=1:08:40"
+    },
+    {
+      "meetingId": "ga/c6/81/8",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Sixth Committee, 8th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-08T00:00:00.000Z",
+      "body": "Sixth Committee",
+      "snippet": "… expanded legal outreach to citizens and businesses. New national legislation covers the digital technology industry personal data protection, cybersecurity, artificial intelligence, and digital transformation. The national legal database has been upgraded, and digital platforms are expanding access to legal information, …",
+      "link": "https://transcripts.un.org/en/ga/c6/81/8?t=1:31:36"
+    },
     {
       "meetingId": "ga/81/17",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… consumption, promote renewable energy and develop roads and green spaces. And also, Mongolia will develop 100 163 megawatt green artificial intelligence data center attracting major investments that combines renewable energy with sustainable digital infrastructure. Also in addition, In the green …",
       "link": "https://transcripts.un.org/en/asset/k17/k17kpqcmxg?t=3476"
-    },
-    {
-      "meetingId": "asset/k14/k14hjli1me",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "General Assembly: Working Group on the Strengthening and Revitalizing of the Work of the General Assembly, 80th session",
-      "date": "2026-08-28T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… provision of support to intergovernmental processes. We know that the Secretariat is already working to improve the usage of artificial intelligence in its daily work. We heard that in some of your presentations. Could you perhaps share best practices being …",
-      "link": "https://transcripts.un.org/en/asset/k14/k14hjli1me?t=4918"
-    },
-    {
-      "meetingId": "crpd/866",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "866th Meeting, 35th Session, Committee on the Rights of Persons with Disabilities (CRPD)",
-      "date": "2026-08-27T00:00:00.000Z",
-      "body": null,
-      "snippet": "… borders, especially for persons facing poverty, conflict, displacement and humanitarian emergencies. This commitment must also shape the future. As artificial intelligence and digital transformation reshape our societies, Persons with disabilities must participate fully and equally in shaping that future. Technology …",
-      "link": "https://transcripts.un.org/en/crpd/866?t=7347"
     }
   ]
 }

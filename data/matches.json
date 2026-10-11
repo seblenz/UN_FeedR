@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T03:50:54.086Z",
+  "generatedAt": "2026-10-11T11:56:47.070Z",
   "matches": [
     {
       "meetingId": "asset/k1u/k1uqiksa9q",
@@ -99,6 +99,17 @@
       "body": "Second Committee",
       "snippet": "… the private sector and other relevant stakeholders. Costa Rica wishes to reiterate its support to the process. Mandated by resolution 79325, the panel of experts and the co-chairs of the first global dialogue on artificial intelligence, and we launched an …",
       "link": "https://transcripts.un.org/en/ga/c2/81/10?t=23:05"
+    },
+    {
+      "meetingId": "asset/k1m/k1msxyv5oq",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "OHCHR: High-level Dialogue on Reparatory Justice",
+      "date": "2026-10-08T00:00:00.000Z",
+      "body": null,
+      "snippet": "… seizing on fear and division, and their narratives are creating more space in the mainstream for hatred and dehumanization. Artificial intelligence and other technologies-- and you know that we have been very vocal about this, not just of late, but …",
+      "link": "https://transcripts.un.org/en/asset/k1m/k1msxyv5oq?t=3:30"
     },
     {
       "meetingId": "ga/c3/81/12",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… that creates educational opportunities for children with disabilities and special educational needs. I'm also the founder of SpeakUp, an artificial intelligence project for children with speech disorders. We are developing technology to help understand so speech may not be recognized …",
       "link": "https://transcripts.un.org/en/asset/k10/k107lfx4ct?t=8159"
-    },
-    {
-      "meetingId": "asset/k1g/k1gxe3o1r4",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(1st meeting) UNICEF Executive Board, Second regular session 2026",
-      "date": "2026-09-01T00:00:00.000Z",
-      "body": "Economic and Social Council",
-      "snippet": "… of UNICEF could only have imagined. Perhaps nowhere is this clearer than in the areas of digital technology and artificial intelligence. AI has extraordinary potential for children, widening access to knowledge, helping children with disabilities, supporting learning, and bringing information …",
-      "link": "https://transcripts.un.org/en/asset/k1g/k1gxe3o1r4?t=1606"
     }
   ]
 }

@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-10-13T13:20:27.672Z",
+  "generatedAt": "2026-10-13T22:10:38.397Z",
   "matches": [
+    {
+      "meetingId": "ga/c5/81/5",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Fifth Committee, 5th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-13T00:00:00.000Z",
+      "body": "Fifth Committee",
+      "snippet": "… persist across regions and humanitarian needs are soaring. International law is trampled. Climate disruption is hitting every continent. And artificial intelligence is reshaping economies and societies. The Sustainable Development Goals are slipping further from reach. And yet, in this era …",
+      "link": "https://transcripts.un.org/en/ga/c5/81/5?t=16:46"
+    },
+    {
+      "meetingId": "ga/c6/81/13",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Sixth Committee, 13th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-13T00:00:00.000Z",
+      "body": "Sixth Committee",
+      "snippet": "… in intensity and complexity, the need for effective early warning system become even more important. The rapid evolution of artificial intelligence along with its risks can significantly enhance early warning through faster communication improve data analysis and anticipate free action. …",
+      "link": "https://transcripts.un.org/en/ga/c6/81/13?t=2:17:22"
+    },
+    {
+      "meetingId": "briefing/pga/2026-10-13",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "General Assembly's updates & other topics – PGA Spokesperson Briefing",
+      "date": "2026-10-13T00:00:00.000Z",
+      "body": null,
+      "snippet": "… needing jobs in the next 15 years and only 400 million. Can you tell us whether the impact of artificial intelligence played into those figures and how the IMF and the World Bank are trying to address particularly the issue …",
+      "link": "https://transcripts.un.org/en/briefing/pga/2026-10-13?t=32:24"
+    },
+    {
+      "meetingId": "briefing/sg/2026-10-13",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Armenia, Middle East & other topics - Daily Press Briefing",
+      "date": "2026-10-13T00:00:00.000Z",
+      "body": null,
+      "snippet": "… across regions, and humanitarian needs are soaring. International law is being trampled. Climate change disruption is hitting every continent. Artificial intelligence is reshaping economies and societies. And the Sustainable Development Goals are slipping further from reach. In this year of …",
+      "link": "https://transcripts.un.org/en/briefing/sg/2026-10-13?t=0:02"
+    },
     {
       "meetingId": "ga/c1/81/6",
       "term": "artificial intelligence",
@@ -2156,50 +2200,6 @@
       "body": "General Assembly",
       "snippet": "… record-breaking heat as our climate shoots past the 1.5 degree limit, the possibilities and perils of world-changing technologies like artificial intelligence, and the wide financing gap that impedes progress on the Sustainable Development Goals. And the United Nations was created …",
       "link": "https://transcripts.un.org/en/ga/80/116?t=1144"
-    },
-    {
-      "meetingId": "briefing/sg/2026-09-08",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Daily Press Briefing by the Spokesperson of the Secretary-General",
-      "date": "2026-09-08T00:00:00.000Z",
-      "body": null,
-      "snippet": "… a moment of profound challenge for humanity amid multiplying conflicts, inequalities and injustice, record-breaking heat and the challenge of artificial intelligence. and the financial gap. The United Nations, he said, was created precisely for moments like this. And by wielding …",
-      "link": "https://transcripts.un.org/en/briefing/sg/2026-09-08?t=2195"
-    },
-    {
-      "meetingId": "ga/81/1",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "General Assembly: 1st plenary meeting, 81st session",
-      "date": "2026-09-08T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… has helped bring emerging and contemporary challenges faced by the world community, from climate change to the governance of artificial intelligence, to the forefront of our deliberations. Every day, often far from the spotlight, The United Nations and its dedicated …",
-      "link": "https://transcripts.un.org/en/ga/81/1?t=1023"
-    },
-    {
-      "meetingId": "asset/k18/k1856vomjr",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "3rd Meeting, Preparatory Committee of the 7th Review Conference CCW",
-      "date": "2026-09-08T00:00:00.000Z",
-      "body": null,
-      "snippet": "… We believe that international law, including international humanitarian law, is fully applicable to weapon systems with the use of artificial intelligence technologies. we do not see any convincing arguments for the need to introduce any preventive additional restrictions or prohibitions …",
-      "link": "https://transcripts.un.org/en/asset/k18/k1856vomjr?t=1128"
-    },
-    {
-      "meetingId": "hrc/63/3",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "3rd Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-08T00:00:00.000Z",
-      "body": null,
-      "snippet": "… ground. not by political convenience. We also welcome the Global Alliance, which should reinforce the existing human rights architecture. Artificial intelligence governance must be human-centric and grounded in international human rights law, including transparency, human oversight, and accountability for states …",
-      "link": "https://transcripts.un.org/en/hrc/63/3?t=6647"
     }
   ]
 }

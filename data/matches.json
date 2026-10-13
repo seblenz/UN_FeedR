@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-13T00:02:15.672Z",
+  "generatedAt": "2026-10-13T13:20:27.672Z",
   "matches": [
+    {
+      "meetingId": "ga/c1/81/6",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 6th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-12T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… time of deep mistrust among major powers and of rapid technological changes. Tension is rising around the globe. Alongside, artificial intelligence comes around the corner and is challenging us across the board. It falls upon all of us to understand …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/6?t=21:04"
+    },
     {
       "meetingId": "ga/c5/81/4",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… ground. not by political convenience. We also welcome the Global Alliance, which should reinforce the existing human rights architecture. Artificial intelligence governance must be human-centric and grounded in international human rights law, including transparency, human oversight, and accountability for states …",
       "link": "https://transcripts.un.org/en/hrc/63/3?t=6647"
-    },
-    {
-      "meetingId": "briefing/geneva/2026-09-08",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "UN Geneva Press Briefing: IOM, UN Women, UNCTAD, WHO, UNECE",
-      "date": "2026-09-08T00:00:00.000Z",
-      "body": null,
-      "snippet": "… have warned that the rapid expansion of data-intensive technologies, such as hyperscale data centers, and particularly those involved in artificial intelligence, has significant implications for energy system reliability and resilience. Now, this is, of course, in addition to important implications …",
-      "link": "https://transcripts.un.org/en/briefing/geneva/2026-09-08?t=2867"
     }
   ]
 }

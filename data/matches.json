@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-14T03:06:06.232Z",
+  "generatedAt": "2026-10-14T16:19:49.709Z",
   "matches": [
+    {
+      "meetingId": "asset/k1n/k1nttffsux",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "5th meeting, 12th Session of Open-ended Intergovernmental Working Group on Transnational Corporations",
+      "date": "2026-10-14T00:00:00.000Z",
+      "body": null,
+      "snippet": "… explicitly includes financial institutions, investment funds and transnational business groups. Four includes for the first time direct reference to artificial intelligence and activities carried out through electronic or digital means. Now, as a reference to the work of the Group …",
+      "link": "https://transcripts.un.org/en/asset/k1n/k1nttffsux?t=1:32:04"
+    },
     {
       "meetingId": "ga/c6/81/14",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "General Assembly",
       "snippet": "… advance their rightful place in decision-making. This leadership must extend to the forces defining their future. And technology and artificial intelligence are defining frontier of gender equality where progress can be accelerated or inequalities entrenched. Women and girls must actively …",
       "link": "https://transcripts.un.org/en/asset/k1h/k1ho7m57as?t=1583"
-    },
-    {
-      "meetingId": "hrc/63/5",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "5th Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-09T00:00:00.000Z",
-      "body": null,
-      "snippet": "… prolonged measures, as questions of self-determination and not only of economics. Restrictions on access to advanced technologies, including semiconductors, artificial intelligence, and digital connectivity infrastructure, increasingly determine access to the tools of modern economic and social life, and their human …",
-      "link": "https://transcripts.un.org/en/hrc/63/5?t=5826"
     }
   ]
 }

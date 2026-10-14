@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-13T22:10:38.397Z",
+  "generatedAt": "2026-10-14T03:06:06.232Z",
   "matches": [
+    {
+      "meetingId": "ga/c6/81/14",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Sixth Committee, 14th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-13T00:00:00.000Z",
+      "body": "Sixth Committee",
+      "snippet": "… and in conformity with national law. Nigeria further supports cooperation that gives developing countries access to new technologies, including artificial intelligence, for early warning and anticipatory action. used alongside community knowledge and national disaster risk reduction systems. Furthermore, Nigeria is …",
+      "link": "https://transcripts.un.org/en/ga/c6/81/14?t=54:55"
+    },
+    {
+      "meetingId": "ga/c1/81/7",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 7th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-13T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… for all, especially for developing countries. Fourth, Technological progress require collective responses and a people centered kind of governance. Artificial intelligence offers major opportunities. However, its development and uses should be underpinned by accountability, supervision and transparency. The launch this …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/7?t=37:45"
+    },
     {
       "meetingId": "ga/c5/81/5",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… prolonged measures, as questions of self-determination and not only of economics. Restrictions on access to advanced technologies, including semiconductors, artificial intelligence, and digital connectivity infrastructure, increasingly determine access to the tools of modern economic and social life, and their human …",
       "link": "https://transcripts.un.org/en/hrc/63/5?t=5826"
-    },
-    {
-      "meetingId": "hrc/63/4",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "4th Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-08T00:00:00.000Z",
-      "body": null,
-      "snippet": "… The Kingdom will also continue to promote human rights in the face of emerging challenges connected to climate change, artificial intelligence and hate speech online. In terms of migration, the Kingdom will continue to support the efforts of the Office …",
-      "link": "https://transcripts.un.org/en/hrc/63/4?t=970"
-    },
-    {
-      "meetingId": "ga/80/116",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "General Assembly: 116th plenary meeting, 80th session",
-      "date": "2026-09-08T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… record-breaking heat as our climate shoots past the 1.5 degree limit, the possibilities and perils of world-changing technologies like artificial intelligence, and the wide financing gap that impedes progress on the Sustainable Development Goals. And the United Nations was created …",
-      "link": "https://transcripts.un.org/en/ga/80/116?t=1144"
     }
   ]
 }

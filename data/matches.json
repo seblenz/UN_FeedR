@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-10-14T16:19:49.709Z",
+  "generatedAt": "2026-10-14T21:11:44.266Z",
   "matches": [
+    {
+      "meetingId": "ga/c2/81/14",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Second Committee, 14th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-14T00:00:00.000Z",
+      "body": "Second Committee",
+      "snippet": "… low value-added segments of green value chains, such as the pure extraction of critical minerals. Second, The rise of artificial intelligence and the digitalization of production provide opportunities to leapfrog older production models towards smart manufacturing. However, if skills, infrastructure, …",
+      "link": "https://transcripts.un.org/en/ga/c2/81/14?t=31:23"
+    },
+    {
+      "meetingId": "ga/c6/81/15",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Sixth Committee, 15th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-14T00:00:00.000Z",
+      "body": "Sixth Committee",
+      "snippet": "… sharing of expertise and of access to early warning systems as well. We have the view that advances in artificial intelligence should also be harnessed to further disaster prevention, all the while drawing on local knowledge and community resilience mechanisms. …",
+      "link": "https://transcripts.un.org/en/ga/c6/81/15?t=1:42:25"
+    },
+    {
+      "meetingId": "ga/c1/81/8",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 8th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-14T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… technologies, states should act responsibly and in accordance with international law and the Charter. In the military application of artificial intelligence and autonomous systems, human responsibility, accountability, protection of civilians, and compliance with international humanitarian law must remain central. Capacity …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/8?t=24:31"
+    },
+    {
+      "meetingId": "ga/c3/81/15",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 15th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-14T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… said in other committees, every empty promise diminishes trust. Third, ensure that technology advances rights rather than erodes them. Artificial intelligence and digital technologies can widen access to services and justice. They can be great accelerators of human progress. At …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/15?t=18:46"
+    },
     {
       "meetingId": "asset/k1n/k1nttffsux",
       "term": "artificial intelligence",
@@ -2156,50 +2200,6 @@
       "body": "Security Council",
       "snippet": "… media platforms, gaming environments, and other virtual spaces to identify vulnerabilities and recruit individuals, especially young people. Advances in artificial intelligence and automated content generation are further increasing the speed, scale and precision. A fourth observation concerns terrorist financing. Financing …",
       "link": "https://transcripts.un.org/en/sc/10221?t=1502"
-    },
-    {
-      "meetingId": "asset/k1k/k1k88us7dg",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Jérôme Bonnafont (France/ SC President) & Jeff Bartos (United States) on threats to international peace and security caused by terrorist action - Security Council Media Stakeout",
-      "date": "2026-09-11T00:00:00.000Z",
-      "body": null,
-      "snippet": "… adapt its response and establish an effective system to counter terrorist use of new technologies, drone, satellites, social media, artificial intelligence. Demonstrating its unity 25 years after the attacks, the Council unanimously adopted the presidential statement that reaffirms its determination …",
-      "link": "https://transcripts.un.org/en/asset/k1k/k1k88us7dg?t=5"
-    },
-    {
-      "meetingId": "asset/k1r/k1rva0mr2a",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "United Nations Day for South-South Cooperation 2026",
-      "date": "2026-09-11T00:00:00.000Z",
-      "body": null,
-      "snippet": "… co-creators of solutions. Particular attention must be given to closing technological and digital divides and ensuring that advances in artificial intelligence and other emerging technologies, advances on that, do not generate new forms of exclusion or dependency. South-South cooperation is …",
-      "link": "https://transcripts.un.org/en/asset/k1r/k1rva0mr2a?t=2853"
-    },
-    {
-      "meetingId": "hrc/63/7",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "7th Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-11T00:00:00.000Z",
-      "body": null,
-      "snippet": "… strengthen collective commitment and establish a framework for implementation, cooperation, and accountability. Mr. President, new and emerging technologies like artificial intelligence have the power to transform societies and economies and shape the landscape for the enjoyment of all human rights, …",
-      "link": "https://transcripts.un.org/en/hrc/63/7?t=4251"
-    },
-    {
-      "meetingId": "asset/k1h/k1ho7m57as",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(1st meeting) UN-Women Executive Board, Second Regular Session 2026",
-      "date": "2026-09-09T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… advance their rightful place in decision-making. This leadership must extend to the forces defining their future. And technology and artificial intelligence are defining frontier of gender equality where progress can be accelerated or inequalities entrenched. Women and girls must actively …",
-      "link": "https://transcripts.un.org/en/asset/k1h/k1ho7m57as?t=1583"
     }
   ]
 }

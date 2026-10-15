@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-14T21:11:44.266Z",
+  "generatedAt": "2026-10-15T02:46:06.273Z",
   "matches": [
+    {
+      "meetingId": "asset/k1v/k1v8sy1vrm",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "6th Meeting, 77th Session of UNHCR Executive Committee",
+      "date": "2026-10-14T00:00:00.000Z",
+      "body": null,
+      "snippet": "… with healthcare, food and shelter. We welcome the High Commissioner's reference to making better use of technology, data, and artificial intelligence. These advances can offer opportunities in supporting forcibly displaced persons and strengthen the capacity of humanitarian personnel working on …",
+      "link": "https://transcripts.un.org/en/asset/k1v/k1v8sy1vrm?t=1:52:24"
+    },
+    {
+      "meetingId": "ga/c1/81/9",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 9th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-14T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… states. The risk of nuclear and conventional arm races is returning alongside the new frontier of instability and in artificial intelligence, aggressive cyber operations, and the militarization of outer space. On nuclear disarmament and weapons of mass destruction, the Treaty …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/9?t=16:24"
+    },
     {
       "meetingId": "ga/c2/81/14",
       "term": "artificial intelligence",
@@ -55,6 +77,17 @@
       "body": null,
       "snippet": "… explicitly includes financial institutions, investment funds and transnational business groups. Four includes for the first time direct reference to artificial intelligence and activities carried out through electronic or digital means. Now, as a reference to the work of the Group …",
       "link": "https://transcripts.un.org/en/asset/k1n/k1nttffsux?t=1:32:04"
+    },
+    {
+      "meetingId": "asset/k1q/k1qivn74tt",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Alexander De Croo (UNDP) on the meetings of the International Monetary Fund (IMF) & the World Bank Group - Press Conference",
+      "date": "2026-10-13T00:00:00.000Z",
+      "body": null,
+      "snippet": "… needing jobs in the next 15 years and only 400 million. Can you tell us whether the impact of artificial intelligence played into those figures and how the IMF and the World Bank are trying to address particularly the issue …",
+      "link": "https://transcripts.un.org/en/asset/k1q/k1qivn74tt?t=8:18"
     },
     {
       "meetingId": "ga/c6/81/14",
@@ -2167,39 +2200,6 @@
       "body": null,
       "snippet": "… discussions on the impacts of trade tariffs on the realization of the right to development, on the impact of artificial intelligence on creative industries and cultural rights, on the role of civil society organizations in realizing the right to development …",
       "link": "https://transcripts.un.org/en/hrc/63/9?t=907"
-    },
-    {
-      "meetingId": "briefing/sg/2026-09-14",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Daily Press Briefing by the Spokesperson of the Secretary-General w/ guest Pedro De Vasconcelos (IFAD) on Launch of Sending Money Home report",
-      "date": "2026-09-14T00:00:00.000Z",
-      "body": null,
-      "snippet": "… a more representative multilateral system is essential to inclusive global growth. The Secretary-General also called for equitable access to artificial intelligence, accelerated climate action, and renewed respect for international law amid conflicts from Gaza and the wider Middle East to …",
-      "link": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=1270"
-    },
-    {
-      "meetingId": "hrc/63/8",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "8th Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-11T00:00:00.000Z",
-      "body": null,
-      "snippet": "… given to technology transfer, capacity building, and equitable access to digital opportunities. China has actively promoted international cooperation on artificial intelligence and digital capacity building, helping developing countries strengthen their ability to participate in and benefit from digital transformation. At …",
-      "link": "https://transcripts.un.org/en/hrc/63/8?t=10700"
-    },
-    {
-      "meetingId": "sc/10221",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Threats to international peace and security caused by terrorist acts - Security Council, 10221st meeting",
-      "date": "2026-09-11T00:00:00.000Z",
-      "body": "Security Council",
-      "snippet": "… media platforms, gaming environments, and other virtual spaces to identify vulnerabilities and recruit individuals, especially young people. Advances in artificial intelligence and automated content generation are further increasing the speed, scale and precision. A fourth observation concerns terrorist financing. Financing …",
-      "link": "https://transcripts.un.org/en/sc/10221?t=1502"
     }
   ]
 }

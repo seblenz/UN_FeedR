@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-15T10:42:15.130Z",
+  "generatedAt": "2026-10-15T16:07:50.537Z",
   "matches": [
+    {
+      "meetingId": "asset/k1k/k1kl975elx",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "YM14 - Driving Change Across Asia and the Pacific: Youth transforming agrifood systems",
+      "date": "2026-10-15T00:00:00.000Z",
+      "body": null,
+      "snippet": "… world has today, be it sustainability, be it climate change, be it deploying technology to solve these problems, using artificial intelligence to enable more efficient use of resources, using drones. Today, you can have a farm, let's say a five-acre …",
+      "link": "https://transcripts.un.org/en/asset/k1k/k1kl975elx?t=49:39"
+    },
+    {
+      "meetingId": "asset/k1g/k1gdasw832",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "7th Meeting, 77th Session of UNHCR Executive Committee",
+      "date": "2026-10-15T00:00:00.000Z",
+      "body": null,
+      "snippet": "… representation and information in formats and languages accessible to forcibly displaced populations, and ensure that digital technologies, biometrics, and artificial intelligence are governed by human rights safeguards. We call on UNHCR to keep protection at the core of its work. …",
+      "link": "https://transcripts.un.org/en/asset/k1g/k1gdasw832?t=2:58:30"
+    },
+    {
+      "meetingId": "ga/c2/81/15",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Second Committee, 15th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-14T00:00:00.000Z",
+      "body": "Second Committee",
+      "snippet": "… sustainable development. The resolution promotes smart farming to boost production and reduce food losses. It highlights digital tools and artificial intelligence across food systems, from farm to factory, from market to table. For a farmer, these advances can mean detecting …",
+      "link": "https://transcripts.un.org/en/ga/c2/81/15?t=1:09:22"
+    },
     {
       "meetingId": "cedaw/3022",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": null,
       "snippet": "… big on Monday before the General Assembly kicks off. It's going to be a big high level meeting on artificial intelligence. Building on these experiences, Ambassador, how is Korea seeking to advance deliberative democracy in the age of artificial intelligence? …",
       "link": "https://transcripts.un.org/en/asset/k1g/k1gz8tdfw5?t=2803"
-    },
-    {
-      "meetingId": "hrc/63/11",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "11th Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-15T00:00:00.000Z",
-      "body": null,
-      "snippet": "… by young people of these values, my country also emphasizes recent developments with human rights centers. National programs in artificial intelligence also seek to establish techniques that support human rights. the human rights culture starts with education. It is not …",
-      "link": "https://transcripts.un.org/en/hrc/63/11?t=4042"
-    },
-    {
-      "meetingId": "hrc/63/10",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "10th Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-14T00:00:00.000Z",
-      "body": null,
-      "snippet": "… era of rapidly evolving and emerging technologies and pervasive digitalization, which has serious implications for human rights. Advances in artificial intelligence, machine learning, surveillance technologies, commercial satellite services, cloud infrastructure, autonomous platforms, predictive analytics, and digital financing are transforming the …",
-      "link": "https://transcripts.un.org/en/hrc/63/10?t=7855"
-    },
-    {
-      "meetingId": "asset/k1i/k1idf78jrd",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(Part 1) Briefing for Delegates on the 81st General Assembly and Main Committees",
-      "date": "2026-09-14T00:00:00.000Z",
-      "body": null,
-      "snippet": "… to multilateral negotiations, and also upholding the values of the United Nations. So Before coming here, I went through artificial intelligence. And I wanted to unpack the two words, general assembly. What do we mean by general? What do we …",
-      "link": "https://transcripts.un.org/en/asset/k1i/k1idf78jrd?t=1213"
     }
   ]
 }

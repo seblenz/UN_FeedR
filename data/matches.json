@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-15T02:46:06.273Z",
+  "generatedAt": "2026-10-15T10:42:15.130Z",
   "matches": [
+    {
+      "meetingId": "cedaw/3022",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "3022nd Meeting, 93rd Session, Committee on the Elimination of Discrimination against Women (CEDAW)",
+      "date": "2026-10-14T00:00:00.000Z",
+      "body": null,
+      "snippet": "… living with disabilities in digital governance in the formulation of public policies related to digital digital transformation, data protection, artificial intelligence, and decision making in digital bodies. And finally, Provide data on the strategies implemented and the outcomes that have …",
+      "link": "https://transcripts.un.org/en/cedaw/3022?t=2:04:14"
+    },
     {
       "meetingId": "asset/k1v/k1v8sy1vrm",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… to multilateral negotiations, and also upholding the values of the United Nations. So Before coming here, I went through artificial intelligence. And I wanted to unpack the two words, general assembly. What do we mean by general? What do we …",
       "link": "https://transcripts.un.org/en/asset/k1i/k1idf78jrd?t=1213"
-    },
-    {
-      "meetingId": "hrc/63/9",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "9th Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-14T00:00:00.000Z",
-      "body": null,
-      "snippet": "… discussions on the impacts of trade tariffs on the realization of the right to development, on the impact of artificial intelligence on creative industries and cultural rights, on the role of civil society organizations in realizing the right to development …",
-      "link": "https://transcripts.un.org/en/hrc/63/9?t=907"
     }
   ]
 }

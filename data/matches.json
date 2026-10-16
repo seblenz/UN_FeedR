@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-16T15:55:15.920Z",
+  "generatedAt": "2026-10-16T20:23:27.762Z",
   "matches": [
+    {
+      "meetingId": "ga/c3/81/18",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 18th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-16T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… and remedy their actual and potential human rights impact, to hold them accountable. Just like in the context of artificial intelligence, it is imperative that the use of technology in transitional justice contexts is designed, deployed, and governed in a …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/18?t=1:33:17"
+    },
+    {
+      "meetingId": "asset/k1j/k1j142o274",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Part 1) A Planet Fit for the Future: Restoring Trust through Climate Action - Special Event, General Assembly, 81st session",
+      "date": "2026-10-16T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… the means to act. Risk knowledge should connect with predictable finance, evacuation plans, resilient infrastructure, and trusted local communication. Artificial intelligence and digital tools can offer us possibility of mapping terrain, tracking weather patterns, identifying vulnerable areas, informing at-risk populations, …",
+      "link": "https://transcripts.un.org/en/asset/k1j/k1j142o274?t=21:14"
+    },
+    {
+      "meetingId": "ga/c1/81/11",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 11th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-16T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… inadmissible and contrary to international humanitarian law. We are increasingly seeing the application of emerging technologies, including autonomous and artificial intelligence, in the nuclear weapons context. Pending the total elimination of nuclear weapons, nuclear-armed States must maintain meaningful human control …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/11?t=1:37:50"
+    },
     {
       "meetingId": "asset/k1i/k1iaao7gaw",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": null,
       "snippet": "… on new forms, finding new pathways, and weaponizing new technologies. And this is from digital platforms to algorithms to artificial intelligence. The Secretary-General said we must raise our collective voice and reject hatred, and we must redouble our efforts to …",
       "link": "https://transcripts.un.org/en/briefing/sg/2026-09-17?t=1766"
-    },
-    {
-      "meetingId": "hrc/63/15",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "15th Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-17T00:00:00.000Z",
-      "body": null,
-      "snippet": "… restrictions in the global workplace, changing labor markets, demographic aging, supply chains, heightened control of technology, and critical minerals. Artificial intelligence and digital platforms are reshaping work, social protection and access to services. The same technologies are driving an unprecedented …",
-      "link": "https://transcripts.un.org/en/hrc/63/15?t=2356"
-    },
-    {
-      "meetingId": "asset/k10/k10sc0dncc",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Day 2 - Social justice coalition forum: Second panel and closing",
-      "date": "2026-09-17T00:00:00.000Z",
-      "body": null,
-      "snippet": "… Program 2025 to 2028. Ladies and gentlemen, our world at the moment is seeing very rapid development, technological progress, artificial intelligence, climate and demographic changes, which also go hand in hand with profound changes in the labor market and production …",
-      "link": "https://transcripts.un.org/en/asset/k10/k10sc0dncc?t=1625"
-    },
-    {
-      "meetingId": "asset/k15/k158a5gg9l",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Upholding International Law in Situations of Armed Conflict - Arria-Formula Meeting of the Security Council",
-      "date": "2026-09-16T00:00:00.000Z",
-      "body": "Security Council",
-      "snippet": "… of violence, exposing civilians to harm far beyond the traditional front lines and leaving them with no safe refuge. Artificial intelligence and other digital technologies are also increasing the speed, scale, and reach of military operations, while also increasing risk …",
-      "link": "https://transcripts.un.org/en/asset/k15/k158a5gg9l?t=1057"
     }
   ]
 }

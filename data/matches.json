@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-16T02:42:38.909Z",
+  "generatedAt": "2026-10-16T15:55:15.920Z",
   "matches": [
+    {
+      "meetingId": "asset/k1i/k1iaao7gaw",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "9th Meeting, 77th Session of UNHCR Executive Committee",
+      "date": "2026-10-16T00:00:00.000Z",
+      "body": null,
+      "snippet": "… the way we work, not simply digitize how we work today. We're looking at how digital tools, data, automation, artificial intelligence can reduce administrative burdens and better support our operations. Our objective is not simply a smaller UNSCR. It is …",
+      "link": "https://transcripts.un.org/en/asset/k1i/k1iaao7gaw?t=1:31:22"
+    },
+    {
+      "meetingId": "asset/k1v/k1vv8fcdmq",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "8th Meeting, 77th Session of UNHCR Executive Committee",
+      "date": "2026-10-15T00:00:00.000Z",
+      "body": null,
+      "snippet": "… closer to operations. We are consolidating more transactional functions in global shared services. We are bringing technology, data, and artificial intelligence into one structure, and we are moving to a lighter, more locally anchored private sector partnership model. Much of …",
+      "link": "https://transcripts.un.org/en/asset/k1v/k1vv8fcdmq?t=1:58"
+    },
     {
       "meetingId": "ga/c1/81/10",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": "Security Council",
       "snippet": "… of violence, exposing civilians to harm far beyond the traditional front lines and leaving them with no safe refuge. Artificial intelligence and other digital technologies are also increasing the speed, scale, and reach of military operations, while also increasing risk …",
       "link": "https://transcripts.un.org/en/asset/k15/k158a5gg9l?t=1057"
-    },
-    {
-      "meetingId": "hrc/63/13",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "13th Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-16T00:00:00.000Z",
-      "body": null,
-      "snippet": "… denialism is amplified by recent technological, cultural, social, and political developments, including the rise of social media, digital technologies, artificial intelligence systems, and the promotion and monetization of conspiracy theories. Fourth, state responses to denialism, particularly through the adoption of …",
-      "link": "https://transcripts.un.org/en/hrc/63/13?t=54"
-    },
-    {
-      "meetingId": "asset/k1j/k1jcdjp82o",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "António Guterres (UN Secretary-General) ahead of the 81st session of the UN General Assembly - Press Conference",
-      "date": "2026-09-16T00:00:00.000Z",
-      "body": null,
-      "snippet": "… look to threats around the world, let me say a final word about rising concerns regarding the advance of artificial intelligence. AI has enormous potential to accelerate sustainable development, enhance learning, strengthen health systems, boost climate resilience, and so much …",
-      "link": "https://transcripts.un.org/en/asset/k1j/k1jcdjp82o?t=967"
     }
   ]
 }

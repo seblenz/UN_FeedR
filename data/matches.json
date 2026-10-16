@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-15T20:49:43.451Z",
+  "generatedAt": "2026-10-16T02:42:38.909Z",
   "matches": [
+    {
+      "meetingId": "ga/c1/81/10",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 10th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-15T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… harmful consequences of their use, be that voluntary or involuntary. Chair, the emergence of new technologies, the advent of artificial intelligence in the military domain, and the use of lethal autonomous weapons systems are all sources of concern when it …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/10?t=19:39"
+    },
     {
       "meetingId": "ga/c6/81/17",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… look to threats around the world, let me say a final word about rising concerns regarding the advance of artificial intelligence. AI has enormous potential to accelerate sustainable development, enhance learning, strengthen health systems, boost climate resilience, and so much …",
       "link": "https://transcripts.un.org/en/asset/k1j/k1jcdjp82o?t=967"
-    },
-    {
-      "meetingId": "crc/2957",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "2957th Meeting, 101st Session, Committee on the Rights of the Child (CRC)",
-      "date": "2026-09-16T00:00:00.000Z",
-      "body": null,
-      "snippet": "Thank you. If I may, I'd like to begin with artificial intelligence. Yes, James Gladze asked a question. As you know, Kazakhstan is an absolute leader regarding digitalization, not just at …",
-      "link": "https://transcripts.un.org/en/crc/2957?t=4489"
     }
   ]
 }

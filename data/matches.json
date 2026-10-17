@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-16T20:23:27.762Z",
+  "generatedAt": "2026-10-17T02:33:55.676Z",
   "matches": [
+    {
+      "meetingId": "ga/c3/81/19",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 19th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-16T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… feeding programs. School feeding and social protection are also important for improving nutrition. The use of digital tools and artificial intelligence in food systems must protect human rights, traditional knowledge, and the interests of smallholder farmers. Bangladesh is deeply concerned …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/19?t=1:32:39"
+    },
+    {
+      "meetingId": "asset/k1p/k1pwxjwc2k",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Part 2) A Planet Fit for the Future: Restoring Trust through Climate Action - Special Event, General Assembly, 81st session",
+      "date": "2026-10-16T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… that forward. It's an incredibly power intensive, compute intensive, expertise intensive role. What we're seeing with the potential for artificial intelligence powered weather prediction is that you can get instances, the same level of accuracy of predictions on a $5,000 …",
+      "link": "https://transcripts.un.org/en/asset/k1p/k1pwxjwc2k?t=1:57:17"
+    },
+    {
+      "meetingId": "ga/c1/81/12",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 12th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-16T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… a world free of nuclear weapons. We are also concerned by the potential risks associated with emerging technologies, including artificial intelligence, when integrated into military decision-making and nuclear systems. Such developments raise important questions regarding human control, judgment, accountability, and …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/12?t=21:55"
+    },
     {
       "meetingId": "ga/c3/81/18",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": null,
       "snippet": "… to share information. In response, we must start by making much better use of the evidence we already have. Artificial intelligence makes that task more urgent and more possible. Increasingly, people looking for information are not searching individual agency websites …",
       "link": "https://transcripts.un.org/en/asset/k1d/k1dzd1svin?t=1673"
-    },
-    {
-      "meetingId": "asset/k1a/k1avx161nq",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Transparency and Integrity in Public Procurement: Global Trends, Emerging Challenges and Lessons Learned",
-      "date": "2026-09-17T00:00:00.000Z",
-      "body": null,
-      "snippet": "… deter rather than to detect or in addition to detection. institutions to be able to leverage new technologies like artificial intelligence to improve their capacity. So for example, together with the OECD, we're supporting Poland to use artificial intelligence to …",
-      "link": "https://transcripts.un.org/en/asset/k1a/k1avx161nq?t=6248"
-    },
-    {
-      "meetingId": "asset/k1n/k1n45mcfr2",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(Part 1) Global Conference on Promoting Interreligious and Intercultural Dialogue and Tolerance in Countering Hate Speech",
-      "date": "2026-09-17T00:00:00.000Z",
-      "body": null,
-      "snippet": "… persons with disabilities, youth, minorities, and others, and often for political gain. The rapid evolution of digital technologies, including artificial intelligence, adds a further dimension. These technologies can be used to amplify falsehoods, manipulate public debate, and spread hatred faster …",
-      "link": "https://transcripts.un.org/en/asset/k1n/k1n45mcfr2?t=1687"
-    },
-    {
-      "meetingId": "briefing/sg/2026-09-17",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Hate Speech, Peacekeeping & other topics - Daily Press Briefing",
-      "date": "2026-09-17T00:00:00.000Z",
-      "body": null,
-      "snippet": "… on new forms, finding new pathways, and weaponizing new technologies. And this is from digital platforms to algorithms to artificial intelligence. The Secretary-General said we must raise our collective voice and reject hatred, and we must redouble our efforts to …",
-      "link": "https://transcripts.un.org/en/briefing/sg/2026-09-17?t=1766"
     }
   ]
 }

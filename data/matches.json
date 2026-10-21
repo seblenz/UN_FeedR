@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-21T02:53:54.481Z",
+  "generatedAt": "2026-10-21T11:00:06.023Z",
   "matches": [
+    {
+      "meetingId": "asset/k11/k118yuze8c",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Working Group II (4th meeting), UN Convention on Biodiversity – COP 17",
+      "date": "2026-10-21T00:00:00.000Z",
+      "body": null,
+      "snippet": "… dealing with invasive species, I believe is most relevant to the context on climate change, environmental DNA analysis, and artificial intelligence-based detection. So I hope it's acceptable if we just simply delete the reference to synthetic biology. I hope it's …",
+      "link": "https://transcripts.un.org/en/asset/k11/k118yuze8c?t=3:13:35"
+    },
     {
       "meetingId": "ga/c1/81/15",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… Pact is also at an early stage, moving from adoption into implementation. The first steps are now visible. on artificial intelligence, the General Assembly established a global dialogue on AI governance and an independent international scientific panel on AI. Every …",
       "link": "https://transcripts.un.org/en/asset/k1a/k1apgve0p0?t=7:19"
-    },
-    {
-      "meetingId": "asset/k1d/k1d4yh9uje",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "From Knowledge to Prevention: The UN Action Approach to Addressing Conflict-Related Sexual Violence",
-      "date": "2026-09-22T00:00:00.000Z",
-      "body": null,
-      "snippet": "… online activities may expose them to further harm if not adequately protected. Technologies such as satellite data, geospatial solutions, Artificial intelligence and predictive analytics can help identify emerging risks of conflict-related sexual violence earlier and enable preventive action before violence …",
-      "link": "https://transcripts.un.org/en/asset/k1d/k1d4yh9uje?t=58:19"
     }
   ]
 }

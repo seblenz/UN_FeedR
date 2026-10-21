@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-21T11:00:06.023Z",
+  "generatedAt": "2026-10-21T16:26:34.304Z",
   "matches": [
+    {
+      "meetingId": "asset/k10/k10pxdo5g8",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Conference of the Parties to UNTOC, 13th session [Meeting 5]",
+      "date": "2026-10-21T00:00:00.000Z",
+      "body": null,
+      "snippet": "… connection between different criminal networks and the use, the harnessing of new technologies, as well as illicit financing, cybercrime, artificial intelligence, and the criminal use of drones. These are all fresh challenges standing in the way of the investigation, prosecution, …",
+      "link": "https://transcripts.un.org/en/asset/k10/k10pxdo5g8?t=1:13:35"
+    },
+    {
+      "meetingId": "asset/k1z/k1zoeztm7j",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "3rd meeting, 33rd Session of the Committee of Experts on International Cooperation in Tax Matters",
+      "date": "2026-10-21T00:00:00.000Z",
+      "body": null,
+      "snippet": "… those questions. Right, so that was more or less all about work stream two. The note about link with artificial intelligence, there is also further coordination will be intended. It's basically that to tax land and property administration needs reliable …",
+      "link": "https://transcripts.un.org/en/asset/k1z/k1zoeztm7j?t=1:26:37"
+    },
     {
       "meetingId": "asset/k11/k118yuze8c",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "Thank you, Mr. President. We appreciate the expert mechanism for its study on artificial intelligence, cultural rights, and the right to development. We share the study's central insight Existing international human rights law already …",
       "link": "https://transcripts.un.org/en/hrc/63/22?t=1:41:11"
-    },
-    {
-      "meetingId": "asset/k1b/k1bxrlhwuq",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Oceans - Solutions Dialogues, Climate Summit 2026",
-      "date": "2026-09-22T00:00:00.000Z",
-      "body": null,
-      "snippet": "… year I hear a lot more hope. And the reason for that is that last year everything was about artificial intelligence. And it was really about how people are cost saving, how people are creating the next big model. This …",
-      "link": "https://transcripts.un.org/en/asset/k1b/k1bxrlhwuq?t=1:58:04"
-    },
-    {
-      "meetingId": "asset/k1a/k1apgve0p0",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Two Years After the Pact for the Future: Progress on Implementation, Challenges and Opportunities for Africa",
-      "date": "2026-09-22T00:00:00.000Z",
-      "body": null,
-      "snippet": "… Pact is also at an early stage, moving from adoption into implementation. The first steps are now visible. on artificial intelligence, the General Assembly established a global dialogue on AI governance and an independent international scientific panel on AI. Every …",
-      "link": "https://transcripts.un.org/en/asset/k1a/k1apgve0p0?t=7:19"
     }
   ]
 }

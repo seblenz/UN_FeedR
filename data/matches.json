@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-21T16:26:34.304Z",
+  "generatedAt": "2026-10-21T21:06:41.328Z",
   "matches": [
+    {
+      "meetingId": "asset/k1y/k1y27py9aa",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Conference of the Parties to UNTOC, 13th session [Meeting 6]",
+      "date": "2026-10-21T00:00:00.000Z",
+      "body": null,
+      "snippet": "Thank you, President. Mr. President, the UAE reiterates the importance of artificial intelligence and innovation in countering trafficking in persons, while the criminal groups are misusing and exploiting technology as well as …",
+      "link": "https://transcripts.un.org/en/asset/k1y/k1y27py9aa?t=42:24"
+    },
+    {
+      "meetingId": "ga/c3/81/22",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 22nd plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-21T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… to family life and family unity and other child rights. In this regard, with new and emerging technologies, including artificial intelligence, how can Member States better incorporate and maximize the benefits of these technologies in assessing reunification applications and re-asylum …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/22?t=41:03"
+    },
+    {
+      "meetingId": "ga/c1/81/16/2",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 16th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-21T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… design, engineering, and manufacturing of complex systems and equipment for space exploration. Armenia also recognizes the growing convergence between artificial intelligence and space technologies, particularly in areas such as satellite data analysis and space situational awareness. Mr. Chair, The international …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/16/2?t=41:11"
+    },
     {
       "meetingId": "asset/k10/k10pxdo5g8",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": "General Assembly",
       "snippet": "… and inequalities have intensified. Trust has frayed. And the climate crisis went from distant warning to daily reality, and artificial intelligence moved at a speed that has blindsided even those who created it. These are not separate crises. They are …",
       "link": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=23:33"
-    },
-    {
-      "meetingId": "asset/k1s/k1sq2h7e7z",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Beyond 2030: Renewing the Global Commitment to End Poverty in All its Dimensions",
-      "date": "2026-09-22T00:00:00.000Z",
-      "body": null,
-      "snippet": "… Electricity was barely in the capital. One PhD, Timor is with a PhD. No connectivity, telephone, let alone digitalization, artificial intelligence that was unknown then. 25 years we will celebrate next year. And what is the data? We have 1,400 …",
-      "link": "https://transcripts.un.org/en/asset/k1s/k1sq2h7e7z?t=41:38"
-    },
-    {
-      "meetingId": "asset/k1q/k1qnphvn15",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "From Promise to Progress: The Next Breakthroughs for a Changing World | Goals Lounge",
-      "date": "2026-09-22T00:00:00.000Z",
-      "body": null,
-      "snippet": "… point. The Secretary General has said there are three existential threats facing the world today. It's inequality, climate and artificial intelligence. Do you agree with him or is that hyperbolic?",
-      "link": "https://transcripts.un.org/en/asset/k1q/k1qnphvn15?t=5:36"
-    },
-    {
-      "meetingId": "hrc/63/22",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "22nd Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-22T00:00:00.000Z",
-      "body": null,
-      "snippet": "Thank you, Mr. President. We appreciate the expert mechanism for its study on artificial intelligence, cultural rights, and the right to development. We share the study's central insight Existing international human rights law already …",
-      "link": "https://transcripts.un.org/en/hrc/63/22?t=1:41:11"
     }
   ]
 }

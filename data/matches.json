@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-20T21:07:50.526Z",
+  "generatedAt": "2026-10-21T02:53:54.481Z",
   "matches": [
+    {
+      "meetingId": "ga/c1/81/15",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 15th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-20T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… and destructive testing of direct ascent and anti-satellite missiles, as well as efforts toward their legally binding prohibition. Third, artificial intelligence is transforming space activities. While it can enhance Earth observation, space traffic management, and emergency response, It also introduces …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/15?t=57:22"
+    },
+    {
+      "meetingId": "ga/c3/81/21",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 21st plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-20T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… a regulatory challenge, but also a matter of justice, with implications for human rights and development. The advancement of artificial intelligence illustrates these challenges. AI systems rely on vast amounts of data collected and processed across borders, often without sufficient …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/21?t=2:02:13"
+    },
+    {
+      "meetingId": "ga/c6/81/22",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Sixth Committee, 22nd plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-20T00:00:00.000Z",
+      "body": "Sixth Committee",
+      "snippet": "… then ambassador in Lebanon. of the misuse of ICT to target our embassies in the region in conjunction with artificial intelligence and premeditated terrorist attacks against internationally protected persons. The international community must hold the Israeli regime fully accountable, not …",
+      "link": "https://transcripts.un.org/en/ga/c6/81/22?t=2:12:03"
+    },
     {
       "meetingId": "asset/k1e/k1ev4cqrdk",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": null,
       "snippet": "… online activities may expose them to further harm if not adequately protected. Technologies such as satellite data, geospatial solutions, Artificial intelligence and predictive analytics can help identify emerging risks of conflict-related sexual violence earlier and enable preventive action before violence …",
       "link": "https://transcripts.un.org/en/asset/k1d/k1d4yh9uje?t=58:19"
-    },
-    {
-      "meetingId": "briefing/geneva/2026-09-22",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "UN Geneva Press Briefing: UNHCR, ITU, WMO, WHO",
-      "date": "2026-09-22T00:00:00.000Z",
-      "body": null,
-      "snippet": "… we expect him to focus on the question of powers and on peace and security, inequality, climate crisis, and artificial intelligence. So you will have the possibility to follow his address on UN Web TV. And so let's now come …",
-      "link": "https://transcripts.un.org/en/briefing/geneva/2026-09-22?t=0:02"
-    },
-    {
-      "meetingId": "asset/k11/k11qndetc3",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Unlocking Climate Innovation: From Global Commitments to Local Green Technology Deployment",
-      "date": "2026-09-21T00:00:00.000Z",
-      "body": null,
-      "snippet": "… partially support developing countries in mobilizing resource of implementing effective response to the multifaceted challenges they face. As expected, artificial intelligence was also a major topic in Berlin. Several initiatives were launched in this context, including the AI Climate Institute …",
-      "link": "https://transcripts.un.org/en/asset/k11/k11qndetc3?t=10:59"
-    },
-    {
-      "meetingId": "asset/k1h/k1hm5pyz6v",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Least Developed Countries Green Industrialization Facilitation (LDC-GIF) Mechanism",
-      "date": "2026-09-21T00:00:00.000Z",
-      "body": null,
-      "snippet": "… a shared pipeline of LDC green industrialization priorities, and partnerships must also help LDCs navigate rapidly evolving technologies, including artificial intelligence. And finally, results. Success must ultimately be measured in projects prepared, technologies deployed, investment mobilized, and decent jobs created …",
-      "link": "https://transcripts.un.org/en/asset/k1h/k1hm5pyz6v?t=7:56"
     }
   ]
 }

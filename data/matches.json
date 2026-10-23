@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-23T02:56:10.356Z",
+  "generatedAt": "2026-10-23T16:16:06.416Z",
   "matches": [
+    {
+      "meetingId": "cedaw/3036",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "3036th Meeting, 93rd Session, Committee on the Elimination of Discrimination against Women (CEDAW)",
+      "date": "2026-10-23T00:00:00.000Z",
+      "body": null,
+      "snippet": "… They can protect women peacebuilders. They can include women with disability. They can hold businesses accountable. They can govern artificial intelligence through a human rights and gender lens. The measure of our commitment will not be found in the eloquence …",
+      "link": "https://transcripts.un.org/en/cedaw/3036?t=18:31"
+    },
     {
       "meetingId": "ga/c1/81/18",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "General Assembly",
       "snippet": "… technology. Against that, this background, the declaration should guide collective action in the following areas. One, digital transformation and artificial intelligence should expand opportunity rather than deepen exclusion. Developing countries should be able to shape the benefit equitably from technological …",
       "link": "https://transcripts.un.org/en/asset/k1j/k1j22fr6fc?t=41:44"
-    },
-    {
-      "meetingId": "asset/k1z/k1zg4qsbxi",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "High-level Event on Climate Action and the Just Transition - High-level Week 2026",
-      "date": "2026-09-23T00:00:00.000Z",
-      "body": null,
-      "snippet": "… but differentiated responsibilities must apply. but all countries must raise their ambition. Surging demand for power, not least from artificial intelligence, must be met with a surge in renewables, grids and storage. Second, we must ensure fairness. A just transition …",
-      "link": "https://transcripts.un.org/en/asset/k1z/k1zg4qsbxi?t=25:01"
     }
   ]
 }

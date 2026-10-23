@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-22T21:05:48.100Z",
+  "generatedAt": "2026-10-23T02:56:10.356Z",
   "matches": [
+    {
+      "meetingId": "ga/c1/81/18",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 18th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-22T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… of States as an opportunity to strengthen practical implementation, international cooperation, and technical assistance. Chair, the increased use of artificial intelligence in the military domain raises serious legal, ethical, and humanitarian concerns. Zimbabwe emphasizes the need to maintain human control …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/18?t=27:16"
+    },
+    {
+      "meetingId": "ga/c6/81/25",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Sixth Committee, 25th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-22T00:00:00.000Z",
+      "body": "Sixth Committee",
+      "snippet": "… legal publications produced by the Codification Division. We support efforts to strengthen these resources, including through digital tools and artificial intelligence. This would make them more accessible, available in more languages and reflective of diverse regions and legal systems. Madam …",
+      "link": "https://transcripts.un.org/en/ga/c6/81/25?t=16:19"
+    },
     {
       "meetingId": "asset/k1b/k1b3ooj7ic",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… but differentiated responsibilities must apply. but all countries must raise their ambition. Surging demand for power, not least from artificial intelligence, must be met with a surge in renewables, grids and storage. Second, we must ensure fairness. A just transition …",
       "link": "https://transcripts.un.org/en/asset/k1z/k1zg4qsbxi?t=25:01"
-    },
-    {
-      "meetingId": "asset/k17/k172x1kcd9",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Delivering on WPS: Consolidating Implementation and Accountability in a Fragmented Security Landscape",
-      "date": "2026-09-23T00:00:00.000Z",
-      "body": null,
-      "snippet": "… of WPS priorities into defense and security planning. It also underscored the importance of addressing emerging challenges from responsible artificial intelligence and technology, facilitated gender-based violence, on climate-related security risks, and disaster risk reduction. Excellencies, as we begin today's ministerial …",
-      "link": "https://transcripts.un.org/en/asset/k17/k172x1kcd9?t=23:29"
-    },
-    {
-      "meetingId": "sc/10227/2",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(resumed) Maintenance of peace and security of Ukraine - Security Council, 10227th meeting",
-      "date": "2026-09-23T00:00:00.000Z",
-      "body": "Security Council",
-      "snippet": "… this important session. I also extend my thanks to Mr. Bengio, co-chair of the UN Independent Scientific Panel on Artificial Intelligence. Mr. Altman, CEO of OpenAI; Mr. Amodei, CEO of Anthropic; and Mr. DeLange, CEO of Hugging Face, for their …",
-      "link": "https://transcripts.un.org/en/sc/10227/2?t=5:03"
     }
   ]
 }

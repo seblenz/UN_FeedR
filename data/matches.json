@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-23T20:52:19.792Z",
+  "generatedAt": "2026-10-24T02:53:06.525Z",
   "matches": [
+    {
+      "meetingId": "ga/c1/81/20",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 20th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-23T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… importance of disarmament and arms control. Persistent regional tensions, increasing military expenditures, and rapid technological advancements, including those in artificial intelligence, autonomy, and cyber capabilities, are transforming the strategic environment. Ongoing and unresolved intra- and interstate conflicts in the Asia-Pacific …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/20?t=26:06"
+    },
     {
       "meetingId": "asset/k12/k12s5s8z7q",
       "term": "artificial intelligence",
@@ -66,6 +77,17 @@
       "body": null,
       "snippet": "… They can protect women peacebuilders. They can include women with disability. They can hold businesses accountable. They can govern artificial intelligence through a human rights and gender lens. The measure of our commitment will not be found in the eloquence …",
       "link": "https://transcripts.un.org/en/cedaw/3036?t=18:31"
+    },
+    {
+      "meetingId": "asset/k1a/k1a5ggfa42",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Italophony Day at the United Nations (Prima Giornata dell'Italofonia alle Nazioni Unite)",
+      "date": "2026-10-22T00:00:00.000Z",
+      "body": null,
+      "snippet": "… And I'd like to think about the future as well. Italians are talented. They are innovators. We're thinking about artificial intelligence, but also engineering. and many other areas where biotechnology, Italy has to take its own place in the world. …",
+      "link": "https://transcripts.un.org/en/asset/k1a/k1a5ggfa42?t=50:53"
     },
     {
       "meetingId": "ga/c1/81/18",
@@ -583,6 +605,17 @@
       "body": null,
       "snippet": "… the way we work, not simply digitize how we work today. We're looking at how digital tools, data, automation, artificial intelligence can reduce administrative burdens and better support our operations. Our objective is not simply a smaller UNSCR. It is …",
       "link": "https://transcripts.un.org/en/asset/k1i/k1iaao7gaw?t=1:31:22"
+    },
+    {
+      "meetingId": "cedaw/3025",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "3025th Meeting, 93rd Session, Committee on the Elimination of Discrimination against Women (CEDAW)",
+      "date": "2026-10-15T00:00:00.000Z",
+      "body": null,
+      "snippet": "… in Angola is estimated at 55.5%. Excellencies, we all know that electricity powers production, industrialization, irrigation for agriculture, technology, artificial intelligence, and increased internet access that all play critical roles in the employment sector. The question, what concrete steps is …",
+      "link": "https://transcripts.un.org/en/cedaw/3025?t=44:47"
     },
     {
       "meetingId": "asset/k1v/k1vv8fcdmq",
@@ -2167,39 +2200,6 @@
       "body": null,
       "snippet": "… General can do, but not least also about putting this type of empathy, solidarity, ethics, when we speak about artificial intelligence or climate on the others.",
       "link": "https://transcripts.un.org/en/asset/k1p/k1pibtqnvp?t=35:03"
-    },
-    {
-      "meetingId": "asset/k17/k17hr84p6i",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(Day 3) SDG Media Zone – 81st Session of the UN General Assembly",
-      "date": "2026-09-23T00:00:00.000Z",
-      "body": null,
-      "snippet": "… an extraordinary period of technological advancement We have more data, more computing power, more earth observation capabilities, and more artificial intelligence than any point in human history. And yet, many of the countries that could benefit most from these capabilities …",
-      "link": "https://transcripts.un.org/en/asset/k17/k17hr84p6i?t=2:09"
-    },
-    {
-      "meetingId": "asset/k1u/k1uxc370ty",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Public interactive event with Javier González-Olaechea Franco",
-      "date": "2026-09-23T00:00:00.000Z",
-      "body": null,
-      "snippet": "… you very much, Chair. You just mentioned the budget and the priorities, but you're also proposing new initiatives on artificial intelligence and labor transitions. What difficult choices are you prepared to make to fund these commitments? And specifically, what would …",
-      "link": "https://transcripts.un.org/en/asset/k1u/k1uxc370ty?t=42:18"
-    },
-    {
-      "meetingId": "asset/k1b/k1b5jwwa58",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(Day 2) General Debate - General Assembly: Plenary meeting, 81st session",
-      "date": "2026-09-23T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… does not stay there. The same is true of other global threats. Technology has made distance matter even less. Artificial intelligence offers enormous opportunities. But in the wrong hands, it can also become a powerful tool for deception, disruption, and …",
-      "link": "https://transcripts.un.org/en/asset/k1b/k1b5jwwa58?t=26:35"
     }
   ]
 }

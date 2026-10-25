@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-24T02:53:06.525Z",
+  "generatedAt": "2026-10-25T10:31:30.887Z",
   "matches": [
+    {
+      "meetingId": "asset/k1n/k1n942fvu3",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Science Forum (24 Oct), UN Convention on Biodiversity – COP 17",
+      "date": "2026-10-24T00:00:00.000Z",
+      "body": null,
+      "snippet": "… for cooperation. Another very important project have been implemented by our government is creating supercomputer center, a center for artificial intelligence at the Yerevan State University, which provides new opportunities for new capacities that could serve also for the environmental …",
+      "link": "https://transcripts.un.org/en/asset/k1n/k1n942fvu3?t=24:16"
+    },
     {
       "meetingId": "ga/c1/81/20",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… and other international organizations. and it centrally requires us to harness new technologies, interoperable databases, digital monitoring tools, and artificial intelligence, responsibly and effectively in support of human expertise and institutional accountability. Greece has consistently placed the fight against illicit …",
       "link": "https://transcripts.un.org/en/asset/k1o/k1oe85ln8d?t=10:14"
-    },
-    {
-      "meetingId": "asset/k1p/k1pibtqnvp",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "The Kind of Leader the World Needs Now – 81st Session of the UN General Assembly",
-      "date": "2026-09-23T00:00:00.000Z",
-      "body": null,
-      "snippet": "… General can do, but not least also about putting this type of empathy, solidarity, ethics, when we speak about artificial intelligence or climate on the others.",
-      "link": "https://transcripts.un.org/en/asset/k1p/k1pibtqnvp?t=35:03"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-27T03:17:53.464Z",
+  "generatedAt": "2026-10-27T17:13:41.743Z",
   "matches": [
+    {
+      "meetingId": "asset/k13/k13miu8lei",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Business Dialogue – 7th World Forum on Intercultural Dialogue (Baku, Azerbaijan)",
+      "date": "2026-10-27T00:00:00.000Z",
+      "body": null,
+      "snippet": "… world. And secondly, They bring a very unique quality at a time when our world is being disrupted by artificial intelligence. They bring human agency. Let's talk about what that means. I want to pinpoint a couple of things that …",
+      "link": "https://transcripts.un.org/en/asset/k13/k13miu8lei?t=22:36"
+    },
+    {
+      "meetingId": "asset/k1z/k1znps5xrj",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "High-Level Segment (2nd meeting), UN Convention on Biodiversity – COP 17",
+      "date": "2026-10-27T00:00:00.000Z",
+      "body": null,
+      "snippet": "… the Yerevan Technology Hub on biodiversity monitoring, and we're prepared to work together with it based on the International Artificial Intelligence Center in Astana. In addition, we align ourselves with the CAIRIS initiative promoted by Armenia and Colombia. Distinguished Chair, …",
+      "link": "https://transcripts.un.org/en/asset/k1z/k1znps5xrj?t=4:19:41"
+    },
     {
       "meetingId": "ga/c3/81/28",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… this means fear, displacement, and the loss of family and basic services. New technology creates further risks. Drones and artificial intelligence are expanding the reach of warfare. but they do not change the obligation of parties to conflict. International humanitarian …",
       "link": "https://transcripts.un.org/en/asset/k19/k19zfk7l2f?t=1:36:18"
-    },
-    {
-      "meetingId": "asset/k1q/k1qk4rkagp",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "High Level Meeting in Defence of International Law",
-      "date": "2026-09-25T00:00:00.000Z",
-      "body": null,
-      "snippet": "… the areas in which its forces operate. Israeli intelligence officers told 972 Magazine how its targets were chosen by artificial intelligence, by AI. Quote, I would invest 20 seconds for each target, one said. Quote, I had zero added value …",
-      "link": "https://transcripts.un.org/en/asset/k1q/k1qk4rkagp?t=1:31:08"
-    },
-    {
-      "meetingId": "asset/k1r/k1rs1s60df",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(Opening ceremony only) 50th Annual Meeting of Ministers for Foreign Affairs of the Group of 77",
-      "date": "2026-09-25T00:00:00.000Z",
-      "body": null,
-      "snippet": "… more plundering, no more exploitation. The clean energy transition must reduce global inequalities, not reproduce them. Third, technological justice. Artificial intelligence should benefit all countries, not just those that can afford it. We cannot let it perpetuate the inequalities and …",
-      "link": "https://transcripts.un.org/en/asset/k1r/k1rs1s60df?t=33:02"
     }
   ]
 }

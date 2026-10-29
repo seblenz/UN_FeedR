@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-28T22:07:21.453Z",
+  "generatedAt": "2026-10-29T03:54:53.372Z",
   "matches": [
+    {
+      "meetingId": "ga/c1/81/24",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 24th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-28T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… have the honor to deliver an explanation of vote on the decision entitled \"Possible Risks of the Integration of Artificial Intelligence into Command, Control, and Communication Systems of Nuclear Weapons,\" document number L21. on behalf of Canada, the Czech Republic, …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/24?t=23:57"
+    },
+    {
+      "meetingId": "sc/10254/2",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "(Resumed) Women and peace and security in the next quarter-century: fulfilling the promise through implementation - Security Council, 10254th meeting",
+      "date": "2026-10-28T00:00:00.000Z",
+      "body": "Security Council",
+      "snippet": "… Member States must show political will by ensuring that commitments are matched with resources. Mr. President, emerging technologies, including artificial intelligence, offer new opportunities to strengthen early warning, expand women participation, and improve protection. But they also introduce new risks: …",
+      "link": "https://transcripts.un.org/en/sc/10254/2?t=1:27:01"
+    },
     {
       "meetingId": "asset/k1j/k1jaxorjku",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": "General Assembly",
       "snippet": "… also belongs not just to America, but to all of us. Because we are living in a time where artificial intelligence is turning the digital divide into an even deeper abyss. And from this darkness, I see another kind of …",
       "link": "https://transcripts.un.org/en/asset/k16/k166cn2v34?t=21:12"
-    },
-    {
-      "meetingId": "asset/k1s/k1s7q9ccj8",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "15th UN Crime Congress: Plenary meeting 6 – 28 September 2026",
-      "date": "2026-09-28T00:00:00.000Z",
-      "body": null,
-      "snippet": "… time when the world is advancing toward digitalization at an unprecedented pace. In an era of rapid technological change, artificial intelligence has emerged as an innovative tool that can significantly enhance crime prevention strategies, provided that its use remains responsible, …",
-      "link": "https://transcripts.un.org/en/asset/k1s/k1s7q9ccj8?t=1:02:23"
-    },
-    {
-      "meetingId": "asset/k1d/k1dtifwe0i",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "15th UN Crime Congress: HLS thematic meeting 6 – 27 September 2026",
-      "date": "2026-09-27T00:00:00.000Z",
-      "body": null,
-      "snippet": "… of accelerating justice in the digital age, because fraud shows us very clearly how technology is changing organized crime. Artificial intelligence and other digital tools allow criminal networks to operate at a scale and speed and a reach we have …",
-      "link": "https://transcripts.un.org/en/asset/k1d/k1dtifwe0i?t=18:16"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-30T03:56:24.073Z",
+  "generatedAt": "2026-10-30T17:48:52.879Z",
   "matches": [
+    {
+      "meetingId": "asset/k18/k18ja22m64",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Working Group II (15th meeting), UN Convention on Biodiversity - COP 17",
+      "date": "2026-10-30T00:00:00.000Z",
+      "body": null,
+      "snippet": "Thank you, Mr. Chair. And we would kindly request that artificial intelligence is retained in this paragraph. Thank you.",
+      "link": "https://transcripts.un.org/en/asset/k18/k18ja22m64?t=1:44:08"
+    },
+    {
+      "meetingId": "ga/c3/81/35",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 35th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-30T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… draft. At that session, we had thematic dialogues on public participation, the impact of trade tariffs, the impact of artificial intelligence on creative industries and cultural rights, and the role of civil society at the grassroots level. And we discussed …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/35?t=23:31"
+    },
     {
       "meetingId": "sc/10256/3",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… minor strides, but not nearly fast enough. Also, according to our preliminary numbers, more than 60% of speakers mentioned artificial intelligence in their speeches. Almost three quarters of speakers mentioned climate in some capacity. As you know, five mandated high-level …",
       "link": "https://transcripts.un.org/en/briefing/sg/2026-09-29?t=17:48"
-    },
-    {
-      "meetingId": "asset/k10/k10wp53vha",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "15th UN Crime Congress: Plenary meeting 8 – 29 September 2026",
-      "date": "2026-09-29T00:00:00.000Z",
-      "body": null,
-      "snippet": "… financial flows, and evidence cross border. While legal authority remains national, Conflict, distraction and misinformation pressure institutions. Technology, including artificial intelligence, may improve accessibility, case management and the evidence and the analysis of evidence. It may also reproduce discrimination, expense …",
-      "link": "https://transcripts.un.org/en/asset/k10/k10wp53vha?t=34:49"
-    },
-    {
-      "meetingId": "hrc/63/31",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "31st Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-29T00:00:00.000Z",
-      "body": null,
-      "snippet": "… equally strengthen the role of independent national human rights mechanisms, as they also play a critical role. Fourth, assess artificial intelligence and algorithmic systems for bias and discrimination and discriminatory outcomes. We are pleased to see that in the recently …",
-      "link": "https://transcripts.un.org/en/hrc/63/31?t=27:50"
     }
   ]
 }

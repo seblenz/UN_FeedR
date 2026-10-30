@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-30T17:48:52.879Z",
+  "generatedAt": "2026-10-30T21:52:03.640Z",
   "matches": [
+    {
+      "meetingId": "asset/k1p/k1pmsu6yt7",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "4th Meeting, Social Forum 2026",
+      "date": "2026-10-30T00:00:00.000Z",
+      "body": null,
+      "snippet": "… were disrupted. However, there are obstacles that are preventing us from fully unlocking the power of digital technology and artificial intelligence to deliver better health outcomes for all. Today, we have five distinguished panelists with us for this session, all …",
+      "link": "https://transcripts.un.org/en/asset/k1p/k1pmsu6yt7?t=16:09"
+    },
+    {
+      "meetingId": "ga/81/31",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "General Assembly: 31st plenary meeting, 81st session",
+      "date": "2026-10-30T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… partnerships must close the distance between international commitments and daily experience. Transformation also requires us to confront technological change. Artificial intelligence can expand knowledge, services, and opportunity. It can also deepen discrimination and enable intrusive surveillance. Human rights must guide …",
+      "link": "https://transcripts.un.org/en/ga/81/31?t=24:37"
+    },
+    {
+      "meetingId": "asset/k19/k19c47uis1",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "The Right to Development (3rd Committee, Side Event)",
+      "date": "2026-10-30T00:00:00.000Z",
+      "body": null,
+      "snippet": "… being undermined and becoming irrelevant. The right to development also offers an important lens for addressing emerging challenges. As artificial intelligence and digital techniques reshape economies and societies, We must ensure that these advances benefit all countries and peoples equally, …",
+      "link": "https://transcripts.un.org/en/asset/k19/k19c47uis1?t=49:37"
+    },
     {
       "meetingId": "asset/k18/k18ja22m64",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": "General Assembly",
       "snippet": "… continue to exist, we have a responsibility to reduce the risks associated with their existence. The rapid development of artificial intelligence and its growing incorporation into military systems raises new challenges. This is why Panama considers it fundamental that the …",
       "link": "https://transcripts.un.org/en/asset/k1e/k1e0kjhzk5?t=1:47:19"
-    },
-    {
-      "meetingId": "asset/k18/k18hbe7ctm",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "15th UN Crime Congress: Plenary meeting 9 – 29 September 2026",
-      "date": "2026-09-29T00:00:00.000Z",
-      "body": null,
-      "snippet": "… addressed, and where should our collective efforts be directed. Organized criminal groups now master sophisticated technologies at unprecedented scale. Artificial intelligence automates criminal operations, from phishing campaigns to large-scale cyber attacks, enabling criminals to reach more victims with fewer resources. …",
-      "link": "https://transcripts.un.org/en/asset/k18/k18hbe7ctm?t=38:36"
-    },
-    {
-      "meetingId": "asset/k19/k19ugmm4y6",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(Part 1) High-level Plenary Meeting to Commemorate and Promote the International Day for the Total Elimination of Nuclear Weapons - General Assembly, 81st session",
-      "date": "2026-09-29T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… modern warheads enter arsenals faster than retired ones are dismantled. Reliance reliance on nuclear deterrence persists. New technologies, including artificial intelligence, cyber capabilities, and advanced delivery systems, are introducing additional uncertainty into command, control, and decision making. Meanwhile, global military …",
-      "link": "https://transcripts.un.org/en/asset/k19/k19ugmm4y6?t=13:23"
-    },
-    {
-      "meetingId": "briefing/sg/2026-09-29",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Daily Press Briefing by the Spokesperson of the Secretary-General and the Spokesperson for the President of the General Assembly",
-      "date": "2026-09-29T00:00:00.000Z",
-      "body": null,
-      "snippet": "… minor strides, but not nearly fast enough. Also, according to our preliminary numbers, more than 60% of speakers mentioned artificial intelligence in their speeches. Almost three quarters of speakers mentioned climate in some capacity. As you know, five mandated high-level …",
-      "link": "https://transcripts.un.org/en/briefing/sg/2026-09-29?t=17:48"
     }
   ]
 }

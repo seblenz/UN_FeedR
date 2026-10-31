@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:40:41.887Z",
+  "generatedAt": "2026-10-31T16:40:03.204Z",
   "matches": [
     {
       "meetingId": "ga/c1/81/27",
@@ -286,6 +286,17 @@
       "body": null,
       "snippet": "… toll this takes on the older population, who find it more difficult to flee. We see the capabilities of artificial intelligence grow exponentially, but at the same time also the increase of the dual vulnerability of older persons in the …",
       "link": "https://transcripts.un.org/en/asset/k1a/k1arefslmz?t=1:51:24"
+    },
+    {
+      "meetingId": "asset/k1l/k1l5906cg3",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Gender Forum - taking action for the gender response Implementation of the KM-GBF, UN Convention on Biodiversity – COP 17",
+      "date": "2026-10-27T00:00:00.000Z",
+      "body": null,
+      "snippet": "… our conversation and speaking also about biases. I will also add, for example, algorithmic biases as we speak about artificial intelligence a lot nowadays and the barriers that women face. from all walks of life, even for applying a loan …",
+      "link": "https://transcripts.un.org/en/asset/k1l/k1l5906cg3?t=56:46"
     },
     {
       "meetingId": "asset/k1o/k1o4q6guhp",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… information communication technologies. Member States are encouraged to consult relevant Council of Europe instruments, including the Framework Convention on Artificial Intelligence, Human Rights, Democracy and the Rule of Law, and to consider signature and ratification as appropriate. Member States are …",
       "link": "https://transcripts.un.org/en/asset/k14/k14cybrhnf?t=44:16"
-    },
-    {
-      "meetingId": "asset/k1b/k1bkve9id3",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "15th UN Crime Congress: Committee II, Workshop 4 – 30 September 2026",
-      "date": "2026-09-30T00:00:00.000Z",
-      "body": null,
-      "snippet": "… signed by 70 countries worldwide, but also cybercrime, the so-called Budapest Convention, protection of personal data, bioethics, and now artificial intelligence. On this Council of Europe Framework Convention, Artificial Intelligence, Human Rights, Democracy and Rule of Law, is the first …",
-      "link": "https://transcripts.un.org/en/asset/k1b/k1bkve9id3?t=29:36"
     }
   ]
 }

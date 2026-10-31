@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-30T21:52:03.640Z",
+  "generatedAt": "2026-10-31T03:40:41.887Z",
   "matches": [
+    {
+      "meetingId": "ga/c1/81/27",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "First Committee, 27th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-30T00:00:00.000Z",
+      "body": "First Committee",
+      "snippet": "… the issue of lethal autonomous weapons, Indonesia welcomes the adoption of draft resolution L/37. The growing military application of artificial intelligence and increasing autonomy in weapons systems demand meaningful human judgment and control, accountability over the use of force, and …",
+      "link": "https://transcripts.un.org/en/ga/c1/81/27?t=17:22"
+    },
+    {
+      "meetingId": "ga/81/32",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "General Assembly: 32nd plenary meeting, 81st session",
+      "date": "2026-10-30T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… the rights of children, youth, peasants, and other marginalized and vulnerable groups. We commend the Council's growing attention to artificial intelligence. Bangladesh co-led, with seven other member states, the first ever resolution on AI and human rights in the Council. …",
+      "link": "https://transcripts.un.org/en/ga/81/32?t=16:40"
+    },
+    {
+      "meetingId": "ga/c3/81/36",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 36th plenary meeting - General Assembly, 81st session",
+      "date": "2026-10-30T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… and responsive. The Council has also continued to advance discussions on thematic challenges, including the human rights implications of artificial intelligence and digital technologies, demonstrating its ability to address both urgent crises and emerging global issues. We continue to support …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/36?t=54:27"
+    },
     {
       "meetingId": "asset/k1p/k1pmsu6yt7",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": null,
       "snippet": "… signed by 70 countries worldwide, but also cybercrime, the so-called Budapest Convention, protection of personal data, bioethics, and now artificial intelligence. On this Council of Europe Framework Convention, Artificial Intelligence, Human Rights, Democracy and Rule of Law, is the first …",
       "link": "https://transcripts.un.org/en/asset/k1b/k1bkve9id3?t=29:36"
-    },
-    {
-      "meetingId": "hrc/63/33",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "33rd Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-09-30T00:00:00.000Z",
-      "body": null,
-      "snippet": "… to justice and civic participation, alongside investments in education, healthcare, social protection and other essential infrastructure. Emerging challenges, including artificial intelligence, the widening digital divide, climate change, and mounting economic pressures threaten to deepen existing inequalities, particularly in developing countries. …",
-      "link": "https://transcripts.un.org/en/hrc/63/33?t=46:01"
-    },
-    {
-      "meetingId": "briefing/pga/2026-09-29",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "General Assembly's High-Level Week & other topics - PGA Spokesperson Briefing",
-      "date": "2026-09-29T00:00:00.000Z",
-      "body": null,
-      "snippet": "… minor strides, but not nearly fast enough. Also, according to our preliminary numbers, more than 60% of speakers mentioned artificial intelligence in their speeches. Almost three quarters of speakers mentioned climate in some capacity. As you know, five mandated high-level …",
-      "link": "https://transcripts.un.org/en/briefing/pga/2026-09-29?t=0:05"
-    },
-    {
-      "meetingId": "asset/k1e/k1e0kjhzk5",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(Part 2) High-level Plenary Meeting to Commemorate and Promote the International Day for the Total Elimination of Nuclear Weapons - General Assembly, 81st session",
-      "date": "2026-09-29T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… continue to exist, we have a responsibility to reduce the risks associated with their existence. The rapid development of artificial intelligence and its growing incorporation into military systems raises new challenges. This is why Panama considers it fundamental that the …",
-      "link": "https://transcripts.un.org/en/asset/k1e/k1e0kjhzk5?t=1:47:19"
     }
   ]
 }

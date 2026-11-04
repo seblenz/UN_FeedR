@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-03T00:19:20.233Z",
+  "generatedAt": "2026-11-04T04:25:46.506Z",
   "matches": [
+    {
+      "meetingId": "ga/c4/81/17",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Fourth Committee, 17th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-03T00:00:00.000Z",
+      "body": "Fourth Committee",
+      "snippet": "… in an international context marked by an escalation of a media war against the global south, growth of generative artificial intelligence, crisis of confidence in the information ecosystems and the use of advanced digital technologies in military operations and subversion. …",
+      "link": "https://transcripts.un.org/en/ga/c4/81/17?t=8:18"
+    },
+    {
+      "meetingId": "ga/c6/81/35",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Sixth Committee, 35th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-03T00:00:00.000Z",
+      "body": "Sixth Committee",
+      "snippet": "… Commission may wish to address in its commentaries. Lawyers, courts, and governments increasingly rely on research tools driven by artificial intelligence. Such tools are trained on what is most available and most cited. Unless care is taken, they will amplify …",
+      "link": "https://transcripts.un.org/en/ga/c6/81/35?t=1:37:40"
+    },
     {
       "meetingId": "ga/c1/81/28",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": "Third Committee",
       "snippet": "… to this chair. The technical revolution is hitting us like a thunderstorm. The UN Secretary General has said runaway artificial intelligence represents one of three existential threats to humanity, alongside the climate crisis and increasing inequality. International law and human …",
       "link": "https://transcripts.un.org/en/ga/c3/81/4?t=15:18"
-    },
-    {
-      "meetingId": "ga/c3/81/3",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Third Committee, 3rd plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-02T00:00:00.000Z",
-      "body": "Third Committee",
-      "snippet": "… security and youth, peace, and security agendas. Third, protecting the rights and well-being of children requires our continued attention. Artificial intelligence, social media, and digital platforms offer enormous opportunities, but also expose children to new forms of exploitation, violence, and …",
-      "link": "https://transcripts.un.org/en/ga/c3/81/3?t=56:37"
-    },
-    {
-      "meetingId": "ga/c4/81/2",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Fourth Committee, 2nd plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-02T00:00:00.000Z",
-      "body": "Fourth Committee",
-      "snippet": "… be compromised. Third, we must manage transformation responsibly and do it together. New technologies are reshaping information and communication. Artificial intelligence can expand access, advance multilingualism, and extend the reach of event communications. It can also accelerate misinformation and disinformation, …",
-      "link": "https://transcripts.un.org/en/ga/c4/81/2?t=20:43"
     }
   ]
 }

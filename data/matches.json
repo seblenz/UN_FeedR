@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-11-04T04:25:46.506Z",
+  "generatedAt": "2026-11-04T23:04:56.524Z",
   "matches": [
+    {
+      "meetingId": "ga/c3/81/39",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 39th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-04T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… entrenched racism in border management. These challenges are exacerbated by the criminalization of migration and the invented use of artificial intelligence, contributing to serious human rights violations against Africans and people of African descent on the move. We support the …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/39?t=43:26"
+    },
+    {
+      "meetingId": "ga/c6/81/36",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Sixth Committee, 36th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-04T00:00:00.000Z",
+      "body": "Sixth Committee",
+      "snippet": "… in terms of the idea of the general autonomous idea, in particular in new areas such as cyberspace and artificial intelligence. We prioritize a central and pragmatic approach where efficacy of due diligence is based on international cooperation and capacity …",
+      "link": "https://transcripts.un.org/en/ga/c6/81/36?t=1:36:02"
+    },
+    {
+      "meetingId": "ga/c4/81/18",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Fourth Committee, 18th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-04T00:00:00.000Z",
+      "body": "Fourth Committee",
+      "snippet": "… speech have made the already vulnerable situation even more complicated. We are deeply concerned at the rampant use of artificial intelligence and social media to spread fake news, giving rise to ethnic tensions and political rivalries among societies. I would …",
+      "link": "https://transcripts.un.org/en/ga/c4/81/18?t=26:04"
+    },
     {
       "meetingId": "ga/c4/81/17",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": "Sixth Committee",
       "snippet": "… catalysts for recruitment by armed groups. Portugal shares the EU concern about emerging technologies. Terrorist groups exploit digital platforms, artificial intelligence, satellite communications and drones. We support a multi-stakeholder approach with the private sector, civil society and academia to ensure …",
       "link": "https://transcripts.un.org/en/ga/c6/81/2?t=29:13"
-    },
-    {
-      "meetingId": "hrc/63/39",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "39th Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-10-05T00:00:00.000Z",
-      "body": null,
-      "snippet": "… and the duty of international cooperation in addressing shared global challenges. At the same time, rapidly evolving technologies, including artificial intelligence, present both opportunities and challenges. Technical assistance and capacity building can help strengthen national capacities to harness these developments …",
-      "link": "https://transcripts.un.org/en/hrc/63/39?t=35:41"
-    },
-    {
-      "meetingId": "asset/k13/k13o9p4a21",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "(Part 1) Future of Money, Governance & the Law Summit",
-      "date": "2026-10-02T00:00:00.000Z",
-      "body": null,
-      "snippet": "… affected region. To address this, at the UN Pension Fund, we engineer an identity solution combining blockchain, biometrics, and artificial intelligence. Biometric facial recognition verify the identity solution in real time. pairing liveness detection with privacy-preserving edge processing. Artificial intelligence …",
-      "link": "https://transcripts.un.org/en/asset/k13/k13o9p4a21?t=0:04"
-    },
-    {
-      "meetingId": "ga/c3/81/4",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Third Committee, 4th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-02T00:00:00.000Z",
-      "body": "Third Committee",
-      "snippet": "… to this chair. The technical revolution is hitting us like a thunderstorm. The UN Secretary General has said runaway artificial intelligence represents one of three existential threats to humanity, alongside the climate crisis and increasing inequality. International law and human …",
-      "link": "https://transcripts.un.org/en/ga/c3/81/4?t=15:18"
     }
   ]
 }

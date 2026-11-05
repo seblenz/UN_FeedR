@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-04T23:04:56.524Z",
+  "generatedAt": "2026-11-05T04:41:59.333Z",
   "matches": [
+    {
+      "meetingId": "ga/c6/81/37",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Sixth Committee, 37th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-04T00:00:00.000Z",
+      "body": "Sixth Committee",
+      "snippet": "… the due diligence obligation is of growing importance in light of progress, experience and the development and use of artificial intelligence systems that significantly broaden the capacities and risks associated with activities in cyberspace. Lastly, in relation to the report …",
+      "link": "https://transcripts.un.org/en/ga/c6/81/37?t=30:50"
+    },
     {
       "meetingId": "ga/c3/81/39",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "Second Committee",
       "snippet": "… investments in renewable energy and storage, electric vehicle infrastructure, sustainable transport, water, and waste management. Second, digital technologies and artificial intelligence in particular will only advance development if it reaches the last mile. Much of the global conversation on AI …",
       "link": "https://transcripts.un.org/en/ga/c2/81/3?t=26:51"
-    },
-    {
-      "meetingId": "ga/c6/81/2",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Sixth Committee, 2nd plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-05T00:00:00.000Z",
-      "body": "Sixth Committee",
-      "snippet": "… catalysts for recruitment by armed groups. Portugal shares the EU concern about emerging technologies. Terrorist groups exploit digital platforms, artificial intelligence, satellite communications and drones. We support a multi-stakeholder approach with the private sector, civil society and academia to ensure …",
-      "link": "https://transcripts.un.org/en/ga/c6/81/2?t=29:13"
     }
   ]
 }

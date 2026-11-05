@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-05T04:41:59.333Z",
+  "generatedAt": "2026-11-05T23:08:36.087Z",
   "matches": [
+    {
+      "meetingId": "ga/81/37",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "General Assembly: 37th plenary meeting, 81st session",
+      "date": "2026-11-05T00:00:00.000Z",
+      "body": "General Assembly",
+      "snippet": "… the specific vulnerabilities of the least developed countries. The special meeting on international cooperation in tax matters explored how artificial intelligence can strengthen tax administrations with appropriate safeguards and human oversight. The Multi-Stakeholder Forum on Science, Technology, and Innovation states …",
+      "link": "https://transcripts.un.org/en/ga/81/37?t=27:01"
+    },
     {
       "meetingId": "ga/c6/81/37",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "Second Committee",
       "snippet": "… are affecting economies and societies in ways that present both extraordinary opportunities, but at the same time, significant risks. Artificial intelligence is poised to reshape development pathways, affecting productivity, labor markets, public services, education, governance, and deepening inequality, both within …",
       "link": "https://transcripts.un.org/en/ga/c2/81/2?t=11:40"
-    },
-    {
-      "meetingId": "ga/c2/81/3",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Second Committee, 3rd plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-05T00:00:00.000Z",
-      "body": "Second Committee",
-      "snippet": "… investments in renewable energy and storage, electric vehicle infrastructure, sustainable transport, water, and waste management. Second, digital technologies and artificial intelligence in particular will only advance development if it reaches the last mile. Much of the global conversation on AI …",
-      "link": "https://transcripts.un.org/en/ga/c2/81/3?t=26:51"
     }
   ]
 }

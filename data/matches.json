@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-05T23:08:36.087Z",
+  "generatedAt": "2026-11-06T04:41:02.395Z",
   "matches": [
+    {
+      "meetingId": "ga/c4/81/19",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Fourth Committee, 19th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-05T00:00:00.000Z",
+      "body": "Fourth Committee",
+      "snippet": "… more crucial than ever. Our Invest in Peace campaign engages local communities and shows the value of peacekeeping. But artificial intelligence increasingly powers information harms. In consultation with Member States, we are strengthening uniformed capabilities on information integrity. Excellencies, we …",
+      "link": "https://transcripts.un.org/en/ga/c4/81/19?t=21:32"
+    },
     {
       "meetingId": "ga/81/37",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "Sixth Committee",
       "snippet": "… a vital issue that ought to be taken into account in our discussions of global governance. The adoption of Resolution 79/325 regarding the modalities of the establishment and functioning of the Scientific group, the National Independent Scientific Group on AI, …",
       "link": "https://transcripts.un.org/en/ga/c6/81/1/2?t=1:07:40"
-    },
-    {
-      "meetingId": "ga/c2/81/2",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Second Committee, 2nd plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-05T00:00:00.000Z",
-      "body": "Second Committee",
-      "snippet": "… are affecting economies and societies in ways that present both extraordinary opportunities, but at the same time, significant risks. Artificial intelligence is poised to reshape development pathways, affecting productivity, labor markets, public services, education, governance, and deepening inequality, both within …",
-      "link": "https://transcripts.un.org/en/ga/c2/81/2?t=11:40"
     }
   ]
 }

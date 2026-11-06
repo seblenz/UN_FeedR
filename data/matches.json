@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-06T13:35:53.360Z",
+  "generatedAt": "2026-11-06T22:37:34.229Z",
   "matches": [
+    {
+      "meetingId": "cescr/4318",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Covenants60: Joint commemoration of the 60th anniversary of the International Covenant on Civil and Political Rights (ICCPR) and the International Covenant on Economic, Social and Cultural Rights (ICESCR)",
+      "date": "2026-11-06T00:00:00.000Z",
+      "body": null,
+      "snippet": "… any particular technology or set of circumstances. How we apply the principles of the covenants to emerging challenges, particularly artificial intelligence and climate change, will be one of our central questions for the years ahead. I look forward to exploring …",
+      "link": "https://transcripts.un.org/en/cescr/4318?t=35:29"
+    },
+    {
+      "meetingId": "asset/k13/k13tszooit",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Feridun Sinirlioğlu - Interactive dialogue for the position of the next Secretary-General of the United Nations",
+      "date": "2026-11-06T00:00:00.000Z",
+      "body": null,
+      "snippet": "… matter to some, they won't matter to anyone, and that becomes a problem for everyone. Furthermore, emerging Technologies, including artificial intelligence, are evolving faster than the legal frameworks to manage them, often generating uncertainty among the global public and posing …",
+      "link": "https://transcripts.un.org/en/asset/k13/k13tszooit?t=29:11"
+    },
     {
       "meetingId": "cescr/29",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": "First Committee",
       "snippet": "… decades, like nuclear disarmament and non-proliferation. The Committee has also shown its ability to respond to emerging challenges. like artificial intelligence in the military domain and lethal autonomous weapon systems. I'm confident that this year's sessions will again prove the …",
       "link": "https://transcripts.un.org/en/ga/c1/81/2?t=21:18"
-    },
-    {
-      "meetingId": "ga/c2/81/4",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Second Committee, 4th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-06T00:00:00.000Z",
-      "body": "Second Committee",
-      "snippet": "… innovation and digital transformation must be part of the solution. Lebanon is strengthening digital governance and its capacities in artificial intelligence, digital infrastructure, and innovation. This week, Lebanon will host Xperia, its first interactive innovation expo, which will provide a …",
-      "link": "https://transcripts.un.org/en/ga/c2/81/4?t=22:14"
-    },
-    {
-      "meetingId": "ga/c3/81/7/2",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Third Committee, 7th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-06T00:00:00.000Z",
-      "body": "Third Committee",
-      "snippet": "… only the children who grew up with social media. We are also the first generation to grow up using artificial intelligence. AI is rapidly shaping how we consume information, connect, and understand reality. It is entirely rewriting the job market …",
-      "link": "https://transcripts.un.org/en/ga/c3/81/7/2?t=38:20"
     }
   ]
 }

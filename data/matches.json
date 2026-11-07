@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:07:56.228Z",
+  "generatedAt": "2026-11-07T21:19:00.198Z",
   "matches": [
     {
       "meetingId": "ga/c4/81/20",
@@ -77,6 +77,17 @@
       "body": "General Assembly",
       "snippet": "… the specific vulnerabilities of the least developed countries. The special meeting on international cooperation in tax matters explored how artificial intelligence can strengthen tax administrations with appropriate safeguards and human oversight. The Multi-Stakeholder Forum on Science, Technology, and Innovation states …",
       "link": "https://transcripts.un.org/en/ga/81/37?t=27:01"
+    },
+    {
+      "meetingId": "asset/k1f/k1fgfoxbbm",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Opening & Keynote conversation - Advancing social justice: Universal social protection in a changing geopolitical landscape",
+      "date": "2026-11-04T00:00:00.000Z",
+      "body": null,
+      "snippet": "… living crisis. Violent conflicts have intensified. Climate change is increasingly affecting the lives and livelihoods. Rapid technological change, including artificial intelligence, is transforming the world of work. All this is happening against the backdrop of growing geopolitical tensions, weakening multilateral …",
+      "link": "https://transcripts.un.org/en/asset/k1f/k1fgfoxbbm?t=0:05"
     },
     {
       "meetingId": "ga/c6/81/37",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… the Commission in effectively carrying out its mandate. We particularly welcome the resolution's timely focus on digital technologies and artificial intelligence, As Thailand continues to promote digital transformation and the responsible use of AI, we recognize the important role that …",
       "link": "https://transcripts.un.org/en/hrc/63/42?t=2:34:50"
-    },
-    {
-      "meetingId": "ga/c6/81/3",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Sixth Committee, 3rd plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-06T00:00:00.000Z",
-      "body": "Sixth Committee",
-      "snippet": "… the escalating terrorist threats facing developing states, particularly in Africa, stemming from the increasing use of technological tools and artificial intelligence by terrorist groups. These groups now leverage emerging technologies for financing, recruitment, and planning, as well as for conducting …",
-      "link": "https://transcripts.un.org/en/ga/c6/81/3?t=2:27:57"
     }
   ]
 }

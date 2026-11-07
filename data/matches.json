@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-06T22:37:34.229Z",
+  "generatedAt": "2026-11-07T04:07:56.228Z",
   "matches": [
+    {
+      "meetingId": "ga/c4/81/20",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Fourth Committee, 20th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-06T00:00:00.000Z",
+      "body": "Fourth Committee",
+      "snippet": "… comprehensive planning and performance assessment systems, CPAS. We should also anticipate the risks linked to emerging technologies such as artificial intelligence and look to their effective utilization in peace operations. To this end, the Secretariat and missions should be able …",
+      "link": "https://transcripts.un.org/en/ga/c4/81/20?t=3:01:00"
+    },
     {
       "meetingId": "cescr/4318",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "Sixth Committee",
       "snippet": "… the escalating terrorist threats facing developing states, particularly in Africa, stemming from the increasing use of technological tools and artificial intelligence by terrorist groups. These groups now leverage emerging technologies for financing, recruitment, and planning, as well as for conducting …",
       "link": "https://transcripts.un.org/en/ga/c6/81/3?t=2:27:57"
-    },
-    {
-      "meetingId": "ga/c1/81/2",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "First Committee, 2nd plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-06T00:00:00.000Z",
-      "body": "First Committee",
-      "snippet": "… decades, like nuclear disarmament and non-proliferation. The Committee has also shown its ability to respond to emerging challenges. like artificial intelligence in the military domain and lethal autonomous weapon systems. I'm confident that this year's sessions will again prove the …",
-      "link": "https://transcripts.un.org/en/ga/c1/81/2?t=21:18"
     }
   ]
 }

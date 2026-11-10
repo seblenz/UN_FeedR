@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-10T01:03:30.855Z",
+  "generatedAt": "2026-11-10T22:43:25.910Z",
   "matches": [
+    {
+      "meetingId": "ga/c3/81/41",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 41st plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-10T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… on Teachers and the 2026 follow-up to the Transforming Education Summit. Second, it places greater emphasis on digital and artificial intelligence literacy as its essential components of lifelong learning. It highlights the importance of age-appropriate learning, teacher training, linguistic and …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/41?t=19:00"
+    },
+    {
+      "meetingId": "ga/c4/81/21",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Fourth Committee, 21th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-10T00:00:00.000Z",
+      "body": "Fourth Committee",
+      "snippet": "… advantage of the cost efficiency benefits. situational knowledge, risk analysis, and early warning that technologies, including those driven by artificial intelligence, can provide to peacekeeping operations. Lastly, Mr. Chairman, allow me to conclude by acknowledging the milestone represented by the …",
+      "link": "https://transcripts.un.org/en/ga/c4/81/21?t=51:59"
+    },
     {
       "meetingId": "asset/k1d/k1d6mqfs4e",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": "Third Committee",
       "snippet": "… continue to face serious challenges from armed conflicts, poverty, climate change, displacement, and widening inequalities. Rapid digital transformation and artificial intelligence bring unprecedented opportunities, but also expose children to new risks of violence, exploitation, abuse, and trust to privacy. Vietnam …",
       "link": "https://transcripts.un.org/en/ga/c3/81/8/3?t=2:02:17"
-    },
-    {
-      "meetingId": "ga/c6/81/4/2",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Sixth Committee, 4th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-06T00:00:00.000Z",
-      "body": "Sixth Committee",
-      "snippet": "… that the ninth review would have been more responsive to today's challenges, had it included a clearer language regarding artificial intelligence and other emerging technologies, including the potential for their misuse for terrorist purposes, explicit recognition of Islamophobia and other …",
-      "link": "https://transcripts.un.org/en/ga/c6/81/4/2?t=19:41"
-    },
-    {
-      "meetingId": "cedaw/3010",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "3010th Meeting, 93rd Session, Committee on the Elimination of Discrimination against Women (CEDAW)",
-      "date": "2026-10-06T00:00:00.000Z",
-      "body": null,
-      "snippet": "… legal framework governing digital transformation. Article 21 of the Constitution guarantees personal data protection, supported by the Law on Artificial Intelligence and Digital Code, which entered into force in 2026. However, as an expert, we must emphasize a vital principle: …",
-      "link": "https://transcripts.un.org/en/cedaw/3010?t=30:05"
     }
   ]
 }

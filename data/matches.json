@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-07T21:19:00.198Z",
+  "generatedAt": "2026-11-10T01:03:30.855Z",
   "matches": [
+    {
+      "meetingId": "asset/k1d/k1d6mqfs4e",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Thailand Review - 53rd session of Universal Periodic Review",
+      "date": "2026-11-09T00:00:00.000Z",
+      "body": null,
+      "snippet": "… Plan 2028-2032, which will be expanded to address emerging human rights challenges, including those arising from digital technology and artificial intelligence, climate change and just transitions, global supply chains, and demographic changes. Thailand is also in the process of finalizing …",
+      "link": "https://transcripts.un.org/en/asset/k1d/k1d6mqfs4e?t=17:26"
+    },
+    {
+      "meetingId": "asset/k16/k163xsb3si",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "2nd Meeting, 2026 Protocol V Meeting of Experts (CCW)",
+      "date": "2026-11-09T00:00:00.000Z",
+      "body": null,
+      "snippet": "… of rapid technological developments. Experts highlighted the importance of investing in and integrating innovative and sustainable technologies, such as artificial intelligence (AI), machine learning, drones, robotics, and remote sensing technologies, into processes related to detection, clearance of ERW, and land …",
+      "link": "https://transcripts.un.org/en/asset/k16/k163xsb3si?t=47:55"
+    },
     {
       "meetingId": "ga/c4/81/20",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… legal framework governing digital transformation. Article 21 of the Constitution guarantees personal data protection, supported by the Law on Artificial Intelligence and Digital Code, which entered into force in 2026. However, as an expert, we must emphasize a vital principle: …",
       "link": "https://transcripts.un.org/en/cedaw/3010?t=30:05"
-    },
-    {
-      "meetingId": "hrc/63/41",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "41st Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-10-06T00:00:00.000Z",
-      "body": null,
-      "snippet": "… 2008, it has been adopted by consensus, most recently as Resolution 57/5 of 9 October 2024. Resolution 57/5 placed artificial intelligence on the good governance agenda for the first time and requested the Advisory Committee of the Human Rights Council …",
-      "link": "https://transcripts.un.org/en/hrc/63/41?t=20:38"
-    },
-    {
-      "meetingId": "hrc/63/42",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "42nd Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-10-06T00:00:00.000Z",
-      "body": null,
-      "snippet": "… the Commission in effectively carrying out its mandate. We particularly welcome the resolution's timely focus on digital technologies and artificial intelligence, As Thailand continues to promote digital transformation and the responsible use of AI, we recognize the important role that …",
-      "link": "https://transcripts.un.org/en/hrc/63/42?t=2:34:50"
     }
   ]
 }

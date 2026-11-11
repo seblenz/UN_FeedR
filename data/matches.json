@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-10T22:43:25.910Z",
+  "generatedAt": "2026-11-11T04:09:59.656Z",
   "matches": [
+    {
+      "meetingId": "ga/c3/81/42",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 42nd plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-10T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… to the right to privacy and human rights more broadly by the exponentially growing capabilities of technologies such as artificial intelligence, neurotechnology, and biometric identification and recognition. It also expresses concern at the interference by states with individuals' rights to …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/42?t=51:04"
+    },
     {
       "meetingId": "ga/c3/81/41",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "Second Committee",
       "snippet": "… local communities benefit throughout the year while avoiding excessive seasonal pressures. We will also follow closely the discussions on artificial intelligence and its contribution to sustainable development. We are of the view that technological progress must remain human-centered, inclusive, and …",
       "link": "https://transcripts.un.org/en/ga/c2/81/5?t=14:44"
-    },
-    {
-      "meetingId": "ga/c3/81/8/3",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Third Committee, 8th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-06T00:00:00.000Z",
-      "body": "Third Committee",
-      "snippet": "… continue to face serious challenges from armed conflicts, poverty, climate change, displacement, and widening inequalities. Rapid digital transformation and artificial intelligence bring unprecedented opportunities, but also expose children to new risks of violence, exploitation, abuse, and trust to privacy. Vietnam …",
-      "link": "https://transcripts.un.org/en/ga/c3/81/8/3?t=2:02:17"
     }
   ]
 }

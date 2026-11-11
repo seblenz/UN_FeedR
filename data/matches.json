@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-11T04:09:59.656Z",
+  "generatedAt": "2026-11-11T13:23:48.291Z",
   "matches": [
+    {
+      "meetingId": "asset/k1h/k1h84m7ugh",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "3rd Meeting, 2026 Amended Protocol II Group of Experts (CCW)",
+      "date": "2026-11-11T00:00:00.000Z",
+      "body": null,
+      "snippet": "… devices. This is called unmanned aerial devices made up, and we have a number of officials working on radioelectric artificial intelligence. Also, we have a draft bill that's being put forward which seeks to regulate the import, the marketing, the …",
+      "link": "https://transcripts.un.org/en/asset/k1h/k1h84m7ugh?t=1:14:14"
+    },
     {
       "meetingId": "ga/c3/81/42",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": null,
       "snippet": "… \"Strengthening Multilateralism in a Changing World.\" He spoke about a range of issues, including diplomacy, inequalities, climate change, and artificial intelligence. He underscored the importance of dialogue and cooperation cooperation in today's world, saying that precisely at the moment when …",
       "link": "https://transcripts.un.org/en/briefing/sg/2026-10-07?t=29:58"
-    },
-    {
-      "meetingId": "ga/c2/81/5",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Second Committee, 5th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-06T00:00:00.000Z",
-      "body": "Second Committee",
-      "snippet": "… local communities benefit throughout the year while avoiding excessive seasonal pressures. We will also follow closely the discussions on artificial intelligence and its contribution to sustainable development. We are of the view that technological progress must remain human-centered, inclusive, and …",
-      "link": "https://transcripts.un.org/en/ga/c2/81/5?t=14:44"
     }
   ]
 }

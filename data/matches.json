@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-11T13:23:48.291Z",
+  "generatedAt": "2026-11-11T23:56:15.229Z",
   "matches": [
+    {
+      "meetingId": "asset/k1h/k1hkzdo46m",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "4th Meeting, 2026 Amended Protocol II Group of Experts (CCW)",
+      "date": "2026-11-11T00:00:00.000Z",
+      "body": null,
+      "snippet": "… of IEDs with commercially available uncrewed aerial systems, allowing armed actors to extend the range and precision of attacks. Artificial intelligence, additive manufacturing, alternative control mechanisms, and online access to technical knowledge may further facilitate design, production, and delivery. The …",
+      "link": "https://transcripts.un.org/en/asset/k1h/k1hkzdo46m?t=27:40"
+    },
+    {
+      "meetingId": "asset/k13/k13s0mp483",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Knowledge in Action: Strengthening economic, social and cultural rights through the ESCR Knowledge Hub",
+      "date": "2026-11-11T00:00:00.000Z",
+      "body": null,
+      "snippet": "… will take place next month, and we look forward to all the friends and colleagues' active participation. Looking ahead, artificial intelligence and emerging technologies can facilitate realization of economic and social cultural rights. We encourage the hub to harness such …",
+      "link": "https://transcripts.un.org/en/asset/k13/k13s0mp483?t=28:43"
+    },
     {
       "meetingId": "asset/k1h/k1h84m7ugh",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": "Third Committee",
       "snippet": "… This includes providing accessible and locally relevant learning materials equipping educators to use these tools effectively and ensuring that artificial intelligence supports human agency, critical thinking, equity, privacy and inclusion. Finally, literacy must remain at the heart of the post-2030 …",
       "link": "https://transcripts.un.org/en/ga/c3/81/9?t=23:26"
-    },
-    {
-      "meetingId": "ga/c1/81/3",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "First Committee, 3rd plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-07T00:00:00.000Z",
-      "body": "First Committee",
-      "snippet": "… compliance with international humanitarian law and international human rights law. CARICOM is equally concerned by the increasing integration of artificial intelligence into military systems, targeting processes and operational decision-making. While recognizing the potential benefits of technological innovation, we emphasize that …",
-      "link": "https://transcripts.un.org/en/ga/c1/81/3?t=36:48"
-    },
-    {
-      "meetingId": "briefing/sg/2026-10-07",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Pakistan, Ukraine, Iran & other topics - Daily Press Briefing",
-      "date": "2026-10-07T00:00:00.000Z",
-      "body": null,
-      "snippet": "… \"Strengthening Multilateralism in a Changing World.\" He spoke about a range of issues, including diplomacy, inequalities, climate change, and artificial intelligence. He underscored the importance of dialogue and cooperation cooperation in today's world, saying that precisely at the moment when …",
-      "link": "https://transcripts.un.org/en/briefing/sg/2026-10-07?t=29:58"
     }
   ]
 }

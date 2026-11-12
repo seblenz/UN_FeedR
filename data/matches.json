@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-11T23:56:15.229Z",
+  "generatedAt": "2026-11-12T14:28:26.588Z",
   "matches": [
+    {
+      "meetingId": "asset/k1n/k1nxs84biw",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "High Level Event on Global Grids Accelerator -UN Climate Change Conference",
+      "date": "2026-11-12T00:00:00.000Z",
+      "body": null,
+      "snippet": "… 80 million kilometers of power lines by 2040. making systems smarter and more resilient with storage, digital tools, and artificial intelligence, and linking them across borders to strengthen energy security and cut costs. That is why in September, we launched …",
+      "link": "https://transcripts.un.org/en/asset/k1n/k1nxs84biw?t=1:59"
+    },
     {
       "meetingId": "asset/k1h/k1hkzdo46m",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "Second Committee",
       "snippet": "… notes immediately before consideration of items, transparent information on preparation, costs, and usage, and proper human oversight of any artificial intelligence supported analysis or translation. I do not place responsibility of today's situation on Secretariat alone. The problem is systemic …",
       "link": "https://transcripts.un.org/en/ga/c2/81/6?t=22:17"
-    },
-    {
-      "meetingId": "ga/c3/81/9",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Third Committee, 9th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-07T00:00:00.000Z",
-      "body": "Third Committee",
-      "snippet": "… This includes providing accessible and locally relevant learning materials equipping educators to use these tools effectively and ensuring that artificial intelligence supports human agency, critical thinking, equity, privacy and inclusion. Finally, literacy must remain at the heart of the post-2030 …",
-      "link": "https://transcripts.un.org/en/ga/c3/81/9?t=23:26"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-12T14:28:26.588Z",
+  "generatedAt": "2026-11-12T23:04:18.787Z",
   "matches": [
+    {
+      "meetingId": "briefing/sg/2026-11-12",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "COP31, Lebanon, Yemen & other topics - Daily Press Briefing",
+      "date": "2026-11-12T00:00:00.000Z",
+      "body": null,
+      "snippet": "Thank you, Farahon. In the many efforts that the Secretary General has made involving new technology, especially artificial intelligence. Did he have any dealings with Nvidia’s Jason Huang?",
+      "link": "https://transcripts.un.org/en/briefing/sg/2026-11-12?t=33:01"
+    },
     {
       "meetingId": "asset/k1n/k1nxs84biw",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "Sixth Committee",
       "snippet": "… to effectively respond to the new terrorist threats in the era of the new information and communication technology and artificial intelligence. Madam Chair, All of these efforts made at the international and national level can only be effective when the …",
       "link": "https://transcripts.un.org/en/ga/c6/81/5?t=1:12:32"
-    },
-    {
-      "meetingId": "ga/c2/81/6",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Second Committee, 6th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-07T00:00:00.000Z",
-      "body": "Second Committee",
-      "snippet": "… notes immediately before consideration of items, transparent information on preparation, costs, and usage, and proper human oversight of any artificial intelligence supported analysis or translation. I do not place responsibility of today's situation on Secretariat alone. The problem is systemic …",
-      "link": "https://transcripts.un.org/en/ga/c2/81/6?t=22:17"
     }
   ]
 }

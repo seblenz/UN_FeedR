@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-11-12T23:04:18.787Z",
+  "generatedAt": "2026-11-13T23:07:46.648Z",
   "matches": [
+    {
+      "meetingId": "ga/c3/81/43",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 43rd plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-13T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… to evolve to reflect transformative developments, such as the evidence-based impact of lethal autonomous weapons and military applications of artificial intelligence on the right to life or extrajudicial killing in the context of situations of extended organized crime and armed …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/43?t=3:03:29"
+    },
+    {
+      "meetingId": "ga/c4/81/25",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Fourth Committee, 25th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-13T00:00:00.000Z",
+      "body": "Fourth Committee",
+      "snippet": "… deployed in the operation area. Madam Chair, more investment should be made also in strategic communications digital technology and artificial intelligence to combat misinformation, disinformation, and hate speech that threaten UN peace operations. We welcome the UN strategy for digital …",
+      "link": "https://transcripts.un.org/en/ga/c4/81/25?t=44:30"
+    },
+    {
+      "meetingId": "cescr/46/2",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "46th Meeting, 80th Session, Committee on Economic, Social and Cultural Rights (CESCR)",
+      "date": "2026-11-13T00:00:00.000Z",
+      "body": null,
+      "snippet": "… and Cultural Rights in situations of armed conflict, and discussed a variety of other matters, including a reflection on artificial intelligence and the economic, social and cultural rights, and on business and human rights. The Committee adopted a statement on …",
+      "link": "https://transcripts.un.org/en/cescr/46/2?t=25:15"
+    },
     {
       "meetingId": "briefing/sg/2026-11-12",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": "Sixth Committee",
       "snippet": "… should strengthen global governance in emerging areas such as cyberspace, outer space, the deep sea, the polar regions, and artificial intelligence, with a view to preventing them from becoming yet another source for rivalry, but rather promote cooperation in these …",
       "link": "https://transcripts.un.org/en/ga/c6/81/6?t=49:09"
-    },
-    {
-      "meetingId": "hrc/63/43",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "43rd Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-10-07T00:00:00.000Z",
-      "body": null,
-      "snippet": "… on gross violations of human rights and serious violations of IHL and the principles to be followed. New technologies, artificial intelligence systems and social media, and their increasingly important place as tools for traditional justice activities, while also raising awareness …",
-      "link": "https://transcripts.un.org/en/hrc/63/43?t=18:49"
-    },
-    {
-      "meetingId": "hrc/63/44",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "44th Meeting - 63rd Session of Human Rights Council",
-      "date": "2026-10-07T00:00:00.000Z",
-      "body": null,
-      "snippet": "… is pleased to co-sponsor. We recognize the Council's responsibility to address the human rights implications of emerging technologies, including artificial intelligence, and hope these resolutions contribute to safeguarding human rights while enabling us to harness AI's opportunities. Malaysia is also …",
-      "link": "https://transcripts.un.org/en/hrc/63/44?t=1:17:58"
-    },
-    {
-      "meetingId": "ga/c6/81/5",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Sixth Committee, 5th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-07T00:00:00.000Z",
-      "body": "Sixth Committee",
-      "snippet": "… to effectively respond to the new terrorist threats in the era of the new information and communication technology and artificial intelligence. Madam Chair, All of these efforts made at the international and national level can only be effective when the …",
-      "link": "https://transcripts.un.org/en/ga/c6/81/5?t=1:12:32"
     }
   ]
 }

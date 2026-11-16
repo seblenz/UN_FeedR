@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-13T23:07:46.648Z",
+  "generatedAt": "2026-11-16T14:30:20.967Z",
   "matches": [
+    {
+      "meetingId": "asset/k1d/k1dq5j9bet",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "1st Meeting, 6th Session Forum on Human Rights, Democracy and the Rule of Law",
+      "date": "2026-11-16T00:00:00.000Z",
+      "body": null,
+      "snippet": "… ministers, excellencies, and ladies and gentlemen. So I'm here in order to talk about education. Reflexive education, more precisely, artificial intelligence, and of course, the target would be civic education. Besides being a minister, I'm a professor for the last …",
+      "link": "https://transcripts.un.org/en/asset/k1d/k1dq5j9bet?t=38:35"
+    },
+    {
+      "meetingId": "asset/k1m/k1mw02yjrj",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Announcement of the result of the vote on the election of the ILO Director-General",
+      "date": "2026-11-16T00:00:00.000Z",
+      "body": null,
+      "snippet": "… of decent work. Among the challenges that face us moving forward, none is perhaps more key than that of artificial intelligence. This transformation offers considerable prospects, but also raises fundamental questions concerning employment, skills, organisation of work and human dignity. …",
+      "link": "https://transcripts.un.org/en/asset/k1m/k1mw02yjrj?t=4:10"
+    },
     {
       "meetingId": "ga/c3/81/43",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… into details and we understand that Gen. Z has a problem of food education, but they use, uh, uh, artificial intelligence, uh, like, uh… a lot, I would say, without having really this, I would say, food intelligence, so a …",
       "link": "https://transcripts.un.org/en/asset/k16/k16ukylxlt?t=32:41"
-    },
-    {
-      "meetingId": "ga/c3/81/10",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Third Committee, 10th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-07T00:00:00.000Z",
-      "body": "Third Committee",
-      "snippet": "… the adoption of the Doha Declaration on Strengthening International Cooperation and Technical Assistance and Seizing the Opportunities Provided by Artificial Intelligence in Preventing and Combating Corruption. In conclusion, we will continue to combat drug trafficking, prevent corruption. I thank you, …",
-      "link": "https://transcripts.un.org/en/ga/c3/81/10?t=40:17"
-    },
-    {
-      "meetingId": "ga/c6/81/6",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Sixth Committee, 6th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-07T00:00:00.000Z",
-      "body": "Sixth Committee",
-      "snippet": "… should strengthen global governance in emerging areas such as cyberspace, outer space, the deep sea, the polar regions, and artificial intelligence, with a view to preventing them from becoming yet another source for rivalry, but rather promote cooperation in these …",
-      "link": "https://transcripts.un.org/en/ga/c6/81/6?t=49:09"
     }
   ]
 }

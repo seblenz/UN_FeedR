@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-11-17T15:21:03.882Z",
+  "generatedAt": "2026-11-18T00:21:42.349Z",
   "matches": [
+    {
+      "meetingId": "asset/k1b/k1bmbl34gu",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "4th Meeting, 6th Session Forum on Human Rights, Democracy and the Rule of Law",
+      "date": "2026-11-17T00:00:00.000Z",
+      "body": null,
+      "snippet": "… panelists. whose work actually explores opportunities from different perspectives, from civic education to gaming communities and to virtual reality, artificial intelligence, and a lot, a lot of youth-led innovation. So really looking forward to learn from you. And allow me …",
+      "link": "https://transcripts.un.org/en/asset/k1b/k1bmbl34gu?t=20:12"
+    },
+    {
+      "meetingId": "ga/c3/81/45",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 45th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-17T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… without any kind of limitations. We welcome the fact that the text includes human supervision in the use of artificial intelligence and the encouragement of governments to demand technological businesses to mitigate risks related to trafficking of persons. In recognition …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/45?t=1:13:12"
+    },
+    {
+      "meetingId": "ga/c3/81/46",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Third Committee, 46th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-17T00:00:00.000Z",
+      "body": "Third Committee",
+      "snippet": "… report to be presented at the 83rd session, focusing on national and international case law concerning emerging technologies and artificial intelligence and the application of international human rights law in this context. Chair, the resolution before us was negotiated in …",
+      "link": "https://transcripts.un.org/en/ga/c3/81/46?t=2:05:48"
+    },
     {
       "meetingId": "asset/k1x/k1xai96y5i",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": null,
       "snippet": "… seizing on fear and division, and their narratives are creating more space in the mainstream for hatred and dehumanization. Artificial intelligence and other technologies-- and you know that we have been very vocal about this, not just of late, but …",
       "link": "https://transcripts.un.org/en/asset/k1m/k1msxyv5oq?t=3:30"
-    },
-    {
-      "meetingId": "ga/c3/81/12",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Third Committee, 12th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-08T00:00:00.000Z",
-      "body": "Third Committee",
-      "snippet": "… time, we warn that the digital era raises new challenges. There is a real risk that digital platforms and artificial intelligence could propagate disinformation, xenophobia and hate speech. This requires urgent international safeguards against algorithmic biases. In the same spirit …",
-      "link": "https://transcripts.un.org/en/ga/c3/81/12?t=1:08:40"
-    },
-    {
-      "meetingId": "ga/c6/81/8",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Sixth Committee, 8th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-08T00:00:00.000Z",
-      "body": "Sixth Committee",
-      "snippet": "… expanded legal outreach to citizens and businesses. New national legislation covers the digital technology industry personal data protection, cybersecurity, artificial intelligence, and digital transformation. The national legal database has been upgraded, and digital platforms are expanding access to legal information, …",
-      "link": "https://transcripts.un.org/en/ga/c6/81/8?t=1:31:36"
-    },
-    {
-      "meetingId": "ga/81/17",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "General Assembly: 17th plenary meeting, 81st session",
-      "date": "2026-10-08T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… Assembly, we must also look to the future. The world confronts emerging challenges, from governance of digital technologies and artificial intelligence to the sustainable use of outer space and the global commons. The Assembly must remain at the center of …",
-      "link": "https://transcripts.un.org/en/ga/81/17?t=59:23"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-20T14:44:30.159Z",
+  "generatedAt": "2026-11-20T23:33:54.929Z",
   "matches": [
+    {
+      "meetingId": "asset/k12/k12ltrb6f0",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Intersessional Consultation on New and Emerging Digital Technologies",
+      "date": "2026-11-20T00:00:00.000Z",
+      "body": null,
+      "snippet": "… important means through which states can implement their own human rights obligations in the context of digital technologies and artificial intelligence. This evolution is significant. The reality is that states are regulators of technology, but they're also procurers, investors, developers, …",
+      "link": "https://transcripts.un.org/en/asset/k12/k12ltrb6f0?t=14:02"
+    },
     {
       "meetingId": "asset/k1j/k1jgx3ev4c",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "Second Committee",
       "snippet": "… building, and digital inclusion is essential to ensure that digital transformation supports sustainable and equitable development for all. Second, artificial intelligence and its governance. The report highlights the extraordinary pace of technological innovation, particularly in artificial intelligence. Advances in generative …",
       "link": "https://transcripts.un.org/en/ga/c2/81/9?t=17:55"
-    },
-    {
-      "meetingId": "ga/c2/81/9",
-      "term": "artificial intelligence capacity building",
-      "termSlug": "artificial-intelligence-capacity-building",
-      "termType": "keyword",
-      "title": "Second Committee, 9th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-09T00:00:00.000Z",
-      "body": "Second Committee",
-      "snippet": "… marginalized in the rapidly evolving digital and AI economy. The group reiterates the need to scale up the artificial intelligence capacity building for sustainable development, leveraging existing United Nations and multi-stakeholder mechanisms to bridge AI divides, facilitate access to AI …",
-      "link": "https://transcripts.un.org/en/ga/c2/81/9?t=56:46"
     }
   ]
 }

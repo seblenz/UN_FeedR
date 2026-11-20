@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-20T00:09:20.982Z",
+  "generatedAt": "2026-11-20T14:44:30.159Z",
   "matches": [
+    {
+      "meetingId": "asset/k1j/k1jgx3ev4c",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "2nd Meeting, RightsX Summit 2026",
+      "date": "2026-11-19T00:00:00.000Z",
+      "body": null,
+      "snippet": "… it's not a surprise that the digital world is already here. That's what we've just been talking about. And artificial intelligence is changing how knowledge is produced. Data is increasingly shaping decisions and digital platforms shape how people access information …",
+      "link": "https://transcripts.un.org/en/asset/k1j/k1jgx3ev4c?lang=floor&t=56:32"
+    },
     {
       "meetingId": "asset/k1k/k1kq5p5utl",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "Second Committee",
       "snippet": "… marginalized in the rapidly evolving digital and AI economy. The group reiterates the need to scale up the artificial intelligence capacity building for sustainable development, leveraging existing United Nations and multi-stakeholder mechanisms to bridge AI divides, facilitate access to AI …",
       "link": "https://transcripts.un.org/en/ga/c2/81/9?t=56:46"
-    },
-    {
-      "meetingId": "ga/c2/81/9",
-      "term": "A/RES/79/325",
-      "termSlug": "a-res-79-325",
-      "termType": "resolution",
-      "title": "Second Committee, 9th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-09T00:00:00.000Z",
-      "body": "Second Committee",
-      "snippet": "… the comprehensive framework for international cooperation on digital technologies, including AI, which will be reviewed during the 82nd session. Resolution 79/325, which very clearly outlines the functioning of both the Independent International Scientific Panel on AI and the Global Dialogue …",
-      "link": "https://transcripts.un.org/en/ga/c2/81/9?t=1:01:18"
     }
   ]
 }

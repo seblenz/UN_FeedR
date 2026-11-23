@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-20T23:33:54.929Z",
+  "generatedAt": "2026-11-23T17:05:11.441Z",
   "matches": [
+    {
+      "meetingId": "asset/k1j/k1jjfofyfw",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Fifty-fourth session of the Industrial Development Board of the United Nations Industrial Development Organization (UNIDO) [1st Plenary]",
+      "date": "2026-11-23T00:00:00.000Z",
+      "body": null,
+      "snippet": "… like to further explore development opportunities with developing countries in emerging areas such as green development, digital economy, and artificial intelligence through platforms such as AIM Global CLE co-developed with UNIDO, and push for the establishment of trust-based digital intelligence …",
+      "link": "https://transcripts.un.org/en/asset/k1j/k1jjfofyfw?t=1:07:34"
+    },
+    {
+      "meetingId": "asset/k1i/k1itf0csgt",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "1st Meeting (Assembly Hall) – 15th Annual Forum on Business and Human Rights 2026",
+      "date": "2026-11-23T00:00:00.000Z",
+      "body": null,
+      "snippet": "… Ghana, representing Edmund Blackmore Foundation. I have two questions. My first question: How can we ensure that businesses using artificial intelligence and digital platforms are held accountable when their technologies contribute to discrimination, exploitation, or human rights violations against vulnerable …",
+      "link": "https://transcripts.un.org/en/asset/k1i/k1itf0csgt?t=55:12"
+    },
     {
       "meetingId": "asset/k12/k12ltrb6f0",
       "term": "artificial intelligence",
@@ -2178,28 +2200,6 @@
       "body": null,
       "snippet": "… the number of women participating in all fields of public and political life, including international organizations, diplomacy, defense, police, artificial intelligence, technology, and the judiciary, and of course, government departments, if you can? Number three, Excellencies, is quite a very …",
       "link": "https://transcripts.un.org/en/cedaw/3016?t=2:37:53"
-    },
-    {
-      "meetingId": "asset/k1u/k1uqiksa9q",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Youth Mobilization Segment - Third Committee, General Assembly, 81st session",
-      "date": "2026-10-09T00:00:00.000Z",
-      "body": "Third Committee",
-      "snippet": "Today, in my capacity as first vice president of the Arab Union for Artificial Intelligence and Programming, I represent the Arab Union, an organization whose vital mission is to spread the sciences of artificial …",
-      "link": "https://transcripts.un.org/en/asset/k1u/k1uqiksa9q?t=1:30:59"
-    },
-    {
-      "meetingId": "ga/c2/81/9",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Second Committee, 9th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-09T00:00:00.000Z",
-      "body": "Second Committee",
-      "snippet": "… building, and digital inclusion is essential to ensure that digital transformation supports sustainable and equitable development for all. Second, artificial intelligence and its governance. The report highlights the extraordinary pace of technological innovation, particularly in artificial intelligence. Advances in generative …",
-      "link": "https://transcripts.un.org/en/ga/c2/81/9?t=17:55"
     }
   ]
 }

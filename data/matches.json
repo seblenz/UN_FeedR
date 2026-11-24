@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-11-24T03:42:36.298Z",
+  "generatedAt": "2026-11-24T16:50:34.694Z",
   "matches": [
+    {
+      "meetingId": "asset/k1d/k1dp0hj96u",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Fifty-fourth session of the Industrial Development Board of the United Nations Industrial Development Organization (UNIDO) [3rd Plenary]",
+      "date": "2026-11-24T00:00:00.000Z",
+      "body": null,
+      "snippet": "… economic communities to promote intra-African trade and regional growth. UNIDO should place greater emphasis on digital transformation, innovation, and artificial intelligence, and explore hydro energy as part of its diversified mix of renewable energy resources. South Africa calls for more …",
+      "link": "https://transcripts.un.org/en/asset/k1d/k1dp0hj96u?t=1:01:24"
+    },
+    {
+      "meetingId": "asset/k1z/k1ztju9wo3",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "High-level strategic dialogue on the future of industrialization",
+      "date": "2026-11-24T00:00:00.000Z",
+      "body": null,
+      "snippet": "… new paradigm of industrial development. The world is changing fast. Geopolitical politics often divide us. Climate change threatens us. Artificial intelligence is reshaping how we produce and how we work, how we live. Millions of young people need a job, …",
+      "link": "https://transcripts.un.org/en/asset/k1z/k1ztju9wo3?t=42:48"
+    },
+    {
+      "meetingId": "asset/k1n/k1ny3twfdl",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "International Day 2026 for the Elimination of Violence Against Women",
+      "date": "2026-11-24T00:00:00.000Z",
+      "body": null,
+      "snippet": "… secondly, we must make technology serve justice. not shield abuse. Harassment, threats, and abuse facilitated by digital platforms and artificial intelligence cause real harm. Governments need to ensure that the law protects women and girls online as well as offline. …",
+      "link": "https://transcripts.un.org/en/asset/k1n/k1ny3twfdl?t=32:41"
+    },
     {
       "meetingId": "asset/k1z/k1zlipyx2g",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": "Third Committee",
       "snippet": "… evolution of technologies used in warfare, including the expanded use of unmanned aerial systems and the growing integration of artificial intelligence into targeting processes, has placed additional strain on the effective compliance with the special protections afforded to children under …",
       "link": "https://transcripts.un.org/en/ga/c3/81/13?t=19:11"
-    },
-    {
-      "meetingId": "ga/c2/81/11",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Second Committee, 11th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-12T00:00:00.000Z",
-      "body": "Second Committee",
-      "snippet": "… importance of South-South trade, regional integration, and digitally deliverable services as emerging opportunities for entrepreneurs in developing countries. Third, Artificial intelligence is becoming an increasingly important factor in entrepreneurship and enterprise development. Artificial intelligence is creating new opportunities for innovation, …",
-      "link": "https://transcripts.un.org/en/ga/c2/81/11?t=32:20"
-    },
-    {
-      "meetingId": "asset/k1v/k1vi3ln5wi",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Briefing: Ai Kihara-Hunt, UN Special Rapporteur on sale, sexual exploitation and sexual abuse of children.",
-      "date": "2026-10-12T00:00:00.000Z",
-      "body": null,
-      "snippet": "… perpetrators to reach, groom, and exploit children across platforms and borders, including through emerging forms of abuse facilitated by artificial intelligence. Detection, investigation, and protection must keep pace through effective cooperation among states, law enforcement, child protection authorities, technology companies, …",
-      "link": "https://transcripts.un.org/en/asset/k1v/k1vi3ln5wi?t=0:57"
-    },
-    {
-      "meetingId": "ga/81/19/2",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "General Assembly: 19th plenary meeting, 81st session",
-      "date": "2026-10-12T00:00:00.000Z",
-      "body": "General Assembly",
-      "snippet": "… the protection of migrants and indigenous persons. The declaration also addresses contemporary challenges. It recognizes that digital technologies and artificial intelligence can propagate racial hatred and reinforce discriminatory biases, while also offering opportunities to promote tolerance. It calls for safeguards …",
-      "link": "https://transcripts.un.org/en/ga/81/19/2?t=0:33"
     }
   ]
 }

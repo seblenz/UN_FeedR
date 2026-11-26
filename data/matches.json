@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-11-25T01:49:47.575Z",
+  "generatedAt": "2026-11-26T01:26:20.874Z",
   "matches": [
+    {
+      "meetingId": "ga/c2/81/23",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Second Committee, 23rd plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-25T00:00:00.000Z",
+      "body": "Second Committee",
+      "snippet": "… in the text that G77 and China tabled, which recognizes, among others, the opportunities offered by digital technologies, including artificial intelligence, while addressing the gender digital divide and algorithmic bias, the need to prevent and respond to violence against women …",
+      "link": "https://transcripts.un.org/en/ga/c2/81/23?t=2:33:21"
+    },
+    {
+      "meetingId": "ga/c2/81/23",
+      "term": "A/RES/79/325",
+      "termSlug": "a-res-79-325",
+      "termType": "resolution",
+      "title": "Second Committee, 23rd plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-25T00:00:00.000Z",
+      "body": "Second Committee",
+      "snippet": "… in light of these considerations that should be understood positions of Argentina expressed regarding the Global Digital Compact and Resolution 79/325, as well as our decision not to support the consolidation of mechanisms derived from these instruments. Madam Chair. Each …",
+      "link": "https://transcripts.un.org/en/ga/c2/81/23?t=15:45"
+    },
+    {
+      "meetingId": "sc/10278/3",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Conflict resolution in an era of rapid technological change - Security Council, 10278th meeting (resumed)",
+      "date": "2026-11-25T00:00:00.000Z",
+      "body": "Security Council",
+      "snippet": "… welcome Latvia's decision to prioritize this important issue and thank the briefers for their valuable insights. Emerging technologies, including artificial intelligence, can be both a shield and a sword. As a shield, they can strengthen early warning, mediation, peacekeeping, and …",
+      "link": "https://transcripts.un.org/en/sc/10278/3?t=17:22"
+    },
     {
       "meetingId": "sc/10278",
       "term": "artificial intelligence",
@@ -2167,39 +2200,6 @@
       "body": "Third Committee",
       "snippet": "… said in other committees, every empty promise diminishes trust. Third, ensure that technology advances rights rather than erodes them. Artificial intelligence and digital technologies can widen access to services and justice. They can be great accelerators of human progress. At …",
       "link": "https://transcripts.un.org/en/ga/c3/81/15?t=18:46"
-    },
-    {
-      "meetingId": "asset/k1n/k1nttffsux",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "5th meeting, 12th Session of Open-ended Intergovernmental Working Group on Transnational Corporations",
-      "date": "2026-10-14T00:00:00.000Z",
-      "body": null,
-      "snippet": "… explicitly includes financial institutions, investment funds and transnational business groups. Four includes for the first time direct reference to artificial intelligence and activities carried out through electronic or digital means. Now, as a reference to the work of the Group …",
-      "link": "https://transcripts.un.org/en/asset/k1n/k1nttffsux?t=1:32:04"
-    },
-    {
-      "meetingId": "asset/k1q/k1qivn74tt",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Alexander De Croo (UNDP) on the meetings of the International Monetary Fund (IMF) & the World Bank Group - Press Conference",
-      "date": "2026-10-13T00:00:00.000Z",
-      "body": null,
-      "snippet": "… needing jobs in the next 15 years and only 400 million. Can you tell us whether the impact of artificial intelligence played into those figures and how the IMF and the World Bank are trying to address particularly the issue …",
-      "link": "https://transcripts.un.org/en/asset/k1q/k1qivn74tt?t=8:18"
-    },
-    {
-      "meetingId": "ga/c6/81/14",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Sixth Committee, 14th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-13T00:00:00.000Z",
-      "body": "Sixth Committee",
-      "snippet": "… and in conformity with national law. Nigeria further supports cooperation that gives developing countries access to new technologies, including artificial intelligence, for early warning and anticipatory action. used alongside community knowledge and national disaster risk reduction systems. Furthermore, Nigeria is …",
-      "link": "https://transcripts.un.org/en/ga/c6/81/14?t=54:55"
     }
   ]
 }

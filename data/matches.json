@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:11:50.368Z",
+  "generatedAt": "2026-11-27T01:23:40.715Z",
   "matches": [
     {
       "meetingId": "asset/k17/k17vb9iiy6",
@@ -11,6 +11,17 @@
       "body": null,
       "snippet": "… what do those companies do? Equipment and instruments, automotive, green technology, energy. One member in five works with the artificial intelligence. 101 companies, up from 89 in August, so more and more companies adopt the artificial intelligence technology. And we …",
       "link": "https://transcripts.un.org/en/asset/k17/k17vb9iiy6?t=51:20"
+    },
+    {
+      "meetingId": "ga/c2/81/24",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "Second Committee, 24th plenary meeting - General Assembly, 81st session",
+      "date": "2026-11-25T00:00:00.000Z",
+      "body": "Second Committee",
+      "snippet": "… unacceptable. Finally, the EU and its Member States need to dissociate ourselves from PP28, as we do not consider artificial intelligence to be an information and communication technology. Chair, the European Union did not break silence on the co-facilitator's text …",
+      "link": "https://transcripts.un.org/en/ga/c2/81/24?t=17:50"
     },
     {
       "meetingId": "asset/k1c/k1c303uvmf",
@@ -2189,17 +2200,6 @@
       "body": "Second Committee",
       "snippet": "… low value-added segments of green value chains, such as the pure extraction of critical minerals. Second, The rise of artificial intelligence and the digitalization of production provide opportunities to leapfrog older production models towards smart manufacturing. However, if skills, infrastructure, …",
       "link": "https://transcripts.un.org/en/ga/c2/81/14?t=31:23"
-    },
-    {
-      "meetingId": "ga/c6/81/15",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Sixth Committee, 15th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-14T00:00:00.000Z",
-      "body": "Sixth Committee",
-      "snippet": "… sharing of expertise and of access to early warning systems as well. We have the view that advances in artificial intelligence should also be harnessed to further disaster prevention, all the while drawing on local knowledge and community resilience mechanisms. …",
-      "link": "https://transcripts.un.org/en/ga/c6/81/15?t=1:42:25"
     }
   ]
 }

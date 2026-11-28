@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-27T15:57:47.440Z",
+  "generatedAt": "2026-11-28T00:56:50.275Z",
   "matches": [
+    {
+      "meetingId": "asset/k1p/k1pki7g2vq",
+      "term": "artificial intelligence",
+      "termSlug": "artificial-intelligence",
+      "termType": "keyword",
+      "title": "4th Meeting, 19th Session of the Forum on Minority Issues",
+      "date": "2026-11-27T00:00:00.000Z",
+      "body": null,
+      "snippet": "… As regional mechanisms strengthen monitoring and accountability for minority rights, we face a defining situation: the rapid deployment of artificial intelligence. Proprietary algorithms utilized in law enforcement, border management, welfare allocation, and content moderation too often reproduce discrimination against ethnic, …",
+      "link": "https://transcripts.un.org/en/asset/k1p/k1pki7g2vq?t=1:11:09"
+    },
     {
       "meetingId": "asset/k11/k11hnf5jl1",
       "term": "artificial intelligence",
@@ -2189,17 +2200,6 @@
       "body": "Second Committee",
       "snippet": "… and inclusion. Resident coordinators report persistent challenges in scaling digital support, and tailoring it to country needs, including on artificial intelligence. Looking across different country contexts, confidence also remains high. All responding LDCs and African countries, together with 96% of …",
       "link": "https://transcripts.un.org/en/ga/c2/81/16?t=18:06"
-    },
-    {
-      "meetingId": "ga/c3/81/16",
-      "term": "artificial intelligence",
-      "termSlug": "artificial-intelligence",
-      "termType": "keyword",
-      "title": "Third Committee, 16th plenary meeting - General Assembly, 81st session",
-      "date": "2026-10-15T00:00:00.000Z",
-      "body": "Third Committee",
-      "snippet": "… discrimination, violence, and attacks on cultural heritage. It also includes recommendations on the human rights-based use of data and artificial intelligence. The Secretary-General's report on the role of the Ombudsman, mediator, and other national human rights institutions, A/81/280, finds that …",
-      "link": "https://transcripts.un.org/en/ga/c3/81/16?t=21:58"
     }
   ]
 }
